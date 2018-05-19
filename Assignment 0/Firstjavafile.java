@@ -1,5 +1,5 @@
-Che-Chi Jack Liu
-V00850558
+//Che-Chi Jack Liu
+//V00850558
 
 public class Simple {
 	public static void main(String[] args) {
