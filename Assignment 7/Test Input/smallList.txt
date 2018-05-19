@@ -1,0 +1,6 @@
+5
+CSC 110 Fundamentals of Programming I
+PHYS 102 General Physics
+MATH 100 Calculus I
+ENGL 135 Academic Reading and Writing
+ECON 103 Principles of Microeconomics

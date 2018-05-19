@@ -1,0 +1,11 @@
+10
+PHYS 323 Quantum Mechanics I
+CSC 498 Bioinformatics Project
+ENGL 341 Old English Literature
+PHYS 342 Computers in Science
+CSC 110 Fundamentals of Programming I
+PHYS 102 General Physics
+MATH 100 Calculus I
+ENGL 135 Academic Reading and Writing
+CSC 225 Algorithms and Data Structures I
+MATH 211 Matrix Algebra I

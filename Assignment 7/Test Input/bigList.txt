@@ -1,0 +1,31 @@
+30
+GRS 200 Greek and Roman Mythology
+ECON 103 Principles of Microeconomics
+ECON 305 Money and Banking
+GEOG 406 Sustainable Cities
+HINF 603 Methods in Health Informatics
+CSC 498 Bioinformatics Project
+MATH 211 Matrix Algebra I
+HINF 130 Introduction to Health Information Technology
+ENGL 135 Academic Reading and Writing
+PHYS 303 Origin of Space, Time and Matter in the Universe
+CSC 115 Fundamentals of Programming II
+GRS 503 Latin Literature
+EOS 110 Oceans and Atmosphere
+HINF 371 Clinical Methodologies
+CSC 225 Algorithms and Data Structures I
+MATH 100 Calculus I
+COM 361 International Business
+ENGL 502 Teaching Literature and Composition
+PHYS 427 Geophysics
+HINF 602 Theories in Health Informatics
+EOS 551 Introductory Dynamic Meteorology
+PHYS 102 General Physics
+ENGL 341 Old English Literature
+PHYS 210 Introductory Geophysics
+COM 446 Investments
+GEOG 222 Introduction to Maps and GIS
+HINF 200 Principles of Health Database Design
+CSC 110 Fundamentals of Programming I
+MATH 301 Complex Variables
+ECON 453 Economic Growth

@@ -1,0 +1,11 @@
+10
+CSC 110 Fundamentals of Programming I
+MATH 151 Finite Mathematics
+PHYS 102 General Physics
+MATH 100 Calculus I
+CSC 167 Game Strategy, Interaction and Design
+ENGL 135 Academic Reading and Writing
+ECON 103 Principles of Microeconomics
+CSC 130 World Wide Web and Mobile Applications
+MATH 122 Logic and Foundations
+ENGL 147 Great Moments in English Literature

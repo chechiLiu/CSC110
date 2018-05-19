@@ -1,0 +1,4229 @@
+4228
+MEST 320 Topics in Mediterranean Studies
+GEOG 538 Advanced Seminar in Geomatics
+ENGL 250 Literature and Culture
+SOCW 524 Critical Indigenous Analysis of Social Welfare Policy
+CHEM 212 Introductory Quantitative Analysis
+CIVE 410 Solid Waste, Air, and Water Pollution
+EDCI 579 Knowing and Learning in Everyday Contexts
+HA 449 Seminar in Orientalism in Art and Architecture
+PHYS 546 Clinical Shadowing
+COM 270 Financial and Management Accounting For Specialists
+GMST 510 Studies in Medieval Literature
+HA 312 Feminism and Film
+HSTR 481 A Global History of the Chinese Overseas
+GRS 250 Greek and Latin Roots of English in Science and Social Sciences
+SOCW 304 Social Work Practicum I
+MECH 459 Fundamentals of Hybrid Vehicles
+EPHE 584 Pedagogical Issues in Physical Activity and Health
+DR 510 Special Topics in Dispute Resolution
+LING 500 Linguistic Field Methods
+STAT 558 Design and Analysis of Experiments
+CYC 490 Directed Studies in Child and Youth Care
+MUS 390 Special Studies
+POLI 210 Comparative Politics
+EDCI 757 Curriculum and Instruction in Secondary School Mathematics
+ADMN 596 Evaluation Project
+IB 417 International Finance
+BUS 602 Seminar in International Management
+EDCI 636 Advanced Language Processes: Oracy
+ANTH 316 Introduction to Anthropological Research
+CHEM 511 Topics in Instrumental Analysis
+WRIT 321 Issues in Journalism
+HSTR 121 History, Music and the American Century
+EDCI 477 Designs for Learning in French Immersion
+ANTH 380 Directed Experiential Learning in Anthropology
+PHIL 100 Introduction to Philosophy
+ENGL 521 Studies in Renaissance Literature: Special Topic
+THEA 399 Theatre Laboratory
+CYC 481 Assessment and Evaluation in Contemporary Early Years Settings
+ENGL 306 Technical Communication
+MECH 360 Design of Mechanical Elements
+MECH 493 Design of Thermo-Fluid Systems
+STAT 354 Sampling Techniques
+ELEC 320 Electronic Devices I
+ENGL 457 Literary and Cultural Criticism in Canada
+ES 344 Study Design and Data Analysis
+EPHE 597 Comprehensive Examination - Exercise Science, Physical and Health Education
+BCMB 540 Cancer Immunology from Bench to Bedside
+CHEM 091 Introduction to Chemistry I
+ADMN 602 Research Methods in Public Administration
+MGB 512 International Financial Management
+EOS 440 Hydrogeology
+GMST 350 A Short History of German Film
+GMST 551 20<sup>th</sup>-Century Cultural Studies II
+THEA 524 MFA Practicum
+MRNE 420 Marine Phycology
+ED-D 480 Contemporary Topics in Education - Educational Psychology and Leadership Studies
+LING 592 Labovian Variationist Sociolinguistics
+PAAS 465 Seminar on Oceania
+ENGL 385 Special Studies in 19th-Century British Literature
+BIOL 489 Conceptual Foundations of Biosciences
+ECON 103 Principles of Microeconomics
+WRIT 201 Poetry Workshop
+PHIL 440 Advanced Aesthetics
+SOCW 354 Indigenous Perspectives on Practice Issues
+THEA 690 Directed Studies
+ENGL 580 Studies in Commonwealth and Postcolonial Literatures: Area Course
+IED 530 Indigenous Research Methods
+WRIT 218 Screenwriting Workshop
+ANTH 599 Thesis
+PSYC 503 Practicum in Clinical Psychology
+SOCI 320 Mass Media and Popular Culture
+HLTH 350 Introduction to Health Research
+WS 345 Lesbian and Queer Literature
+BUS 604 Seminar in Global Issues of Business Sustainability
+GEOG 308 Introduction to Geographic Information Systems
+ED-D 401 Introduction to Psychology of Classroom Learning
+POLI 329 The Political Foundations of International Law
+BIOC 401 Gene Expression in Eukaryotes
+CHEM 421 Advanced Inorganic Chemistry
+ES 441 Advanced Principles and Concepts in Ecological Restoration
+CSC 561 Multimedia Systems
+THEA 521 Advanced Problems in Lighting Design
+POLI 340 International Studies
+EDCI 644 Research Foundations for Remedial Reading
+SOCW 516 Research Methodologies
+CYC 351 Applying Change Theory in CYC Practice with Contemporary Families
+PAAS 118 Intensive Beginner Modern Chinese I
+MECH 528 Global Optimization and Quantitative Reasoning Techniques
+PHYS 111 Introductory Physics II
+ADMN 470 Contemporary Topics in Administration
+MECH 330 Machine Dynamics
+SLST 301 Advanced Russian
+LAW 327 Jurisprudence
+ENGL 413 Studies in Film and Literature
+FRAN 455 Dada and Surrealism: the End of the Novel
+EDCI 601 Interdisciplinary Doctoral Seminar
+EDCI 603 Doctoral Seminar in Curriculum Studies
+ED-D 416 Effective Interpersonal Communication Skills for Special Education
+EDCI 556 Language Processes in the School Curriculum: Writing and Representing
+HA 323 Byzantine History in Art
+PSYC 492 Research Seminar in Psychology
+ENGL 477 Indigenous Literature in English
+FRAN 515 Studies in French-Canadian Literature
+ELEC 250 Linear Circuits I
+LAS 300 Special Topics in Latin American Studies (in English)
+ENGR 446 Technical Report
+EPHE 246 Teaching Strategies for Active Health
+MGB 182 Language Skills III
+SOCW 460 Special Topics in Social Work and Social Welfare
+THEA 331 Directing I
+BIOL 359 Food, Disease and People
+PSYC 210 Conceptual Foundations of Psychology
+PHIL 314 19th-Century Philosophy
+CYC 562 Special Topics in Child and Youth Care Intervention
+LAW 383 Municipal Law and Sustainability
+SPAN 599 MA Thesis/Oral
+ART 150 Introduction to Contemporary Art Theory: Practice and Criticism
+NUED 571 Critical Pedagogy in Nursing Education and Evaluation
+GRS 371 Greek Art and Archaeology
+CHEM 478 Introduction to the Chemical Process Industries
+BIOL 510 Advanced Topics in Ichthyology
+CIVE 352 Reinforced Concrete Structures and Green Construction
+MUS 531 Topics in Musicology After 1750
+THEA 499 Theatre Laboratory
+MECH 485 Mechanism and Manipulator Synthesis
+LING 497 Advanced Topics in Linguistics
+SOCI 388 Food and Society
+LING 461 Linguistic Field Methods
+PAAS 370 Indonesian and Pacific Literature
+PAAS 400 Advanced Research Seminar
+EPHE 351 Community and Population Health
+SOCW 312 Collaborative Conversations: Working within Communities
+LAW 337 Dispute Resolution: Theory and Practice
+THEA 514 Seminar in Design
+HSTR 200 Topics in History
+GMST 280 Masterpieces of Literature
+BCMB 535 Practical Crystallography
+PHSP 591 Special Topics in Public Health Studies
+MECH 464 Mechatronics Design Project
+BIOL 215 Principles of Ecology
+ASTR 405 Introduction to Cosmology
+PAAS 295 Islam in the Asia-Pacific
+PSYC 699 PhD Dissertation
+WS 339 Topics in Feminist Theories and Activism
+ENGL 461 Introduction to Contemporary Literary Theory
+ECON 546 Themes in Econometrics
+ENGR 498 Engineering Law
+EDCI 591 Selected Topics in Education
+HSTR 389 Topics in Public History
+WRIT 410 Special Genres Lecture
+CENG 242 Discrete Structures in Engineering
+GEOG 476 Advanced Studies in Geomorphology
+SOCW 433 Working with Trauma
+ECON 312 Urban Land Economics
+WRIT 109 The Writer's World in Books and Film
+GRS 350 Late Antiquity
+PHIL 223 Introduction to Philosophy of the Social Sciences
+ELEC 598 MEng Project
+SOCW 540 Foundation Practicum
+FRAN 411 The French-Canadian Novel from the Origins to the Modern Period
+HA 339 The Global Renaissance
+MECH 449 Fuel Cell Technology
+HA 478 Seminar in Popular Culture
+ECON 383 Climate Economics
+ED-D 410 Teacher as Leader: The Professional Role
+BUS 605 Seminar in Cross-cultural Management
+THEA 223 Introduction to Voice
+THEA 312 Pre-modern Japanese Theatre
+WRIT 305 Playwriting Workshop
+BIOL 518 Electron Microscopy
+ENGL 530 Studies in the Literature of the 17<sup>th</sup> Century: Area Course
+EDCI 647 Advanced Course in Secondary English Education
+LING 596 Cross-Cultural Communication
+CHEM 347 Quantum Chemistry
+HSTR 490 Directed Reading
+EPHE 242 Introduction to Human Cellular Physiology
+NRSC 693 Candidacy Examination
+LAW 349 Business Law Clinic
+LING 157 Learning to Learn: Supporting Indigenous Language Learning
+ES 461 Environmental Impact Assessment
+CSPT 690 Directed Readings
+ECON 485 Topics in Economics
+HA 502 Special Topics in the History of Art
+THEA 319 Studies in Renaissance Theatre
+HINF 420 Societal Implications of Information Technology
+EPHE 573 Research Methods
+PHIL 514 Topics in Cognitivist Philosophies of Mind
+ANTH 441 Archaeological Method and Theory
+HA 509 Workshop in Art Historical Writing
+ADMN 620 Policy and Institutional Design and Analysis
+ADMN 699 Dissertation
+PSYC 534 Univariate Design and Analysis
+HUMA 295 Introductory Topics in Humanities
+HA 560 Seminar in Modern Art I (1870-1945)
+ED-D 414 Group Processes
+PADR 501 Collaboration and Engagement 
+ANTH 394 Selected Problems in Anthropology: Biological Anthropology
+MUS 326 Topics in the History of Jazz
+COM 445 Corporate Finance
+MECH 421 Mechanical Vibrations
+CSC 466 Overlay and Peer-to-Peer Networking
+MATH 540 Topology
+THEA 318 Studies in 20th-Century Theatre
+SOCI 598 Extended Essay
+GMST 202 Intermediate German II
+ENGL 506 Studies in Literary Theory: Special Topic
+PAAS 521 Special Topics in Asia-Pacific Literature, Linguistics and Culture
+EDCI 459 Diagnosis and Intervention in Mathematics
+SOCW 549 Research Foundations
+ED-D 300 Educational Psychology
+NURS 510 Applied Statistics in Nursing
+PHIL 309 Kant
+MATH 102 Calculus for Students in the Social and Biological Sciences
+PHIL 430 Advanced Ethics
+ANTH 315 Living Technologies
+ELEC 543 Design of Digital and VLSI Systems
+MECH 494 Thermofluids and Introduction to Mass Transfer
+COM 420 Managing in a Unionized Environment
+HSTR 101 Discovering the Past
+POLI 323 Issues in Politics
+SOCW 472 Social Work Practice in the Field of Addictions
+FA 225 Introduction to the Arts of Canada
+ANTH 323 Anthropology of the Circumpolar Region
+LAW 387 Health Law
+ARTS 290 Individual Study
+ECON 552 Macroeconomic Issues
+MATH 100 Calculus I
+GEOG 276 Introduction to Geomorphology
+ENGL 343 Later Middle English Literature
+EDCI 559 Adult Learning in the Organizational Setting
+SOCW 531 Critical Exploration of Leadership Roles for Social Workers in Health Care
+INGH 454 Leadership in First Nation Communities
+MECH 498 Honours Thesis
+CD 506 Enterprise Development for Community Benefit
+FA 335 Popular Culture
+ITAL 599 MA Thesis/Oral
+PSYC 599 Thesis
+GRS 204 The Ancient World on Film
+ECON 525 Public Finance and Fiscal Policy
+SENG 401 Social and Professional Issues
+ES 682 Seminar in Ecological Restoration
+FRAN 512 Studies in 19th-Century Literature
+EDCI 454 Environmental Education
+HSTR 378 History of the Israeli-Palestinian Conflict
+THEA 510 Costume Design
+ECON 329 Development and Economics
+LAW 388 Advanced Legal Research and Writing
+PAAS 103 War and Peace in Asia and the Pacific
+EDCI 761 Curriculum and Instruction in Secondary School Music
+EOS 201 Sedimentary Geology
+ENGL 435 Modernist Poetry
+THEA 379 Musical Theatre Workshop: Singing
+HA 690 Directed Studies PhD Level
+ITAL 598 Master's Essay
+HINF 490 Directed Study
+SPAN 598 Master's Essay
+WRIT 303 Poetry Workshop
+MBA 514 Business and Sustainability
+PSYC 575 Cognition and Brain Science
+THEA 229 Theatre Performance
+WS 329 Topics in Power, Identities and Difference
+NURS 325 Explorations of Nursing Knowledge and Practice
+PSYC 360 Psychological Disorders of Adulthood
+CHEM 533 Organic Synthesis
+PAAS 250 Engendering China
+THEA 693 Dissertation Proposal/Candidacy Exam
+MATH 449 Scientific Computing
+MRNE 501 Special Topics
+SLST 101 Beginning Russian I
+ART 490 Directed Studies
+HA 584 Advanced Seminar in Contemporary Art: The Pacific Northwest
+CD 596 Group Project
+MBA 535 Operations Management
+THEA 210 Theatre from French Classicism to the End of the 19<sup>th</sup> Century
+ED-D 610 Contemporary Issues in Higher Education
+POLI 607 Comparative Policy and Governance
+IGOV 598 Community Governance Project
+ANTH 491 Directed Studies in Anthropology: Ethnology
+PAAS 394 Pre-modern Japanese Theatre
+BCMB 538 Bacterial Pathogen Alteration of Eukaryotic Host Cell Functions
+BCMB 533 Cell Signalling
+MRNE 502 Special Topics
+DHUM 502 Core Concepts and Skills
+CIVE 460 Intelligent Transportation Systems
+MATH 586 Operator Theory Seminar
+GRS 504 Roman History
+MUS 508 Musical Acoustics
+DSST 441 Enabling Technologies
+CHEM 463 Advanced Organic Chemistry Laboratory
+POLI 335 Gender and Politics
+PSYC 526 Special Topics in Personality and Social Psychology
+BIOL 520 Techniques in Molecular Biology
+MATH 451 Probability
+ART 581 Second Year Seminar
+SPP 590 Directed Studies
+THEA 351 Introduction to Scenic Design
+BIOL 334 Plants and People
+SOCI 401 Sociology of Law
+ENGL 381 Late Victorian and Edwardian Fiction
+MECH 200 Engineering Drawing
+LING 373 Second Language Acquisition
+POLI 350 Introduction to Public Administration
+COM 400 Strategic Management
+THEA 512 Directing
+GRS 344 The Fall of the Roman Republic
+PAAS 338 Intermediate Japanese II
+MBA 585 Consulting Methods
+ANTH 312 Introduction to Medical Anthropology
+ANTH 200 Cultural and Social Anthropology
+PAAS 221 Intermediate Indonesian-Malay II
+ITAL 149 Beginners' Italian
+PSYC 531 Environmental Psychology
+WS 340 Indigenous Cinema
+CSC 370 Database Systems
+MATH 236 Introduction to Real Analysis
+ELEC 450 Communications Theory and Systems II
+HINF 330 Legal Issues in Health Informatics
+CYC 480 Advanced Applied Capacity Building for the Early Years
+ED-D 690 Advanced Directed Studies in Educational Psychology
+NURS 508 Methodological Knowledge and Advanced Practice Nursing
+CYCB 120 Introduction to Play (ECCE)
+POLI 380 Communication and Politics
+PAAS 401 Seminar on Culture in Asia and the Pacific
+PSYC 522 Cultural Psychology
+SPAN 375 Spanish Literature Since 1700
+PAAS 409 Globalization, Cosmopolitanism and Asian-Pacific Cultures
+MECH 242 Dynamics
+ELEC 503 Engineering Design by Optimization I
+LING 690 Individual Studies
+NURS 620 Research Internship
+ENGL 551 Studies in the Literature of the 19<sup>th</sup> Century: Special Topic
+ED-D 519 Advanced Seminars in Counselling Psychology
+CIVE 351 Sustainable Design of Steel and Timber Structures
+ART 551 First Year Digital Media
+BCMB 539 Practical Bioinformatics
+NUED 573 Nurse Educator Practice I
+CYC 470 Child and Youth Care Practice in Mental Health Settings
+GEOG 548 Advanced Topics in Geomatics
+IB 301 The International Environment of Business
+ED-D 509 Psychology of Learning and Instruction
+MEDI 442 Common Grounds in European Medieval Literature (in English)
+EPHE 572 Physiology in Physical Education and Sport
+ED-P 360 Field Experience Seminar (Elementary or Middle Years Post Degree)
+ENGR 004 Work Term 4
+COM 240 Management Finance
+AGEI 470 Health, Family and Community Care Systems in Ageing
+ER 200 Scientific Principles and Concepts for Environmental Restoration
+MUS 447 Jazz Improvisation
+CIVE 360 Sustainable Transportation Systems and Urban Communities
+CSC 551 Computer Communications and Networks II
+ECON 450 Game Theory in Economics
+THEA 398 Directed Studies in Lighting Design
+PHYS 215 Introductory Quantum Physics
+SOCW 547 Historicizing Social Work: Friendly Visits to Social Justice
+COM 390 Canadian Business Environment
+EOS 315 Acoustical Oceanography
+FRAN 517 Studies in Francophone African Literatures
+MATH 699 Dissertation
+PHIL 531 Topics in Non-Classical Logic
+ES 348 Biodiversity and Conservation Biology
+BIOL 360 Cell Biology
+EDCI 747 Curriculum and Instruction in Secondary School English
+EOS 403 Global Biogeochemical Cycles
+PAAS 358 Screening the Nation: Nationalism, Ideology, and Politics in Chinese Cinema
+CHEM 645 Advanced Electrochemistry
+CYC 590 Directed Studies in Child and Youth Care
+HLTH 403 Community Development and Capacity Building
+ITAL 350 Advanced Italian Grammar
+HSTR 591 Directed Reading - Topical Field
+SPAN 205 Topics in Hispanic Culture (in English)
+ELEC 566 Computer Networks and Distributed Systems
+MRNE 500 Directed Studies
+BIOL 230 Principles of Genetics
+LAW 340 Indigenous Lands, Rights and Governance
+CYCI 487 Models, Programs and Strategies for Intervention in Early Childhood Care and Development
+MUS 340 Individual Tuition
+LING 361 Anthropological Linguistics
+WS 430 Theorizing Feminisms
+POLI 103 The Worlds of Politics
+DR 590 Directed Studies
+COM 426 Management Accounting II
+CD 516 Government, Business and Non-profit Sector Relations
+CSC 467 Switching, Network Traffic and Quality of Service
+EPHE 581 Psychological Issues in Physical Activity and Health
+CIVE 345 Fluid Mechanics
+MECH 430 Robotics
+GRS 328 Myth and Theory
+CH 563 Visitor Experiences
+ANTH 561 Selected Topics in Linguistic Anthropology
+CH 571 Determining Significance of Heritage Resources
+CSPT 590 Directed Readings
+PSYC 517 Research Methods in Psychology
+PHYS 217 Thermodynamics
+BIOL 418 Plant Ecology
+CENG 455 Real Time Computer Systems Design Project
+THEA 352 Scenic Design
+ECON 112 Strategy, Conflict and Co-operation
+CHEM 245 Introductory Physical Chemistry
+PHSP 542 Advanced Public Health Nursing Practice
+ART 211 Painting
+GRS 599 MA Thesis
+MECH 693 Candidacy Examination
+CHEM 521 Advanced Inorganic Chemistry
+FA 356 Management Skills for the Artist
+ADMN 478 European Union Urban Region Policies
+PHSP 504 Supportive Environments and Healthy Public Policy
+HINF 345 Networks, Interoperability and Systems Security
+FRAN 524 Studies in Editorial Mediations
+ER 352 Non-Timber Forest Management and Sustainable Use in Major Forest Zones of BC
+GEOG 371 Water Resources Management
+ELEC 459 Applications of Digital Signal Processing Techniques
+CIVE 350 Structural Analysis
+LAW 359 Civil Liberties and the Charter
+MEDI 495 Field School in Medieval Studies
+IED 187 Special Topics in Indigenous Education
+THEA 225 Introduction to Stage Movement
+GEOG 487 Advanced Landscape Ecology
+ANTH 460 Ethnographic Mapping and Indigenous Cartographies
+PHIL 311 Existentialist Thinkers
+ASTR 101 Exploring the Night Sky
+ANTH 494 Directed Studies in Anthropology: Biological Anthropology
+MECH 580 Selected Topics in Mechanical Engineering
+EPHE 114 Creative Dance
+MUS 335 Singing for the Stage
+LAW 110 Legal Research and Writing
+MATH 463 Algebraic Number Theory
+ED-D 567 Case Study and Mixed Method Research
+LING 420 Historical and Comparative Linguistics
+THEA 426 Stage Movement IV
+ECON 530 Economics of Natural Resources
+EDCI 428 Adaptation of Curriculum and Instructional Strategies (Mathematical)
+HA 397 Impressionism: A Social History
+LING 392 Canadian English and Dialectology
+HSD 490 Directed Studies
+POLI 600 Professional Development Seminar
+CSC 130 World Wide Web and Mobile Applications
+EDCI 547 Issues in English Education in the Secondary Grades
+CHEM 361 Analytical Chemistry Laboratory
+THEA 397 Directed Studies in Costume Design
+PHIL 337 Ethics: Theory and Practice
+EOS 693 PhD Candidacy Examination
+POLI 580 Legislative Internship Report
+PAAS 206 Comics and Graphic Novels in Asia and the Pacific
+ART 103 Foundation Drawing and Painting
+GRS 332 Social and Economic History of Greece
+GEOG 355 Coastal Communities
+ECON 338 History of Economic Thought Since 1870
+ED-P 780 Secondary Field Experience Seminar
+THEA 504 Seminar in North American Theatre History
+AE 319 Photography
+ES 404 Discourses of Environmentalism
+MUS 333 Percussion
+ECON 599 Thesis
+EDCI 570 Research in Curriculum and Instruction in the Elementary Grades
+MECH 522 Mechanics and Dynamics of Machining
+BME 200 Molecular and Cellular Physiology for Engineers
+CYCB 151 Communicating with Children and Guiding Children's Behaviour
+ENGL 590 Directed Reading
+THEA 429 Theatre Performance
+ANTH 552 Selected Topics in Biological Anthropology
+MECH 541 Advanced Thermodynamics
+MUS 345 Seminar in Performance
+STAT 359 Data Analysis
+CYC 130 Professional Communications in Indigenous Child and Youth Care
+BCMB 498 Research Experience
+MATH 205 Multivariable Calculus
+HINF 591 Topics in Health Informatics
+FRAN 480 Directed Studies
+HSTR 412 Seminar in Medieval England
+GEOG 386 Contemporary Geopolitics
+SDH 599 Thesis
+ADMN 577 Strategic Planning and Implementation
+BCMB 532 Regulation of Eukaryotic Gene Expression
+ENGL 583 Studies in Literatures of the West Coast
+PHYS 415 General Relativity and Cosmology
+SOCI 481 Feminist Theory/Feminist Theorizing
+SLST 351 Forbidden Books, Forbidden Films
+MGB 520 Industry Analysis and the Asian Business Context
+THEA 353 Assisting the Scenic Designer
+PHYS 427 Geophysics
+LING 203 Introduction to Morphology and Syntax
+ENTC 540 Entrepreneurship Growth and Context Expertise
+BIOL 225 Principles of Cell Biology
+SOCI 321 Sociology of Work and Occupations
+WS 336 Anti-Racist Feminisms and Democratic Futures
+PAAS 484 Identity in Animated Japanese Cinema
+ITAL 470 Dante's Divine Comedy (in English)
+FRAN 453 Decadence and Symbolism
+SENG 440 Embedded Systems
+ANTH 395 Selected Problems in Anthropology: Method and Theory
+ELEC 511 Error Control Coding 
+ENGL 490 Directed Reading in English
+ECON 428 Economic Development of the Postwar Pacific Rim
+GMST 599 Thesis
+HINF 200 Principles of Health Database Design
+WRIT 320 Writing and Film Production Workshop
+ENGL 412 Research for Professional Writers
+CYCB 210 Practicum with Developmental Specialization
+SOCI 285 Health over the Life Course
+WS 317 Sexuality and the Body in International Development
+MATH 447 Nonlinear Programming
+LING 449 Directed Readings in Linguistics
+PSYC 548 Special Topics in Neuropsychology
+BIOL 524 Anthropod Diversity and Conservation
+NURP 599 Thesis
+BIOC 570 Directed Studies in Biochemistry
+PAAS 279 Introduction to the Chinese Language and Linguistics
+FRAN 400 Advanced Studies in French Linguistics
+ES 402 Global Issues in Sustainability
+SOCW 452 Teaching and Learning for Social Change
+IET 410 Final Project in Intercultural Education
+CENG 441 Design of Digital and VLSI Systems
+ENT 402 Entrepreneurship and Small Business for the Non-Specialist
+HINF 510 Information Management and Technology
+PSYC 192 Introduction to Positive Psychology
+MECH 499 Technical Project
+HLTH 430 Practicum
+INTD 580 Directed Studies for INTD Master's Program
+CYC 551 Ensuring Quality in Child and Youth Care Programs
+MATH 587 Applied Math Seminar
+PHIL 541 Topics in Aesthetics
+PHIL 370 Theoretical Logic
+HINF 570 Epidemiology in Health Services Management
+ELEC 570 Computer Forensics Methodologies
+LAW 381 Animals, Culture and the Law
+POLI 422 Youth Politics
+AE 330 Visual Design for Marketing, Advocacy and Persuasion
+ADMN 605 Comparative Policy and Governance
+STAT 458 Generalized Linear Models
+PHIL 451 Advanced Epistemology
+CIVE 370 Construction and Project Management
+THEA 505 Seminar in Theatrical Styles
+CYC 495 Advanced Honours Seminar in CYC Theory, Research and Practice
+THEA 218 Acting I (for Theatre Students who are Non-Acting Specialists)
+ENGL 520 Studies in Renaissance Literature: Area Course
+POLI 599 Thesis
+ED-D 605 Educational Psychology: Apprenticeship in Teaching in Higher Education
+PHYS 423 Quantum Mechanics II
+SOCI 508 Linear Models
+PAAS 459 Directed Readings in Chinese Linguistics
+ASTR 508 Cosmology
+HSTR 516 Topical Field in Computers and History
+CSC 375 Introduction to Systems Analysis
+LING 338 Second Language Phonology
+PAAS 495 Special Topics in Pacific and Asian Studies
+BUS 688 International Fellowship Outgoing
+HA 348 Introduction to Islamic Archeology
+ELEC 567 Advanced Network Security
+FRAN 443 Representations of 17<sup>th</sup>-Century French Society
+HSTR 374 History of South Africa
+ADMN 537 Program Evaluation and Performance Measurement
+PAAS 138 Intensive Beginner Japanese I
+MATH 360 Mathematics for Education and Liberal Arts
+EOS 210 Introductory Geophysics
+ADMN 448 Local Government Financial Management
+ANTH 341 Paleolithic Archaeology
+ENGL 479 Victorian and Edwardian Children's Fiction
+BIOL 312 Entomology
+FORB 538 Topics in Microbial Ecology
+ER 490 Directed Studies
+MECH 295 Engineering Fundamentals
+BCMB 536 Practical Molecular Biology
+GEOG 209 Introduction to Environmental Management
+POLI 462 Intergovernmental Relations in Canada
+ECON 545 Econometric Analysis
+HA 460 Seminar in Modern Art I (1870-1945)
+CD 501 Anchoring a Change Agenda: Foundations
+PHIL 520 History and Philosophy of Science
+PHYS 545 Anatomy and Physiology for the Medical Physicist
+ES 250 Directed Experiential Learning in Ecological Restoration
+FRAN 520 Studies in Diasporic Literatures in French
+EDCI 520 Seminar in Contemporary Educational Issues in Philosophical Perspective
+CHEM 676 Polymer Science
+HLTH 320 Health Program Planning and Project Management
+ADMN 554 Responsible Public Management
+POLI 373 African Politics
+CSC 116 Fundamentals of Programming with Engineering Applications II
+HSTR 420 Seminar in British History
+GMST 351 The New German Cinema
+MUS 504 Seminar in Performance Practices
+EOS 508 Marine Geology
+POLI 456 The Politics of the Internet
+HSTR 365 Topics in East Asian History
+MATH 399 Advanced Problem-Solving Seminar
+ENGL 455 Canadian Literature in Transnational Times
+PAAS 486 Modern Japanese Theatre
+PAAS 406 Ideology and Cultural Conflict in the Asia-Pacific
+PAAS 105 Pacific and Asia Today
+GRS 336 Democracy in the Ancient Mediterranean and its Legacy
+RS 302 Ways of Understanding Religion
+ECON 524 Health Economics
+CHEM 150 Engineering Chemistry
+ANTH 310 Anthropological Approaches to Comparative Religion
+MBA 570 International Business Environment
+ED-D 537 Functions and Processes of Leadership
+ELEC 571 Underwater Acoustic Systems
+ELEC 260 Continuous-Time Signals and Systems
+FRAN 456 20<sup>th</sup>-Century French Theatre
+SOCI 335 Racialization and Ethnicity
+FRAN 580 Special Topics
+CYC 360 Special Topics in Child and Youth Care
+NUHI 599 Thesis
+MECH 563 Finite Element Analysis
+ED-D 417 Skills for Effective Interpersonal Communication
+POLI 321 Introduction to Research Methods in Politics
+WRIT 340 Elements of Style
+EOS 300 Earth Science Field School
+ANTH 455 Advanced Topics in the Anthropology of HIV/AIDS
+CD 521 The Economics of Social Justice
+MECH 577 X-ray Analysis of Engineering Materials
+EDCI 463 Visual Thinking
+GMST 402 Film (in German)
+ECON 351 Mathematical Economics II: An Introduction to Dynamic Methods
+ECON 381 Environmental Economics I
+THEA 299 Theatre Laboratory
+ES 470 Advanced Field Study
+PHYS 216 Introductory Electricity and Magnetism
+POLI 328 Gender and International Relations
+STAT 561 Theory of Inference
+ACAN 225 Introduction to the Arts of Canada
+ANTH 402 Feminist Theory and Method in Anthropology
+PAAS 205 Indigenous Peoples of the Indo-Pacific Region
+POLI 609 Political Theory
+SOCW 571 MSW Capstone
+LAW 699 PhD Dissertation
+ES 312 Environmental Economics
+BUS 699 PhD Dissertation
+THEA 333 History of Dance in Canada
+ANTH 612 Graduate Colloquium
+SOCW 517 Research Seminar
+MECH 335 Theory of Mechanisms
+CYC 568 Program Evaluation and Policy in Child and Youth Care
+CSC 693 PhD Candidacy
+ES 681 Seminar in Ethnoecology
+ELEC 590 Directed Study
+CSC 571 Advanced Databases
+ED-D 520 Educational Research Apprenticeship
+IB 405 Sustainable Communities
+MATH 366 Geometry
+FRAN 150 Elementary Oral French
+EOS 513 Advanced Igneous and Metamorphic Petrology
+PHYS 102 General Physics
+GEOG 456 Wildlife Conservation
+CYCB 220 Introduction to School-Age Care (CYC)
+MATH 242 Mathematics of Finance
+DHUM 450 Digital Humanities Project Seminar
+IB 408 International Legal Relations
+FRAN 441 Comedy in the 17<sup>th</sup> and 18<sup>th</sup> Centuries
+EDCI 453 Ecology for Teachers
+PAAS 235 Supplementary Japanese
+POLI 499 Honours Seminar and Essay
+WRIT 418 Advanced Screenwriting Workshop
+MECH 345 Mechanics of Fluids
+BIOL 500 Selected Topics in the History and Philosophy of Biology
+HSTR 436 Seminar in Medieval Europe
+SENG 421 Global Software Engineering
+MUS 448 Graduating Recital
+ECON 523 The Economics of Canadian Health Care
+MUS 545 Major Instrument Study
+ANTH 453 Human Evolutionary Ecology
+ART 300 Drawing
+LAW 380 Bioethics, Personhood and the Law
+ART 151 An Introduction to Contemporary Visual Art
+THEA 211 Modern and Contemporary Theatre from Ibsen to the Internet
+CIVE 299 Geomatics Engineering
+HINF 571 Health Systems Data Analysis
+MRNE 436 Ecology and Evolution of Intertidal Organisms
+EDCI 746 Curriculum and Instruction in Secondary School French
+LING 297 Introduction to Selected Topics in Linguistics
+LAW 338 Mediation and Lawyers
+THEA 355 Design Aesthetics I
+SOCW 477 Developing Skills and Knowledge in Family Practice
+ANTH 392 Selected Problems in Anthropology: Archaeology
+PAAS 487 Trends in Japanese Cinema, 1960 to Present
+ED-D 101 Learning Strategies for University Success
+LATI 301 Vergil
+HSTR 409 Seminar in American Gender and Sexuality
+SPAN 370 Spanish Literature from Origins to 1700
+THEA 362 History of Fashion and Body Modification I
+SOCW 523 Self-Conscious Traditionalism in Indigenous Social Work Practice Seminar
+SLST 591 Directed Studies in Slavic Studies II
+HA 493 Advanced Seminar on the Williams Collection
+GEOG 328 GIS Analysis
+EDCI 553 International Early Childhood Education: Comparing Commonalities and Differences
+PAAS 497 Special Topics in Asian Languages
+HINF 461 System Evaluation and Quality Improvement
+NURS 565 Trends and Issues in Advanced Practice Nursing I
+ANTH 449 Archaeology of the Northwest Coast
+ED-D 562 Advanced Statistical Methods in Education
+ART 380 Curatorial Direction
+ART 501 Second Year Drawing
+GMST 380 Heroism and Romance from the Middle Ages to Romanticism
+STAT 589 Statistics Seminar
+IGOV 550 Indigenous Peoples and Self Determination
+EOS 511 Plate Tectonic Processes
+ELEC 551 Digital Filters II
+GEOG 325 Field Surveying
+HLTH 301 Evolution of Health and Community Services
+CYCB 140 Introduction to Human Behaviour
+ENGL 586 Studies in Canadian Literature: Special Topic
+LAW 348 Managing Intellectual Property
+CS 201 Issues and Ideas in Canadian Environmentalism
+MATH 452 Stochastic Processes
+GEOG 358 Landscape Ecology
+CH 591 Cultural Heritage Internship
+EDCI 312 Studio Guitar Class: II
+GEOG 418 Advanced Spatial Analysis and Geo-statistics
+ASTR 303 Introductory Extragalactic Astronomy
+WS 204 Fast Feminisms: Past and Present
+MEDI 490 Directed Studies
+IGOV 560 Indigenous Peoples and Globalization
+ENGL 301 Report Writing for Business
+PSYC 330 Personality
+EOS 550 The Climate System
+BIOL 448 Neuroethology
+WRIT 591 Directed Studies in Writing
+LAW 354 Forest Law and Policy
+ARTS 190 Individual Study
+SENG 310 Human Computer Interaction
+PSYC 332 Health Psychology
+PAAS 500 Theories of Pacific Region Societies
+WS 334 What's Race Got To Do With It?
+LAW 382 Pension Law and Policy
+GEOG 324 Directions in Geography
+CH 560 Cultural Heritage Stewardship and Sustainability
+LING 172 Introduction to Indigenous Languages of British Columbia
+ENGL 386 Victorian Poetry
+LING 386 Intonation, Rhythm, Stress and Tone
+PSYC 341 Women and Psychology
+MATH 161 Mathematics for Elementary School Teachers I
+HA 292 Selected Themes in History in Art
+NURS 488 Gendering Health Care Practices in Nursing
+CIVE 285 Civil Engineering Materials
+MECH 554 Mechatronics
+MBA 500 Essentials of Business and Leadership
+ANTH 336 Contemporary Aboriginal Peoples of Canada
+GEOG 477 Field Studies in Physical Geography
+ENGL 460 Major Issues in Literary Criticism
+PSYC 338 Behavioural Interventions: Children and Adults
+SOCW 521 Indigenous Perspectives on Knowledge and Research
+STAT 693 Candidacy Examination
+POLI 341 The United Nations and Global Issues
+NURS 489 Culture and Health
+EDCI 468 Environmental Issues Education
+MUS 334 Voice
+SOCI 450 Sociology and Social Justice
+NURS 568 Trends and Issues in Advanced Practice Nursing
+POLI 319 Issues in Comparative Politics
+IGOV 595 Special Topics in Indigenous Governance
+STAT 554 Time Series Analysis
+PAAS 120 Introduction to Indonesian-Malay I
+SOCI 318 Social Change
+CD 522 Understanding and Mainstreaming Gender
+ELEC 300 Linear Circuits II
+GRS 372 Roman Art and Archaeology
+HINF 410 Information Management and Technology
+ECON 549 Computational Methods in Economics and Econometrics
+FRAN 599 Thesis/Oral
+ELEC 216 Electricity and Magnetism
+MUS 440 Individual Tuition
+MBA 558 Employment Law
+ENGL 515 Studies in Middle English Literature: Area Course
+HA 365 Experimental Film
+MUS 380 Ensembles
+BIOL 501 Principles of Genome Analysis
+HA 337 Special Topics in Contemporary Asian Art
+HSTR 236 Medieval Europe
+ECON 327 Economic History of North America
+CH 584 Topics in Cultural Heritage Management
+ANTH 530 Ethnology of Selected Areas
+THEA 219 Acting II (for Theatre Students who are Non-Acting Specialists)
+ELEC 435 Medical Image Processing
+MRNE 401 Special Topics in Marine Biology
+LING 260 Introduction to the Japanese Language and Linguistics
+SOCW 510 Policy Context of Practice
+ANTH 483 Seminar in Cultural Anthropology
+ADMN 531 Strategic Human Resource Management
+NURS 566 Trends and Issues in Advanced Practice Nursing II
+PAAS 212 Elementary Mandarin for Speakers of Other Chinese Languages
+EPHE 346 Motor Development and Physical Maturation
+PHIL 235 Ethics of Violence, War and Terrorism
+ED-D 531 Concepts and Theory of Organization
+ENGL 504 Special Studies II
+PAAS 208 Family and Gender in the Pacific
+HA 447 Seminar in Early Modern Art, </b><i>c.</i> 1500-1750
+CHEM 335 Synthetic Methods in Organic Chemistry
+LATI 350 Medieval Latin
+MATH 522 Combinatorics
+ADMN 579 European Union Border Region Policies
+BIOL 248 Topics in Organismal Biology
+SOCI 515 Qualitative Research Methods
+ITAL 503 Core Reading List Course II
+EOS 433 The Climate System
+CYC 641 Generating Knowledge in Child and Youth Care
+SOCW 580 Special Topics in Social Work and Social Welfare
+PSYC 391 Special Topics in Psychology
+ART 116 An Introduction to Documentary Photography
+POLI 432 The Politics of Social Movements
+ADMN 311 Introduction to Public Administration
+LAW 365 Legal Mooting
+EOS 170 Natural Hazards
+SOCW 476 Family and Child Welfare Policy
+RS 306 Critics of Religion
+LAW 104 Law, Legislation and Policy
+PHYS 693 PhD Candidacy Examination
+NURS 350 Health and Healing VII: Promoting Community and Societal Health
+HSTR 366 War and Revolution in Modern China
+COM 446 Investments
+EDCI 673 Information and Communication Technologies in Environmental Education, Mathematics, and Science Instruction
+EPHE 358 Management in Recreation and Health
+ES 429 Urban Ethnoecology
+PHIL 236 Introduction to Social and Political Philosophy
+PSYC 577 Cognitive Seminar
+COM 450 Selected Topics in Management
+PSYC 366 Psychological Disorders of Childhood and Adolescence
+NUNP 544 Integrated Primary Health Care and Advanced Practice Nursing: I (Practice) (Adult I)
+PSYC 502 Research Apprenticeship
+HSTR 318 The Bloody Code: Crime in England, 1660-1800
+CIVE 315 Environmental Policy
+ELEC 405 Error Control Coding and Sequences
+THEA 356 Design Aesthetics II
+MECH 471 Fracture, Fatigue and Mechanical Reliability
+PAAS 203 Imagining the Asia-Pacific
+POLI 412 Migration, Nationalism and Identity in Asia
+BME 434 Biophotonics
+HA 598 Research Paper
+SOCW 474 An Introduction to Community Work
+PHYS 544 Topics in Radiation Biophysics
+EPHE 200 Co-op Seminar: Introduction to Professional Practice
+SOCI 510 Categorical Data Analysis
+ENGL 208 Introduction to Women's Writing
+BIOL 319 Marine Ecology
+ANTH 499 Honours Seminar
+BIOL 322 Biology of Marine Invertebrates
+GEOG 314 Global Environment Change and Human Response
+SOCI 355 The Corporation, Capitalism, and Globalization
+LAW 316 Secured Transactions and Negotiable Instruments
+BIOL 370 Conservation Biology
+ITAL 491 Central Themes of the Hispanic and Italian World (in English)
+WS 499 Honours Graduating Essay
+SDH 590 Directed Studies
+LING 561 Topics in Chinese Linguistics
+ADMN 604 Theories of Public Management
+ED-D 306 Advanced Educational Psychology: Child Development During the Preschool Years
+ADMN 437 Program Evaluation and Performance Measurement
+EDCI 550 Seminar: Research in Early Childhood Education
+BIOC 403 Biochemistry of Signal Transduction
+EDCI 773 Curriculum and Instruction in Secondary School Social Sciences
+FRAN 475 Modern French
+ADMN 310 Public Sector Economics
+THEA 432 Directing IV
+ER 328 Forest Restoration and Sustainable Forestry
+ADMN 477 Strategic Planning and Implementation
+PAAS 485 Seminar in Japanese Language, Literature and Culture
+SPAN 503 Core Reading List Course II
+ANTH 454 Method and Theory in Bioarchaeology
+WS 341 Indigenous Women's Narrated Lives
+FRAN 275 Writing in French I
+EDCI 466 Scientific and Technological Literacy
+EDCI 767 Curriculum and Instruction in Secondary School Science
+ES 581 Seminar in Ethnoecology
+BIOL 367 Neurobiology: Molecules to Behaviour
+BIOL 535 Topics in Evolutionary Biology
+GRS 613 Seminar in Classical Archaeology
+EDCI 470 Literacies and Expression: Professional Integration
+MBA 513 Issues in Service Technology and HR Management
+ELEC 515 Information Theory
+EPHE 344 Care and Prevention of Athletic Injuries
+MATH 575 Topics in Mathematical Biology
+EDCI 404 Curriculum and Instruction in Elementary or Middle School Social Studies
+FRAN 160 Words in Context
+EPHE 445 Developmental and Adaptive Physical Activity
+CSC 579 Overlay and Peer-to-Peer Networking
+EDCI 303 Historical and Philosophical Foundations of Canadian Education
+THEA 321 Acting III
+CYC 430 Research Practice in Indigenous Contexts
+ENGL 450 Modern Canadian Fiction
+MATH 120 Precalculus Mathematics
+NURS 594 Scholarly Inquiry: Integrating Knowledge and Practice
+EDCI 554 Comparative Early Childhood Education: Curriculum, Context and Culture
+SOCW 526 Seminar in Community Health Policy and Practice in Indigenous Communities
+HINF 491 Topics in Health Informatics
+THEA 501 Seminar in History and Criticism of Tragedy
+LAW 345 Taxation
+ER 332 Selection and Propagation of Native Plants for Ecological Restoration
+HSTR 497 Third-Year Honours Essay
+HINF 602 Theories in Health Informatics
+LAW 372 Public Policy, Law and Dispute Resolution
+CSC 473 Fundamentals of Computer Animation
+CYC 423 Research Methods in Child and Youth Care
+THEA 132 Exploring Theatre Through Dramatic Process
+FRAN 395 Advanced French Writing Workshop
+COM 315 Financial Accounting
+EPHE 355 Functional Anatomy
+GRS 300 Greek Epic
+CIVE 385 Geotechnical Engineering
+EPHE 311 Physical Education for General Classroom Teachers: B
+WS 344 Reimagining History in Contemporary Women's Fiction
+ASTR 501 Stellar Interiors and Evolution
+ENGL 458 Comparative Studies in Contemporary French and English Canadian Literature
+BIOL 447 Ion Channels and Disease
+SOCI 443 Population Problems and Policies
+BIOL 309 Developmental Biology
+HSTR 440 Seminar in European History
+CD 508 Co-operatives in Global Perspective
+SOCI 331 Political Sociology
+SENG 460 Practice of Information Security and Privacy
+ANTH 492 Directed Studies in Anthropology: Archaeology
+PSYC 565 Cognitive Development in Adulthood and Aging
+LING 476 Seminar and Practicum in Applied Linguistics
+POLI 348 International Security
+SOCI 590 Directed Studies
+THEA 396 Directed Studies in Scene Design
+BIOC 470 Directed Studies in Biochemistry
+NURS 630 Teaching Internship
+HSTR 110 Conquest and Encounter in the Atlantic World, 1492-1700
+PHYS 303 Origin of Space, Time and Matter in the Universe
+SOCW 544 Social Work, the State and Citizenship
+PHIL 500 Topics in Philosophy
+ADMN 548 Special Topics in Public Policy
+SOCW 319 Research for Social Change
+GMST 499 Honours Graduating Essay
+PHIL 335 Contemporary Moral Philosophy
+IS 490 Directed Reading
+FRAN 423 Contemporary Francophone Caribbean Novel
+SLST 111 Beginning Ukrainian I
+LAW 389 Appeal - Review of Current Law and Law Reform
+MUS 325 The History of Jazz
+HA 268 Introduction to Canadian Art and Architecture
+HSTR 426 Seminar in Canadian Military History
+NURS 490 Directed Studies
+ENGL 350 Medieval and Renaissance Scottish Literature
+SCIE 390 Individual Study
+GRS 102 Roman Culture
+CD 519 Strategic Communications, Engagement and Community Relations
+PHYS 490 Directed Studies
+HSTR 414 Seminar in 17<sup>th</sup>-century England
+CYC 571 Youth Substance Use: Perspectives on Theory, Research and Practice
+ANTH 393 Selected Problems in Anthropology: Cultural Anthropology
+EDCI 716 Curriculum and Instruction in Secondary School Theatre
+MUS 205 Music Composition I
+HINF 351 Information Technology Procurement
+ADMN 512 Resource Accountability and Management in the Public Sector 
+MGB 181 Language Skills II
+CYC 693 Candidacy Exams
+NURS 567 Trends and Issues in Advanced Practice Nursing III
+ED-D 423 Approaches to Cross-Cultural Education
+GRS 337 Herodotus and Greek Ethnography
+ADMN 681 Quantitative Methods for Public Policy Analysis and Program Evaluation
+ADMN 312 Managing in Public and Non-Profit Organizations
+GMST 483 Madness in Literature and Culture
+GMST 360 Cultural Studies Approaches to Literature and Film
+HSTR 522 Topical Field in Religious History
+EOS 503 Global Biogeochemical Cycles
+GEOG 699 PhD Dissertation
+PAAS 386 Premodern Japanese Literature in Translation
+PHIL 379 Early Greek Thought
+ASTR 201 The Search for Life in the Universe
+LAW 363 Conflict of Laws
+STAT 556 Topics in Statistics
+ELEC 496 Selected Topics in Electrical Engineering
+MATH 312 Abstract Algebra I
+ES 240 Ecological Processes
+IB 415 Cross-National Management
+ADMN 316 Written Communications in the Public and Non-Profit Sectors
+ES 462 Environmental Protection
+PHSP 503 Constructions of Health and Principles of Health Promotion
+PHIL 251 Knowledge, Certainty and Skepticism
+SPAN 486 Special Topics in Hispanic American Literature
+ART 212 Painting
+EDCI 566 EDUCoaching for Technology Integration
+PAAS 300 Social and Economic Change in the Pacific Region
+POLI 473 Advanced Topics in African Politics and Political Economy
+ANTH 330 Anthropology of South Asia
+POLI 436 Politics of Human Rights in New Democracies
+ENGL 492 Directed Reading: Advanced Topics in Professional Writing
+LING 509 Sociolinguistics
+GMST 353 Literature and Film of the Holocaust and &#147;Third Reich&#148;
+ENGL 202 Introduction to Canadian Literature
+PAAS 380 Japanese Economy, Politics and Culture
+GEOG 309 Geography of British Columbia
+HINF 599 Health Informatics Thesis
+PHIL 591 Research Methods Seminar
+DR 599 Master's Thesis
+MATH 301 Complex Variables
+ENGL 427 19<sup>th</sup>-Century American Prose and Poetry
+BIOL 492 Malaysia Tropical Field Ecology
+ES 415 Integral Systems Theory: Philosophy and Practice
+SOCW 532 Introduction to Social Work in the Health Care Sector
+BIOL 457 Paleoecology and Environmental Change
+HSTR 351 Imperial Russia, 1689-1917
+LAW 323 Refugee Law
+ECON 339 Economics of the Family
+SOCW 469 Introduction to Disability Studies
+CD 524 Leadership and Organizational Development for Communities
+GRS 442 Roman Law and Society
+POLI 327 Political Economy in the Global South
+ASTR 403 Introduction to Astrophysical Processes
+IGOV 530 Indigenous Research Methods
+ELEC 486 Multiresolution Signal and Geometry Processing with Software Applications
+BIOL 515 Ecology Seminar
+EPHE 352 Instructional Techniques in Individual Activities Secondary
+NURS 699 Dissertation
+COM 316 Management Accounting
+LING 411 Advanced Syntactic Analysis
+MECH 475 Aircraft Design
+PAAS 493 Seminar in Buddhism in English
+LAW 333 Social Welfare Law
+ENGL 382 The Romantic Period I
+WRIT 315 Advanced Journalism
+LING 503 Introduction to Syntax
+HSTR 309 Race Riots in American Cities
+IGOV 381 Indigenous Leadership and Governance
+MECH 595 Seminar
+PHYS 314 Nuclear Physics and Radioactivity
+CYC 379 Interdisciplinary Perspectives on Sub-Saharan Africa
+LING 259 Indigenous Language II
+WS 209 Gender and Health, Power and Resistance
+ENGL 550 Studies in the Literature of the 19<sup>th</sup> Century: Area Course
+MECH 551 Advanced Kinematics of Manipulators
+SOCW 311 Understanding Oppression
+ED-D 691 Advanced Special Topics in Educational Psychology
+MUS 280 Ensembles
+GREE 250 The Greek New Testament
+BIOL 335 Ichthyology
+MRNE 402 Special Topics in Marine Biology
+ANTH 347 Stone Age of Africa
+EPHE 310 Physical Education for General Classroom Teachers: A
+MECH 472 Introduction to Electron Microscopy
+MBA 550 Strategic Analysis and Action
+SOCW 505 Advanced Child Welfare Seminar
+PSYC 540 History and Theory in Neuropsychology
+PAAS 488 Japanese Fantasy
+EPHE 126 Orienteering
+WRIT 440 The Writing Business
+ELEC 599 MASc Thesis
+FNGA 305 Skills Workshop 2
+MUS 445 Seminar in Performance
+FRAN 513 Studies in 20th-Century Literature
+ES 430 Environmental Anthropology
+LAW 373 International Human Rights and Dispute Resolution
+GREE 305 Greek Orators
+HA 609 Workshop in Art Historical Writing
+LATI 202 Introduction to Latin Literature
+HSTR 340 Topics in European History
+PAAS 450 Seminar on Social Issues in China
+POLI 383 Global Indigenous Nationalisms
+SOCI 211 Introduction to Sociological Research
+ENGL 507 Digital Literary Studies: History and Principles
+PHSP 599 Thesis
+MECH 515 Biomaterials and Tissue Engineering
+SOCW 543 Theorizing Social Difference
+HSTR 320 Topics in British History
+ADMN 600 Doctoral Seminar
+SLST 482 Nikolai Gogol/Mykola Hohol
+STAT 456 Multivariate Analysis
+FRAN 457 Breaking New Ground after Existentialism
+LAW 356 Advocacy
+ADMN 599 Master's Thesis
+SOCW 471 Addictions in Society: Theory, Practice and Policy
+GRS 621 Topical Field in Classical Literature
+GMST 560 Germanic-Canadian Studies
+SOCI 419 Globalization and Sustainability
+PHYS 540 Medical Imaging
+MECH 443 Advanced Thermodynamics
+MUS 309 Topics in Applied Music II
+POLI 430 Media, Technology and Politics
+EDCI 350 Foundations of Reading and Writing in the Secondary Grades
+BCMB 489 Special Topics in Biochemistry or Microbiology
+GEOG 424 Field Studies in Coastal Geomorphology
+ELEC 403 Engineering Design by Optimization
+LATI 310 Roman Love Poetry
+FRAN 350 Advanced Oral French
+SOCI 556 Social Inequality
+MICR 525 Topics in Microbiology
+HSTR 111 Age of Encounters in the Pacific World, 1700-1900
+PSYC 606 Clinical Internship
+NURS 390 Directed Studies
+ART 306 Studies in Drawing, Photo, Media and Interdisciplinary Practices I
+CD 526 Agenda for Social Change: Moving Forward
+ENGL 516 Studies in Middle English Literature: Special Topic
+MEST 308 Fascism and Authoritarianism in the Mediterranean (in English)
+HA 540 Seminar in Renaissance Art
+CYC 547 Professional Leadership in Child and Youth Care
+POLI 305 Democracy and Diversity
+MUS 404 Group Composition III
+IED 387 Special Topics in Indigenous Education
+EPHE 562 Administrative Planning Process
+HSTR 304 Social History of the Automobile
+MUS 231 Music Education Seminar I: Foundations of Music Education
+CYC 280 Creating Programs and Environments for Young Children
+NURS 484 Nursing with Aboriginal Peoples in Canada
+PHYS 326 Electricity and Magnetism
+BIOL 460 Honours Seminar
+LING 311 Syntax
+BIOL 449 Flowering Plant Diversity
+PAAS 354 Masterworks of Chinese Fiction
+MECH 320 Mechanics of Solids II
+PAAS 294 Ethical Issues in Contemporary Asian Societies
+MATH 346 Introduction to Partial Differential Equations
+RS 401 Selected Topics in Religious Studies
+THEA 453 Scenic Design for Production
+THEA 261 Costume Design I
+SOCI 490 Directed Studies
+NUNP 541 Advanced Assessment and Diagnostic Reasoning Practice
+ADMN 409 Leading and Managing in the Non-Profit Sector
+DR 502 Conflict, Culture, and Diversity
+EPHE 270 Foundations of Outdoor Recreation
+ANTH 398 Life and Death in the Viking World
+CHEM 646 Surface Science
+ENT 412 Acquiring Expert Venture Cognitions
+ES 380 Environmental Topics: Topics in Political Ecology
+COM 435 Corporate Relations and Responsibilities
+ENGL 337 Medieval British Literature in Translation
+SOCI 445 Sociology of Health and Illness
+ASTR 404 Introduction to Stellar Astrophysics
+HA 232 Sacred Form in South / Southeast Asian Art
+MUS 407 Computer Music Seminar
+MUS 324 Music in Canada
+MUS 108 African Hand Drumming
+HA 260 Art Icons: Modern and Contemporary
+HA 121 Understanding Visual Communication
+LING 520 Pacific Rim Languages
+ECON 451 General Equilibrium and Welfare Economics
+NUNP 543 Integrated Primary Health Care and Advanced Practice Nursing: I (Theory) (Adult I)
+CYC 101 Introduction to Child and Youth Care Practice and Communications Technology
+EDCI 457 English as a Second Language
+EDCI 302 Literacy and Language in Elementary or Middle School
+EPHE 447 Kinesiology Seminar and Practicum
+COM 302 Business Law
+MBA 555 Managing People and Organizations II
+BIOL 522 Sensory Biology
+PHYS 522 Topics in Accelerator Physics
+BIOL 446 Advanced Aquatic Ecology
+ELEC 526 Advanced Optical Systems
+ER 314 Ethical, Legal and Policy Aspects of Environmental Restoration
+FRAN 522 Studies in French and Francophone Cinemas
+STAT 453 The Design and Analysis of Experiments
+NURS 487 Health Care Law
+POLI 699 Dissertation
+PSYC 532 General Linear Model - Univariate
+EPHE 341 Biomechanics
+WRIT 490 Directed Studies in Writing
+GEOG 382 Geography of Southeast Asia
+SOCW 475 Child Welfare Practice
+MATH 493 Topics in Pure Mathematics
+FRAN 420 Studies in Francophone Literatures and Cultures
+NURS 496 Nursing with Childbearing Families
+AE 401 Special Studies
+CSC 111 Fundamentals of Programming with Engineering Applications
+BIOL 404 Sensory Biology
+WRIT 350 The Theory and Practice of Literary Creation
+SLST 480 Tolstoy and the Age of Anna Karenina
+FRAN 410 Studies in Qu&eacute;bec or French-Canadian Literature
+THEA 454 Lighting Design for Production
+ED-D 415  Learning Difficulties: Assessment and Intervention
+EDCI 495 Directed Studies
+GEOG 438 Aquaculture in British Columbia
+CHEM 318 Instrumental Techniques of Analysis
+CD 514 The Comprehensive Development System
+HINF 693 Candidacy Exam
+GS 502 Approved Exchange
+LAW 341 Introduction to the Legal History of &quot;The BC Indian Land Question&quot;
+ADMN 465 Local Government Policy
+ED-D 569 Developmental Psychopathology and Disorders
+HA 490 Directed Studies
+MRNE 412 Biology of Marine Fishes
+ANTH 303 Anthropology of Sound
+PAAS 520 Special Topics in Pacific Studies
+CH 588 Special Studies in Museum Studies
+MBA 572 International Marketing and Global Strategy
+ENT 413 Portfolio Practicum
+FORB 515 Advanced Experimental Mycology
+ED-D 563 Qualitative Research Methods
+CHEM 509 Seminar
+ED-D 505 Basic Concepts in Human Development
+GRS 376 Ancient Technology
+ENGL 475 Special Studies in Ethnic American Literature
+LING 290 Writing Systems of the World
+PAAS 312 Classical Chinese Prose
+GREE 101 Introductory Ancient Greek I
+HA 593 Seminar on the Williams Collection
+POLI 614 Politics of the European Union
+ENGL 402 Children's Literature
+EDCI 681 Advanced Research Design
+HINF 515 Clinical Information Systems
+ENGL 401 Web Design
+EDCI 581 Research Methodologies in Education
+GRS 395 Classical Studies Abroad
+ELEC 330 Electronic Circuits I
+ED-D 541 Leadership in Rural Education
+LING 459 Indigenous Language IV
+ELEC 525 Advanced Photonics
+ECON 454 Theory of Corporate Finance
+MECH 576 Introduction to Electron Microscopy
+INGH 453 Wise Practices in Indigenous Community Health
+CYC 356 Child and Youth Care Practice with Families
+CS 001 Introduction to the Place: the Geography and History of Canada
+PSYC 595 Cognitive Behavioural Therapy
+ED-D 515 Advanced Assessment in Special Education
+CHEM 102 Fundamentals of Chemistry II
+GMST 591 Directed Studies II
+GEOG 353 Coastal and Marine Resources
+ENGL 392 Studies in a Major Figure
+HA 520 Seminar in Medieval Art
+LAW 102 The Criminal Law Process
+CYC 364 Disability and Child and Youth Care Practice
+GMST 260 The Development of Modern German-Speaking Cultures
+THEA 395 Directed Studies in Production and/or Management
+ART 370 Digital Video Art
+ES 341 Ecological Restoration
+ENGL 379 British Fiction and Non-Fiction of the Early 19<sup>th</sup> Century
+NUNP 537 Family Nurse Practitioner Internship
+THEA 310 Seminar in Theatre History I
+ENGL 391 Special Studies in Literary Genre
+MICR 408 Microbial Pathogenesis
+CYC 370 Applying Assessment and Case Planning in Child and Youth Care Practice
+IED 510 Leadership and Governance for Language Revitalization
+ENGL 099 Developing English Writing Skills
+NUNP 540 Advanced Assessment and Diagnostic Reasoning Theory
+BIOL 362 Techniques in Molecular Biology
+ENGR 100 Security, Privacy, and You
+EPHE 122 Volleyball
+CSC 463 Wireless and Mobile Networks
+LING 397 Issues in Cross-Cultural Communication
+HA 501 Colloquium in Theories and Practices
+HA 464 Seminar in Contemporary Art
+CYC 543 Qualitative Research Methods in Child and Youth Care
+HINF 320 Project Management
+FRAN 499 Honours Graduating Essay
+CSC 423 Randomized Algorithms
+SLST 112 Beginning Ukrainian II
+ADMN 553 Understanding Cities
+HA 386 Approaches to Collections Research
+THEA 599 MA Thesis
+HSTR 415 War and Social Change in England During the Two World Wars
+HINF 561 Project Management in Health Informatics
+EPHE 252 Leadership Methods for Recreation and Health Education
+PHYS 426 Fluid Mechanics
+CYC 546 Human Change Processes: From Theory to Practice
+EDCI 434 Sociological Foundations of Education
+HA 392 Special Topics in History in Art
+ART 492 Advanced Studio I
+GEOG 536 Advanced Seminar in Human and Social Geography
+CYC 463 Substance Use: Prevention and Treatment Approaches in Child and Youth Care Practice
+PAAS 411 Directed Readings in Chinese Language
+SOCW 550 Social Justice, Social Work and the Law
+EDCI 441 Supporting Learners Experiencing Difficulties with Literacy I
+ENGL 360 Special Studies in Shakespeare
+ANTH 699 PhD Dissertation
+FRAN 375 Writing in French II
+GEOG 366 Medical Geographies
+LAW 350 Clinical Term
+EDCI 555 Program Development for Early Childhood
+CYCB 211 Practicum in Supported Child Care for Children with Special Needs
+WS 208 Sex in Space
+POLI 433 Issues in Politics
+CIVE 451 Sustainable Buildings: Retrofitting, Repairs, and Recycling
+MUS 245 Seminar in Performance
+CH 583 Planning for Cultural Heritage Management
+ART 310 Painting
+LAW 368 Indigenous Feminist Legal Studies
+THEA 120 Introduction to the Art of Acting
+ANTH 500 Seminar in Anthropological Theory
+ADMN 200 International Community Development Through Activism and Capacity Building
+HINF 531 Ethical and Legal Aspects of Health Informatics
+EPHE 253 Program Planning
+ENGL 572 Studies in American Literature: Special Topic
+IED 259 Indigenous Language II
+EPHE 585 Qualitative Research Genres Applied to Education, Health and Society
+POLI 363 Indigenous Politics in Canada
+ECON 556 Experimental Economics
+ECON 382 Natural Resource Economics I
+EPHE 499 Honours Thesis or Tutorial
+ELEC 545 Nanotechnology
+CHEM 213 Practical Spectroscopy
+ES 600 Advanced Perspectives on Environmental Theories, Methods and Skills I
+CYCB 240 Introduction to Supported Child Care for Children with Special Needs
+ELEC 531 Digital Filters I
+SPAN 265 Introductory Written Spanish (Study Abroad Program)
+PHIL 450 Advanced Metaphysics
+EOS 225 Earth System Modelling
+HLTH 404 Inter-Professional Practice
+GREE 306 Greek Comedy
+HINF 603 Methods in Health Informatics
+CHEM 298 Research Experience
+POLI 240 International Politics
+ELEC 482 Electrical Drive Systems
+SMGT 417 Service Human Resource Management
+ED-D 402 Assessment For Special Education
+LAW 361 Historical Foundations of the Common Law
+MATH 300 Advanced Calculus
+ADMN 556 The Public Policy Process
+POLI 217 Development and Political Change
+MUS 507 Computer Music Seminar
+ED-D 535 Global Comparative Perspectives on Leadership and Education
+EDCI 487 Special Topics in Education
+DHUM 350 Key Applications: Electronic Publishing and Computer-Assisted Analysis
+EPHE 241 Introduction to Human Systemic Physiology
+ASTR 150 Concepts in Modern Astronomy
+STAT 455 Distribution-Free Statistics
+CSC 597 Industrial Master's Project
+MECH 561 Analytical Methods in Engineering
+LING 187 Special Topics in Language Revitalization
+CENG 499 Design Project II
+GS 503 Canadian Visiting Research Internship
+GEOG 252 Introduction to Coastal Geography
+PSYC 596 Interpersonal Therapies
+LING 586 Sound Structures for Applied Linguistics
+ENGL 364 English Renaissance Drama
+POLI 338 Approaches to Political Analysis (Seminar Course)
+LAW 690 Directed Studies in Law
+DR 503 Public Policy, Law, and Dispute Resolution
+SENG 498 Honours Thesis
+CYC 381 Leadership, Advocacy and Policy for the Early Years
+BCMB 531 Scientific Writing for Biomedical Research
+EDCI 756 Curriculum and Instruction in Mathematics in the Elementary School
+AE 200 Design
+CYC 680 Doctoral Seminar in Child and Youth Care
+BCMB 693 PhD Candicacy Examination
+ANTH 397 The Archaeology of Death
+HSTR 353 Modern Ukraine
+EOS 450 Quaternary Geology
+NURA 516 Nursing Leadership I
+ES 699 PhD Dissertation
+ADMN 547 Intergovernmental Relations in Canada
+GRS 495 Practicum in Archaeology
+GRS 203 Classical Archaeology
+PSYC 499 Honours Thesis and Seminar
+ES 301 Political Ecology
+HA 530 Seminar in the Arts of South and/or Southeast Asia
+HINF 265 Health Care Delivery Organizational Models
+LING 597 Comprehensive Examination
+LAW 371 Global Issues
+LAW 329 Environmental Law
+ED-D 305 Psychology of Childhood
+MUS 555 Individual Tuition in Composition
+LAW 305 Law, Theory and Practices of Sentencing
+EDCI 321 Quality Programs for Young Children
+ENGL 541 Studies in the Literature of the 18<sup>th</sup> Century: Special Topic
+ED-D 590 Directed Studies in Educational Psychology and Leadership Studies
+SENG 474 Data Mining
+COM 403 Employment Law
+SOCI 699 PhD Dissertation
+EDCI 424 Adaptation of Curriculum and Instructional Strategies (Literacy)
+MATH 563 Algebraic Number Theory
+MUS 237 Music in the Elementary School Curriculum
+EDCI 690 Individual Studies - Curriculum and Instruction
+ASTR 504 Galactic Structure
+GRS 611 Seminar in Classical Literature
+PSYC 380 Psychology and Law
+PHIL 383 The Life and Times of Socrates
+ART 552 Second Year Digital Media
+RS 301 Contemporary Religious Issues
+PHYS 534 Radiotherapy Physics I
+EPHE 116 Badminton
+HSTR 521 Topical Field in Legal History
+ECON 111 The Economy and the Environment
+WRIT 102 Introduction to Professional Nonfiction
+PHYS 342 Computers in Science
+MATH 520 Number Theory
+THEA 511 Production
+COM 205 Professional Skills Development
+IET 430 Facilitating Intercultural Relationships
+ADMN 446 Local Government Land Use Planning
+LING 508 Current Issues in Generative Grammar
+ITAL 304 Rome, the Eternal City (in English)
+HSD 464 Introduction to Disability Studies
+ADMN 423 Local Government in British Columbia
+NURS 470 Consolidated Practice Experience IV
+SLST 451 Stalinist Cinema
+THEA 508 Scene Design
+FRAN 509 Studies in 17th-Century Literature
+POLI 201 Canadian Institutions of Government
+SLST 401 Advanced Russian Practice
+MATH 599 Master's Thesis
+ELEC 380 Electronic Circuits II
+GEOG 376 Process Geomorphology
+SOCI 304 Self, Identity and Society
+MBA 520 Financial and Managerial Accounting
+STAT 254 Probability and Statistics for Engineers
+ENGL 359 16th-Century Poetry and Prose
+MATH 199 Problem-Solving Seminar
+HA 482 Seminar in Indigenous Arts
+ANTH 690 Specialized Directed Study
+CYCI 460 Special Topics
+NUNP 531 Applied Pathophysiology
+COM 480 International Study
+ECON 598 Extended Essay
+PSYC 590 Practical Issues and Challenges in Adult Psychotherapy
+MBA 530 Managerial Finance
+ITAL 306 Italian Culture (in English)
+SOCW 400 Introduction to Social Work in the Health Care Sector
+SPAN 300 Spanish for Reading Knowledge
+HA 484 Seminar in Contemporary Art: The Pacific Northwest
+GRS 100 Greek and Roman Civilization
+HLTH 321 Human Resource and Fiscal Management in Community Health Systems
+HSTR 514 Topical Field in World History
+PHIL 390 Topics in Philosophy
+EDCI 455 The Evolution of Educational Ideas: Philosophy, History and the Classroom
+CHEM 556 Topics in Advanced Physical Chemistry
+GEOG 222 Introduction to Maps and GIS
+CIVE 340 Sustainable Water Resources
+BIOC 525 Topics in Biochemistry
+ASTR 490 Directed Studies
+POLI 402 Contemporary Themes in Political Thought
+GMST 410 Special Topics
+PHIL 232 Moral Problems of Contemporary Society
+ECON 400 Advanced Topics in Microeconomic Theory
+MATH 580 Topics in Pure Mathematics
+BME 499 Design Project
+LING 499 Honours Thesis
+CYC 230 Introduction to CYC Practice in Indigenous Contexts
+ART 102 Introduction to Shop Practices
+DHUM 491 Directed Studies in Digital Humanities
+NURP 598 Practice Project
+WRIT 140 Elements of Style in Creative Writing
+THEA 405 Specialized Studies in Production and Management
+PSYC 560 Research Methods in Lifespan Psychology
+SOCW 511 Contemporary Debates and Ethical Dilemmas in Social Work
+ITAL 495 Directed Reading Course
+ANTH 495 Directed Studies in Anthropology: Method and Theory
+CENG 241 Digital Design
+LAW 391 Supervised Group Project
+FNGA 400 Leadership in Aboriginal Communities and Government
+FRAN 434 Medieval and Renaissance Theatre
+ES 314 Philosophy and the Environment
+WRIT 402 Advanced Fiction Workshop
+WRIT 310 Basic Forms and Techniques in the Novel
+THEA 520 Advanced Problems in Scene Design
+ELEC 466 System-on-Chip Engineering for Signal Processing
+MECH 285 Properties of Engineering Materials
+CD 590 Directed Studies
+EDCI 422 Curriculum and Program Design in Early Childhood Education
+FRAN 519 Studies in Film Adaptation of Literary Texts
+MECH 531 Fluid Mechanics
+HSTR 373 History of Whites in Black Africa
+CYCB 142 Child Development II
+LAW 317 Real Property Transactions
+MECH 573 Ferrous and Non-Ferrous Metals
+PSYC 425 Advanced Environmental Psychology
+ER 327 Ecorestoration Strategies: Case Studies
+ENGL 571 Studies in American Literature 1914 to the Present: Area Course
+PSYC 547 Neuropsychological Intervention in Adults
+GMST 355 German Expressionism (1910-1933)
+ED-P 350 Elementary Field Experience Seminar II
+STAT 498 Seminar and Independent Project
+COM 455 Conflict and Negotiations in Organizations
+EDCI 509 Development and Implementation of the Curriculum in Art
+MUS 421 Selected Topics in Music History
+EPHE 582 Neuroscience in Physical Activity and Health
+BIOL 540 Molecular Epidemiology
+PSYC 527 Research Methods in Social Psychology
+BME 403 Medical Image Processing
+EPHE 136 Lacrosse
+INTS 463 Special Topics in International and Global Health and Human Development
+GEOG 590 Directed Studies in Geography
+MUS 599 MA Thesis
+ED-D 514 Assessment in Counselling
+CYC 210 Supervised Practicum I
+ASTR 402 Introduction to Galaxies and Galactic Dynamics
+ELEC 340 Applied Electromagnetics and Photonics
+ECON 350 Mathematical Economics I: An Introduction to Static Methods
+AE 317 Art Appreciation
+HSD 460 Special Topics in Human and Social Development
+SOCI 566 Social Movements
+SOCW 413 Critical Social Work Practices
+ENGL 448 Special Studies in Canadian Literature
+ANTH 481 Seminar in Ethnology
+POLI 442 International Law
+ART 262 Digital Media Arts
+ART 522 Second Year Sculpture
+LAW 378 Equality, Human Rights, and Social Justice Law
+INGH 450 Indigenous Health Contexts, Trends and Social Determinants
+PHIL 429 Advanced Studies in Scottish Philosophy
+HA 338 Special Topics in Premodern Asian Art
+PSYC 566 Personality and Adjustment in Adulthood and Aging
+GRS 361 Aegean Bronze Age
+PAAS 204 Introduction to Asian Religions
+GRS 500 Pro-seminar in Research Methods and Practices
+EDCI 656 Advanced Language Processes: Writing and Representing
+BIOL 693 PhD Candicacy Examination
+PAAS 407 Cultural Economies of the Asia-Pacific
+MGB 540 The South American Business Context
+EPHE 380 Motor Control
+CHEM 399 Research Experience
+WRIT 420 Film Writing and Production Workshop
+GEOG 549 Advanced Topics in Resource Management
+ITAL 590 Directed Studies
+BIOL 400 History of Biology
+PHIL 201 Critical Thinking
+ED-D 516 Advanced Intervention in Special Education
+ANTH 450 Advanced Topics in Primate Behavioural Ecology
+HUMA 010 Diploma Orientation Seminar
+THEA 337 History of the Broadway Musical
+LAW 307 Civil Procedure
+AE 305 Drawing
+EPHE 435 Cultural and Outdoor Physical Activity
+MATH 365 Introduction to Topology
+MATH 352 Introduction to Probability
+WRIT 314 Changing Perspectives
+ANTH 240 Archaeology
+WRIT 391 Directed Studies in Writing
+LAW 310 Restitution
+CSC 449 Numerical Linear Algebra
+MATH 202 Intermediate Calculus for CSC and EOS
+ASTR 505 Galaxies
+ANTH 641 Advanced Research Seminar in Indigenous Peoples in Historic and Contemporary Contexts
+PSYC 589 Introduction to Evidence-Based Adult Psychotherapies
+EDCI 536 Language Processes in the School Curriculum: Oracy
+PAAS 480 Seminar on Japan
+CHEM 362 Inorganic Chemistry Laboratory
+NRSC 687 Advanced Topics in Neuroscience
+ED-D 419 Introduction to Indigenous Approaches to Helping and Healing
+EOS 314 Descriptive Physical Oceanography
+SOCI 345 Sociology of Mental Health
+LING 560 Linguistic Anthropology
+PHIL 693 Candidacy Examination
+ENT 410 Venture Marketing Expertise (Promise Skills)
+SOCW 506 Advanced Practicum
+LING 390 The Growth of Modern English
+THEA 500 Methods and Materials of Theatre Research
+PHIL 306 The Rationalists
+ECON 333 Introduction to Economic Growth
+MUS 322 A Composer's Style and Music
+ELEC 516 Advanced Wireless Communications
+MUS 351 Jazz Arranging
+MATH 533 Topics in Operator Theory and Operator Algebras
+EDCI 300 Mathematical Processes
+WRIT 322 Magazine Publishing
+PAAS 334 Advanced Composition in Japanese
+EDCI 572 Development and Implementation of the Curriculum in a Specific Area
+HA 555 Seminar in Canadian Art
+POLI 401 Advanced Topics in Political Theory
+ES 593 Thesis Proposal Preparation
+LING 312 Generative Phonology
+ECON 317 The Economics of Canadian Health Care
+SOCW 402 Social Work Practicum II
+GRS 341 Roman History
+PHIL 240 Introduction to Philosophy of Art
+LAW 599 LLM Thesis
+BIOL 326 Molecules to Ecotypes: Arabidopsis
+MUS 481 Chamber Music
+HSTR 240 Europe, Renaissance to the European Union
+MATH 690 Directed Studies
+SPAN 340 Spanish Immersion Literature
+MICR 470 Directed Studies in Microbiology
+GRS 316 Greek and Roman Novels and Romances
+HA 554 Seminar in 19<sup>th</sup>- and/or 20<sup>th</sup>-Century Architecture
+LING 309 Morphology
+GEOG 491 Advanced Topics in Geography
+SOCI 620 Selected Topics in Sociological Research Methods
+BIOL 361 Molecular Genetics and Genomics
+LING 577 The Global Context of Language Revitalization
+ELEC 461 Dynamics and Control of Switched Mode Power Supplies
+STAT 568 Generalized Linear Models
+ANTH 401 Environmental Anthropology
+CENG 421 Computer Vision
+STAT 252 Statistics for Business
+INTD 680 Directed Studies for INTD Doctoral Program
+PAAS 468 Seminar on the Study of Southeast Asia
+EOS 525 Research Frontiers in Earth and Ocean Science
+ENGL 388 Special Studies in 20<sup>th</sup>-Century British Literature
+POLI 414 Politics in the European Union
+EDCI 599 Thesis - Curriculum and Instruction
+BIOL 543 Critical Evaluation of Emerging Ecological Issues
+BIOC 599 MSc Thesis: Biochemistry
+LING 571 Developmental Psycholinguistics
+THEA 363 History of Fashion and Body Modification II
+SPP 530 Advanced Policy and Practice Seminar
+THEA 329 Theatre Performance
+ES 501 Perspectives on Environmental Theories, Methods and Skills II
+MICR 405 Biotechnology and Synthetic Biology
+EPHE 142 Personal Health, Wellness and Potential
+CYC 171 Introduction to Families: Issues, Patterns, and Processes
+HS 200 Health and Society
+MUS 530 Topics in Musicology Before 1750
+FNGA 306 Human Resource Management in First Nations Organizations
+LAW 502 Graduate Seminar in Applied Legal Methodology
+MBA 575 Cross-Cultural Management in Malaysia
+PAAS 351 Contemporary Chinese Society
+PSYC 603 Advanced Clinical Practicum
+PAAS 207 Ghosts and Spirits
+MUS 500 Selected Problems in Theory and Analysis
+CSC 546 Operations Research II
+THEA 516 Seminar in Theatre History
+ELEC 547 Electronic Devices
+MECH 492 Transport Phenomena
+POLI 693 PhD Candidacy Examinations
+EUS 301 Cultural and Intellectual Systems and Developments in Europe
+SENG 461 Network Security
+LAW 302 Criminal Law II
+PHYS 421 Statistical Mechanics
+GRS 612 Seminar in Ancient History
+ED-D 591 Selected Topics in Education
+THEA 391 Directed Studies in the History of Drama
+SPAN 507 Renaissance and Baroque Literature
+LING 486 Experimental Phonetics
+ECON 420 Theory of Economic Development
+HA 120 Exploring World Art
+LING 341 Seminar in a Slavic Language
+GMST 265 German Rebels
+PHIL 173 Reasoning in the Sciences and Engineering
+LAW 374 Law of the European Union
+LAW 304 Criminal Law Term
+BIOL 532 Topics in Endocrinology
+ED-D 599 Thesis - Educational Psychology and Leadership Studies
+LATI 201 Advanced Latin Grammar
+BIOL 544 Molecular Evolution
+BUS 640 Research Methods Overview in Management
+HLTH 250 Current Issues in Health and Community Services
+EPHE 342 History of Physical Education
+STAT 563 Topics in Applied Statistics
+ITAL 351 Advanced Italian Language
+MECH 495 Computational Fluid Dynamics and Heat Transfer
+SOCI 599 Thesis
+ENT 411 Venture Planning/Finance Expertise (Planning Skills)
+THEA 414 Studies in Canadian Theatre and Drama
+PAAS 306 Tibetan Buddhism
+NUED 572 Intersectoral Course and Curriculum Design in Nursing Education
+EDCI 582 Writing as Research
+EPHE 449 Physical Parameters of Aging
+GEOG 539 Advanced Seminar in Resource Management
+ENGL 383 The Romantic Period II
+POLI 540 International Relations
+EDCI 401 Facilitating Adult Learning
+IED 374 Indigenous Pedagogies
+ES 482 Advanced Environmental Topics in Ecological Restoration
+RS 305 Mysticism
+PAAS 430 Seminar in Modern Japanese Literature
+MRNE 410 Marine Invertebrate Zoology
+MBA 544 Information Technology in the Organization
+HA 223 Introduction to Western Architecture
+MATH 222 Discrete and Combinatorial Mathematics
+EPHE 575 Applied Sport Psychology
+CSPT 500 Topics in Cultural, Social and Political Thought
+ADMN 581 Quantitative Methods for Public Policy Analysis and Program Evaluation
+LING 572 The Structure of the Lexicon
+EPHE 487 Special Topics in Exercise Science, Physical and Health Education
+HSTR 484 The Social and Political History of Food in North America
+ES 446 Sustainable Fisheries
+ART 141 An Introduction to Contemporary Art Photography
+EDCI 464 Learning Through Drama
+PHYS 580 Directed Studies
+CYC 338 Applying Developmental Theory in Child and Youth Care Practice
+EDCI 598 Project - Curriculum and Instruction
+PHIL 436 Advanced Philosophy of Law
+HSTR 590 Directed Reading - Field
+NURS 507 Theoretical Knowledge and Advanced Practice Nursing
+STAT 598 Master's Project
+HINF 470 Trends in Health Informatics
+ELEC 452 Optical Communication Technology
+EPHE 119 Contemporary Dance
+MATH 532 Introduction to Operator Theory
+ADMN 422 Ethical Public Management
+MATH 538 Complex Analysis
+ES 384 Systems Theory: An Introduction to Natural and Social Systems
+MBA 562 New Venture Marketing
+COM 331 Introduction to Management Information Systems
+ASTR 102 Exploring the Cosmos
+MUS 501 Seminar in Musical Notations
+POLI 306 Introduction to Marxism
+GRS 349 Jews and Christians in the Greek and Roman World
+ED-D 316 Study of Communication in Interpersonal Relationships
+CSC 472 Fundamentals of Computer Modelling
+CSC 464 Concurrency
+NURS 599 Thesis
+HSTR 356 Topics in the History of Science
+EPHE 348 Psychology of Physical Activity
+NURS 430 Professional Practice V: Leadership in Nursing
+SPAN 491 Central Themes of the Hispanic and Italian World (in English)
+LING 258 Indigenous Language Mentorship II
+LING 395 Sociolinguistics
+FA 305 Theory and Practice of Film and Video Direction
+CSC 528 Combinatorial Algorithms
+CSC 498 Bioinformatics Project
+CSC 167 Game Strategy, Interaction and Design
+ENGR 330 Professional Career Planning and Engineering Leadership
+EDCI 568 Discourse on Social Media for Connected and Personalized Learning
+ITAL 300 Italian for Reading Knowledge
+ENGL 478 Special Studies in Literature and Environment
+PSYC 549 Neuropsychological Intervention in Children and Adolescents
+EPHE 444 Measurement and Evaluation in Physical Education
+CIVE 440 Hydrology and Marine Engineering
+FA 100 Special Topics in Fine Arts
+ADMN 462 Intergovernmental Relations in Canada
+FRAN 100 Intensive French I
+GMST 165 Major Figures of German-Speaking Cultures
+LING 517 Experimental Phonetics Laboratory
+MUS 305 Music Composition II
+SOSC 300 Working in the Community
+SOCI 309 Modern Social Theory
+WRIT 403 Advanced Playwriting Workshop
+FRAN 508 Studies in Renaissance Literature
+PHIL 598 Major Research Project
+PADR 504 Public Leadership and Management
+MICR 570 Directed Studies in Microbiology
+HINF 140 Introduction to the Canadian Health Care Systems
+ES 405 Climate, Energy and Politics
+ECON 185 Introductory Topics in Economics
+FRAN 435 Renaissance Poetry
+LAW 336 Collective Agreements: Negotiation and Arbitration
+ECON 104 Principles of Macroeconomics
+SOSC 390 Selected Topics in Social Sciences
+THEA 311 Seminar in Theatre History II
+RS 304 Religious Traditions II
+CYCB 122 Curriculum Design and Implementation (ECCE)
+PSYC 520 Survey of Social Psychology
+IGOV 384 Special Issues in Indigenous Governance
+EOS 526 Inverse Theory in Earth and Ocean Sciences
+ANTH 541 Advanced Research Seminar in Indigenous Peoples in Historic and Contemporary Contexts
+THEA 513 Seminar in Theatre Aesthetics
+LING 599 MA Thesis
+HSTR 693 PhD Candidacy Examinations
+GRS 493 Directed Study in Greek or Roman Civilization
+ECON 495 Directed Studies
+ADMN 582 Topics in Program Evaluation, Performance Measurement, Performance Management and Knowledge Management
+ANTH 332 Anthropology of Europe
+ENGL 400 Advanced Workshop in Composition
+MECH 535 Computational Fluid Dynamics and Heat Transfer
+ECON 328 Economic History of the Pacific Rim
+MATH 162 Mathematics for Elementary School Teachers II
+HINF 201 Database Management and Development for Health Care Systems
+CHEM 398 Research Experience
+POLI 509 Political Theory
+SPAN 270 Introduction to the Literature of Spain and Spanish America
+ENGL 215 The Writing of Expository Prose
+EPHE 113 Golf
+CYC 690 Directed Studies in Child and Youth Care
+NUNP 546 Integrated Primary Health Care and Advanced Practice Nursing: II (Practice) (Childbearing/rearing Families and Children)
+CSC 461 Multimedia Systems
+GRS 348 The City of Rome
+EOS 510 Plate Tectonics: the Geological Record
+MECH 520 Computer-Aided Design CAD
+FRAN 340 Studies in the Literatures or Language of the French-Speaking World (in English)
+THEA 393 Directed Studies in Theories of Directing
+POLI 332 Urban Politics
+PSYC 491 Advanced Special Topics in Psychology
+PHYS 214 An Introduction to Laboratory Electronics
+MUS 331 Brasses
+GMST 454 A Cultural History of Vampires in Literature and Film
+ENGL 540 Studies in the Literature of the 18<sup>th</sup> Century: Area Course
+GRS 432 The Ancient Economy
+PHYS 210 Introductory Geophysics
+PHIL 426 Major Figures in Ancient Philosophy
+ENGL 510 Studies in Old English Literature: Special Topic
+BIOL 355 Evolution
+MATH 530 Real Analysis
+LING 405 Wakashan
+SPAN 472 Cervantes' Don Quixote
+INGH 520 Community Engagement and Leadership
+MUS 689 Dissertation Proposal
+SOCW 435 Critical Perspectives in Mental Health Practice
+SOCW 596 Team Graduating Research Project/Report
+RS 403 Studies in Religion and Society
+EDCI 475 Principles in Teaching French Immersion
+CH 561 Social Engagement
+THEA 598 MA Essay
+MGB 535 Consulting Methods and Practice
+NRSC 599 MSc Thesis
+PHIL 491 Directed Studies in Philosophical Topics
+DR 516 Access to Justice
+HSTR 482 Seminar in Peace and War Studies
+ED-P 361 Six-Week Practicum (Elementary or Middle Years Post Degree)
+HSTR 364 Government and Politics in East Asia
+EDCI 337 Interactive &amp; Multimedia Learning
+PSYC 315 Introduction to Human Neuropsychology
+GMST 489 I-witness Field School 
+WRIT 400 Special Genres Workshop/Seminars
+HLTH 490 Directed Readings in Health Studies
+NURS 504 Phenomenological and Hermeneutic Approaches to Inquiry
+HSTR 442 Criminality and Violence in Europe, 1400-1800
+POLI 364 Canadian Public Policy
+PHYS 508 Topics in Nanophysics
+CD 523 Adult Learning and Education for Change
+ELEC 542 Analog Integrated Circuit Design
+INTD 699 Dissertation
+EDCI 541 Research in Curriculum and Instruction - Secondary English
+ENGL 407 Social Media and Electronic Communication 
+PAAS 580 Advanced Readings in Japanese, Chinese or Indonesian
+SOCI 504 Contemporary Social Theory
+SOCI 390 Selected Problems in Sociology
+BIOC 408 Epigenetic Regulation of Chromatin
+NURS 341 Professional Practice IV: Nursing Inquiry
+EPHE 121 Soccer
+HINF 554 Critical Appraisal of the Health Sciences Literature
+HSD 425 Qualitative and Quantitative Analysis
+HSD 401 Women in the Human Services
+CYCI 486 Professional Leadership in Early Childhood Care and Development
+MUS 540 Individual Tuition
+LING 602 Current Directions in Phonological Theory
+HA 383 Special Topics in North American Indigenous Arts
+HA 369 History of Photography
+MATH 529 Topics in Discrete Mathematics
+CD 598 Master's Project
+PSYC 518 Psychometric Methods
+CSC 435 Compiler Construction
+INTS 462 Issues and Challenges in International and Global Health Development Studies
+ANTH 542 Archaeology of a Selected Area
+FRAN 507 Studies in Medieval Literature
+EDCI 787 Cross-curricular Inquiry Strategies
+ANTH 391 Selected Problems in Anthropology: Ethnology
+PHYS 290 Directed Studies
+HSTR 109 Global Society since 1400
+ANTH 306 Folklore in Contemporary Society
+EDCI 633 Critical Discourses in Curriculum Design and Change
+EOS 330 Paleobiology
+MUS 699 PhD Dissertation
+FORB 549 Individual Study in Forest Biology
+SENG 360 Security Engineering
+SENG 380 Software Process and Management
+CSC 591 Directed Studies
+PSYC 313 Cognitive Psychology
+ASTR 460 Colloquium
+LAW 319 Trusts
+ITAL 273 Italian Renaissance (in English)
+PHSP 589 Practicum
+COM 341 Operations Management
+HSTR 527 Topical Field in Qualitative Research Methods
+PAAS 357 Chinese Cinema from Text to Screen
+CYC 643 Qualitative Research in Child and Youth Care
+THEA 509 Lighting Design
+EOS 260 Earth System Evolution
+MATH 401 Complex Analysis
+ANTH 317 Introduction to Quantitative Methods in Anthropological Research
+PSYC 325 Environmental Psychology
+MATH 442 Advanced Ordinary Differential Equations
+SENG 265 Software Development Methods
+CYC 552 Ethics in Practice
+MUS 690 Directed Studies
+PHIL 425 Advanced Studies in Plato
+PSYC 401 Measurement of Psychological Processes
+PAAS 238 Intermediate Japanese I
+MATH 122 Logic and Foundations
+PSYC 500 Professional Development
+EDCI 451 Community and Culture
+LAW 303 Criminal Procedure
+MECH 537 Kinetic Theory and Microscale Flows
+EDCI 519 Research in Language and Literacy: Theory into Practice
+MRNE 435 Introduction to Biological Oceanography
+ADMN 445 Urban and Regional Economics
+EDCI 584 Analysis of Quantitative and Mixed Methods Research
+BIOL 561 Fisheries Ecology and Management
+PAAS 336 Japanese through Popular Culture
+POLI 516 Canadian Politics
+EDCI 403 Curriculum and Instruction in Elementary or Middle School Science
+EDCI 749 General Methods of Second Language Teaching
+PHIL 238 Philosophy in Literature
+GEOG 547 Advanced Topics in Physical Geography
+SPP 580 Special Topics in Studies in Policy and Practice
+ELEC 532 Multidimensional Digital Signal Processing
+MUS 533 Graduate Forum in Musicology
+ED-D 301 Learners and Learning Environments
+ED-D 534 Leadership for School Improvement
+ELEC 565 Digital Integrated Circuits
+ECON 500 Microeconomic Analysis
+NRSC 595 MSc Thesis Preparation
+GREE 201 Advanced Greek Grammar
+THEA 111 Introduction to the History and Language of the Theatre I
+CSC 505 Computer Graphics
+HSTR 699 PhD Thesis
+HINF 573 Applied Biostatistics
+MATH 570 Optimal Control Theory
+ED-D 533 Concepts and Theories of Leadership in Learning Contexts
+LAW 385 Comparative Copyright Law
+HA 200 Artists' Materials and Techniques
+SLST 160 The Culture of the Russian Revolution
+ANTH 308 Legality and Social Justice in Global Perspective
+ECON 551 Information and Incentives
+POLI 371 Chinese Politics
+SENG 435 Computer-Supported Collaborative Work
+DR 506 Mediation Processes and Skills
+SENG 321 Requirements Engineering
+MGB 530 The European Business Context
+WRIT 313 Recurrent Themes
+MATH 510 Abstract Algebra
+LING 598 Major Research Paper
+BCMB 500 Modern Methods in Biochemistry and Microbiology
+ART 542 Second Year Photography
+HA 465 Seminar in 19th- and/or 20th-Century Architecture
+ENGL 372 Special Studies in 18<sup>th</sup>-Century Literature
+FRAN 503 Studies in French Linguistics
+ED-D 494 Directed Studies
+MUS 439 Instrumental and Choral Clinic
+HSTR 369 Hiroshima and Beyond
+HA 384 Northwest Coast Indigenous Arts and Colonization
+LING 693 Candidacy Examination
+GEOG 274 Introduction to Biogeography
+ED-D 564 Indigenous Research and Program Evaluation
+ECON 435 Financial Economics
+ED-D 600 Learning and Teaching in Higher Education
+MUS 307 Introduction to Computer Music
+NURS 680 Special Topics in Research Methods
+IED 371 The History of Indigenous Education in Canada
+PHIL 533 Topics in Applied Philosophy
+BUS 693 Doctoral Candidacy Exam
+ENGL 387 Victorian Culture and Thought
+BIOL 410 Herpetology
+ASTR 329 Introduction to Observational Astronomy
+BIOL 699 PhD Dissertation
+MECH 550 Advanced Control Theory
+MEDI 304 Encountering the Middle Ages
+MRNE 415 Structure and Function in Animals
+LING 300 Auditory and Perceptual Phonetics
+LING 261 Introduction to Chinese Language and Linguistics
+HA 451 Seminar in the Arts of Mughal India
+ITAL 150 Famous and Infamous Hispanic and Italian Figures (in English)
+ECON 320 Economic Development
+MATH 211 Matrix Algebra I
+EDCI 452 Cultural Studies in Education
+PHIL 336 Philosophy of Law
+COM 371 Management Finance
+MATH 110 Matrix Algebra for Engineers
+EOS 551 Introductory Dynamic Meteorology
+PAAS 310 Understanding Chinese Media
+SPAN 395 Intermediate Directed Reading
+DSST 440 Introduction to Disability Studies
+DHUM 503 Remediation and Curation 
+ED-D 521 Theory and Practice in Family Counselling
+LING 158 Indigenous Language Mentorship I
+HSTR 367 Rise and Fall of Imperial Japan
+MBA 596 Management Consulting Report
+WRIT 416 Advanced Creative Nonfiction Workshop
+EDCI 405 Curriculum and Instruction in Elementary or Middle School Mathematics
+IED 597 Comprehensive Examination
+INGH 522 Indigenous Health Research Methodologies
+PHIL 220 Introduction to Philosophy of Science
+CSC 462 Distributed Computing
+MUS 142 Lyric Diction
+FRAN 250 Experiential Learning
+THEA 205 An Introduction to Production and Management Areas of the Theatre
+EPHE 137 Experiential Outdoor Education
+WRIT 500 Graduate Writing Workshop
+ECON 366 Econometrics: Part II
+THEA 221 Acting I
+ECON 325 Public Economics
+ENGL 375 Johnson, Blake and the Later 18<sup>th</sup> Century
+SPAN 482 The Theatre, Prose and Poetry of Sor Juana
+HINF 590 Directed Studies in Health Informatics
+LING 325 Lexical Semantics
+CSC 425 Analysis of Algorithms
+ADMN 504 Government and Governance 
+ED-D 426 Differentiating Instruction in the Inclusive Classroom
+CHEM 363 Organic Chemistry Laboratory
+STAT 350 Mathematical Statistics I
+EPHE 134 Yoga
+BIOL 563 Topics in Applied Statistics
+EDCI 516 Reading Processes in the School Curriculum: Methods and Materials
+THEA 304 Acting for the Camera
+BIOL 525 Ecological and Evolutionary Physiology
+EOS 460 Earth System Science
+CSC 322 Logic and Programming
+PAAS 289 Introduction to the Japanese Language and Linguistics
+CYC 699 PhD Dissertation
+PAAS 101 Text, Manipulation, Propaganda
+ED-D 660 Doctoral Seminar in Contemporary Issues in Educational Psychology
+FRAN 518 Studies in Francophone Caribbean Literatures
+SLST 210 Special Topics
+TS 320 Special Topics in Technology and Society
+PAAS 356 The Literature of the People's Republic of China 1949 to the Present in English
+ART 222 Sculpture
+ER 338 Special Topics in Environmental Restoration
+MEDI 210 Voices from the Middle Ages
+LAW 315 Business Associations
+EDCI 521 Contemporary Educational Issues in Historical Perspective
+NUNP 548 Integrated Primary Health Care and Advanced Practice Nursing: III (Practice) (Adult II)
+BIOL 311 Biological Oceanography
+LING 326 Meaning in Language
+ED-D 560 Statistical Methods in Education
+EPHE 359 Fiscal and Legal Management in Recreation and Health
+ANTH 396 Selected Problems in Anthropology: Linguistic Anthropology
+POLI 311 Governments and Politics in Europe
+PAAS 151 Modern Chinese Culture
+ANTH 346 Archaeology of Holocene Africa
+ED-P 496 Mentoring in Teaching
+HA 570 Seminar in East Asian Art
+NRSC 590 Directed Studies in Neuroscience
+PSYC 450 Developmental Disorders and Learning Disabilities
+BME 201 Quantitative Human Physiology
+BIOL 538 Topics in Microbial Ecology
+ENGR 280 Engineering Economics
+HA 420 Seminar in Medieval Art
+MUS 131 Introduction to Music Education
+EOS 365 Climate and Society
+EDCI 797 Curriculum and Instruction in Secondary School Information and Communication Technology
+IET 400 Practicum in Intercultural Education
+ART 250 Modernism and Postmodernism
+HSTR 416 Mass Media and British Politics and Society, 1896-1956
+BCMB 398 Research Experience
+LING 450 Seminar in Languages
+HSTR 479 Religion and State in the Modern Middle East
+NURS 506 Philosophical Knowledge and Advanced Practice Nursing
+EDCI 597 Comprehensive Examination - Curriculum and Instruction
+LING 403 Dene (Athabaskan)
+CENG 450 Computer Systems and Architecture
+THEA 422 Acting VI
+MBA 529 International Logistics and Supply Chain Management
+PAAS 350 Chinese Economy, Politics and Culture
+HSTR 382 Topics in the Historical Study of Peace and War
+FRAN 300 French Reading Course
+INTS 461 Engaging in International and Global Health Development Work
+MUS 172 Fundamentals of Collaborative Piano
+MUS 580 Ensembles
+EPHE 117 Tennis
+POLI 533 Themes in Contemporary Politics
+PAAS 368 Culture and Power in Southeast Asia
+PSYC 507 Personality
+ES 425 Flowering Plant Diversity
+AGEI 472 Healthy Ageing
+SENG 466 Software for Embedded and Mechatronics Systems
+LING 388 An Introduction to the Grammar of English Usage
+BIOL 365 Animal Physiology
+CYCB 111 Practicum II: The Whole Child
+ELEC 335 Biosensors and Instrumentation
+THEA 105 An Introduction to Stagecraft and Technical Practice
+HINF 503 Research Methods in Health Informatics
+CYC 565 Child and Adolescent Development in Context
+SOCI 690 Directed Studies
+ELEC 553 Introduction to Parallel and Cluster Computing
+FRAN 180 Intensive French III
+THEA 332 Directing II
+EDCI 577 Language in Learning Mathematics Technology and Science
+GMST 105 Business German
+STAT 562 Distribution Free Statistics
+ECON 371 Economics of Work and Pay
+GMST 570 Studies in New Media in Second Language Acquisition
+LING 379 Language and Land
+POLI 349 Issues in International Politics
+ECON 205 Managerial Economics
+ELEC 488 Electrical Power Systems
+HLTH 435 Culminating Major Paper
+ELEC 360 Control Theory and Systems I
+THEA 394 Directed Studies in Applied Theatre
+GRS 590 Directed Individual Study
+PHYS 280 Special Topics in Physics
+CSC 569 Wireless and Mobile Networks
+PHYS 422 Electromagnetic Theory
+ENTD 590 Entrepreneurship Practicum and Directed Studies Seminar
+CHEM 634 Physical Organic Chemistry
+EPHE 123 Rugby
+CYC 310 Supervised Practicum II
+EDCI 472 Mathematics, Science and Social Studies in Early Childhood Education
+MATH 311 Linear Algebra
+CHEM 590 Directed Studies
+ENGL 500 Textual Studies and Methods of Research
+CHEM 477 Computational Chemistry
+CYC 645 Quantitative Research in Child and Youth Care
+CSC 446 Operations Research: Simulation
+ANTH 485 Seminar in Method and Theory
+PAAS 464 Topics in Studies of Australasia
+CHEM 699 PhD Dissertation
+CHEM 411 Advanced Instrumental Analysis
+THEA 522 Advanced Problems in Costume Design
+ANTH 325 Anthropology of South America
+ENGL 209 Foundations of Literary Criticism
+GMST 261 Trends in Contemporary Germany, Switzerland and Austria
+ADMN 551 Administrative Justice System in Canada
+MECH 571 Fracture, Fatigue and Mechanical Reliability
+HA 601 Colloquium in Theories and Practices
+CHEM 693 PhD Candidacy Examination
+EOS 599 MSc Thesis
+CHEM 437 Biological and Medicinal Chemistry
+ECON 529 Economics of Finance
+PHYS 523 Particle Cosmology
+HA 453 Seminar in the Arts of Safavi Iran
+WS 337 Bodies out of Bounds
+HSTR 598 MA Major Research Paper
+MATH 550 Topics in Applied Mathematics
+GEOG 272 Introduction to Climatology and Hydrology
+HA 234 Encountering Renaissance Art
+FRAN 450 Studies in French Literature and Culture after 1800
+LAW 328 Green Legal Theory
+PAAS 373 The Theatre of Indonesia
+EPHE 441 Exercise Physiology
+HSTR 550 Non-Thesis MA Historiography/Research Methods
+EDCI 421 Origins, Influences and Trends in Early Education Programs
+ANTH 307 Anthropology of Children and Youth
+ANTH 344 Regional Topics in Archaeology
+MATH 335 Real Analysis
+EDCI 632 Critique of Emerging Trends and Topics in Curriculum Studies
+POLI 370 The Politics of Surveillance
+POLI 378 Comparative Federalism
+MECH 380 Automatic Control Engineering
+LAW 343 Contemporary Issues in Law
+GMST 462 Contemporary Literature
+MEDI 401 Seminar in Medieval Culture
+ECON 550 Game Theory in Economics
+SOCI 327 International Perspectives on Inequalities in Health and Health Care
+SMGT 416 Service Operations and Quality Management
+ER 311 Principles and Concepts of Ecological Restoration
+ECON 699 Dissertation
+EDCI 423 Seminar and Practicum in Early Childhood Education
+LING 570 Psycholinguistics
+LAW 598 Major Research Paper in Law
+SENG 410 Media Applications
+EDCI 546 Interpretation and Analysis of Language Arts Research
+PSYC 612 Advanced Research Practicum
+CSC 205 2D Computer Graphics and Image Processing
+FA 399 Directed Studies in Fine Arts
+MATH 475 Topics in Mathematical Biology
+MECH 466 Microelectromechanical Systems
+ENGR 112 Design I
+ES 601 Advanced Perspectives on Environmental Theories, Methods and Skills II
+SLST 410 Special Topics
+ES 423 Traditional Systems of Land and Resource Management
+LATI 307 Roman Historians
+POLI 308 Nationalism and Citizenship
+LING 377 Global Contexts of Language
+MUS 304 Group Class in Composition II
+PHSP 552 Healthy Public Policy Strategies
+ANTH 365 Colonialism and Daily Life
+CSC 567 Switching, Network Traffic and Quality of Service
+ED-D 506 Topics in Human Development
+EPHE 439 Creative Movement
+THEA 425 Stage Movement III
+MUS 239 Instrumental/Vocal Jazz Pedagogy&#9;
+MICR 302 Molecular Microbiology
+PSYC 594 Special Topics in Clinical Intervention
+PAAS 201 Cultural Politics and Popular Culture in Asia and the Pacific
+PHYS 515 Data Analysis Techniques for Physics and Astronomy
+MECH 455 Instrumentation
+GEOG 524 Advanced Quantitative Methods
+ENGL 225 Technical Communications: Written and Verbal
+PSYC 584 Clinical Assessment: Cognitive Functioning
+SPAN 519 Latin American Literature from the 20<sup>th</sup> Century to the Present
+GEOG 450 Environment and Sustainability in Practice
+ES 599 MA, MSc Thesis
+HSD 470 Interdisciplinary Perpectives on Sub-Saharan Africa
+ER 390 Environmental Restoration Project
+BIOL 519 Advanced Electron Microscopy
+ECON 499 Fourth-Year Honours Thesis and Seminar
+GEOG 407 Activism and Community-Based Planning
+MATH 422 Combinatorial Mathematics
+FRAN 415 French-Canadian Poetry
+GEOG 484 Advanced Studies in Weather and Climate
+BIOL 323 Algae and Fungi
+MBA 563 Entrepreneurial Strategy
+ES 320 Conservation Biology
+NURS 480 Special Topics
+CYC 599 Thesis
+SPAN 280 Spanish Immersion
+ADMN 314 Public Sector Research and Analysis
+GMST 362 The Two Germanies
+COM 220 Organizational Behaviour
+MATH 555 Topics in Probability
+CYC 410 Advanced Supervised Practicum
+WRIT 307 Basic Forms and Techniques in Poetry
+ELEC 535 Data Analysis and Pattern Recognition
+PAAS 371 Narrating Southeast Asia: Novels, Films and History
+EPHE 361 Coaching Studies
+EDCI 590 Special Problems - Curriculum and Instruction
+ELEC 521 Microwave and Millimeter Wave Engineering
+POLI 375 Gender Politics in China
+ANTH 311 Introduction to Applied Anthropology
+MUS 143 Individual Tuition: Secondary area
+ELEC 504 Random Signals
+SLST 262 Stalinism
+ENGL 201 Introduction to Modernist Literature
+WS 104 Gender and Social Justice
+CYC 476 Child and Youth Care Practice with Families
+MICR 303 Immunology
+IB 416 International Marketing
+HINF 552 Evaluation in e-Health
+MATH 581 Directed Studies
+CIVE 200 Engineering Drawing
+MATH 212 Introduction to Algebra
+SPAN 470 Medieval Literature
+CYC 553 Practicum in Child and Youth Care
+ECON 457 Computational Economics
+ENGR 240 Technical Writing
+AE 208 Three-Dimensional Art
+POLI 413 Feminist Political Thought
+LING 195 The Social Side of English Grammar
+ANTH 340 Archaeology of British Columbia
+HA 578 Seminar in Theory &amp; Film Culture
+CD 525 Managing Organizations, Systems and Community Transformations
+ART 598 MFA Degree Exhibition
+ART 105 Foundation Photography and Video Art
+MUS 329 Women and Music
+ART 118 An Introduction to Colour 
+STAT 553 Multivariate Analysis
+CD 512 Program and Project Design, Management and Evaluation
+MATH 511 Topics in Matrix Theory and Linear Algebra
+POLI 336 The Modern State
+GEOG 693 Candidacy Examination
+CIVE 210 Sustainable Development in Civil Engineering
+IED 299 Special Studies in Indigenous Education
+ART 580 First Year Seminar
+MBA 553 Managing People and Organizations I
+FRAN 505 Studies in Literary Theory and Criticism
+ENGL 348 Alliterative Traditions
+THEA 316 Studies in Theatre of the Enlightenment
+LING 345 Sign Language as Language
+CENG 255 Introduction to Computer Architecture
+ECON 306 International Economics
+ECON 204 Intermediate Macroeconomics
+GMST 180 Myths, Fairy Tales and Fantasy Fiction
+EOS 202 Structural Geology
+HSTR 410 Seminar in American History
+POLI 369 Issues in Canadian Politics
+MATH 101 Calculus II
+ED-D 421 Recognition and Assessment of Learning Needs
+PAAS 307 Globalization and Religion
+SOCI 374 Qualitative Research Methods
+ART 261 Digital Media Arts
+POLI 465 British Columbia Governance
+HA 590 Directed Studies MA Level
+EDCI 456 Community Development Project
+MGB 516 International Marketing and Global Strategy
+EDCI 208 Studio Piano Class I
+LING 431 Community-based Initiatives in Language Revitalization
+GS 505 Multi-Disciplinary Research Internship
+MATH 322 Combinatorial Designs
+HINF 511 Clinical Decision Support Systems
+ARTS 390 Individual Study
+PAAS 496 Directed Studies in Pacific and Asian Studies
+BCMB 534 Fundamentals of Crystallography
+ASTR 560 Colloquium
+FRAN 385 French Syntax and Semantics
+LING 527 Topics in Historical and Comparative Linguistics
+MATH 412 Abstract Algebra II
+ECON 225 Writing for Economists
+CSC 330 Programming Languages
+ART 115 Exploring Drawing and Colour
+MECH 542 Energy Systems and Exergy Analysis
+GMST 210 Special Topics
+ELEC 501 Linear Systems
+ENGL 456 Literature of British Columbia
+MUS 288 Philomela Women's Choir
+THEA 101 An Introduction to Theatre
+ER 329 Mining Restoration
+NURA 517 APL Praxis I
+PHIL 301 Plato
+WRIT 300 Narrative and Mythic Structure in Film Writing
+NUNP 532 Pharmacological Interventions in Health and Illness
+FRAN 598 Reading List/Oral
+HINF 572 Health Informatics: An Overview
+WRIT 316 Creative Nonfiction Workshop
+CYC 424 Qualitative and Quantitative Analysis in Child and Youth Care
+PHSP 505 Public Health Interventions
+WRIT 308 Advanced Forms and Techniques in Poetry
+POLI 640 International Relations
+MBA 560 Managing Legal Risks
+FRAN 335 Studies in Cinema and Literature of the French-Speaking World (in English)
+THEA 348 Lighting for the Theatre I
+GEOG 218 Social and Cultural Geography
+PHIL 210 Introduction to Early Modern Philosophy
+MUS 105 Introduction to Composition
+GEOG 327 Research Methods in Human Geography
+CYC 250 Introduction to Law in Child and Youth Care Contexts
+IED 459 Indigenous Language IV
+MRNE 440 Biology of Marine Birds
+EPHE 250 Inclusion of Students with Special Needs in Physical Education
+IGOV 383 The Indigenous-State Relationship
+MATH 375 Philosophy of Mathematics
+HA 326 Early Medieval History in Art
+LAW 339 Legal Theory Workshop
+ENGL 503 Special Studies I
+HSTR 430 Seminar in Canadian History
+PHYS 410 Topics in Mathematical Physics I
+EDCI 706 Curriculum and Instruction in Secondary School Art
+MUS 425 Jazz History
+MECH 446 Introduction to Ocean Engineering 
+SOCW 533 Working with Trauma
+BIOL 427 Population Ecology
+POLI 374 Urban Politics in China
+GRS 320 Greek Tragedy
+FRAN 200 Introduction to French Linguistics
+ENGL 339 Old Icelandic Literature
+ELEC 299 Introduction to Electrical and Computer Engineering Design
+EDCI 583 Researching with Aboriginal Peoples: Aboriginalizing Research
+GEOG 226 Introduction to Quantitative Methods in Geography
+EPHE 124 Field Hockey
+HA 599 MA Thesis
+EUS 100 Introduction to European Studies
+CYC 260 Special Topics in Child and Youth Care
+MUS 115 Listening to Music
+LAW 312 Debtor and Creditor Relations
+NURS 622 Dissertation Seminar
+HA 561 Seminar in Modern Art II (1945-1990)
+SOCI 310 Religion in Society
+CHEM 303 Industrial Chemistry: Earth, Air, Fire, Water
+MUS 405 Music Composition III
+PSYC 693 PhD Candidacy Examinations
+CHEM 364 Physical Chemistry Laboratory
+LING 387 Task-based Second Language Instruction
+LING 475 Issues in Applied Linguistics
+GRS 623 Topical Field in Classical Archaeology
+CSC 554 Fault Tolerant Computing
+CSPT 600 Advanced Topics in Cultural, Social and Political Thought
+ART 221 Sculpture
+MBA 595 Special Topics in Business Administration
+ADMN 452 Local Government Law
+ECON 113 Introduction to Economics for Policy Analysis
+GMST 530 18<sup>th</sup>-Century Cultural Studies
+PHYS 560 Colloquium
+ENT 421 Global Venture Expertise
+EUS 300 European Integration: Socio-Economic and Political Developments
+HINF 530 Health Informatics Literature Review
+CHEM 526 Topics in Advanced Inorganic Chemistry
+PHIL 391 Directed Studies in Philosophy
+ED-D 406 Psychology of Adolescence
+FRAN 430 Studies in French Literatures and Culture before 1800
+ANTH 329 Anthropology of Southeast Asia
+COM 321 Leading People and Organizations I 
+CYC 475 Advanced Child and Youth Care Practice with Families and Groups
+MECH 410 Computer Aided Design
+SMGT 415 Service Marketing Management
+WRIT 202 Fiction Workshop
+ADMN 523 Special Topics in Public Sector Management
+HSTR 427 Seminar in Indigenous History of Canada
+STAT 255 Statistics for Life Sciences I
+SOCI 385 Sociology of Aging
+MUS 502 Musical Aesthetics and the Theory of Criticism
+HSTR 599 MA Thesis
+ENGL 374 Swift, Pope, and the Literature of the Augustan Age: 1701-1745
+SPAN 505 Medieval Literature
+ASTR 511 Advanced Topics in Astronomy
+THEA 328 The Theatre of Indonesia
+PHIL 330 Professional and Business Ethics
+CSC 350 Computer Architecture
+CYC 671 Social and Cultural Contexts of Child and Youth Care Policy, Practice, Research and Pedagogy
+LING 181 Introductory Linguistics for Language Revitalization
+FRAN 220 French Phonetics
+FA 245 The Arts and Technology I
+SOCI 373 Power, Knowledge, and Social Justice
+LAW 324 Children and the Law
+SLST 403 Topics in Russian Culture, Literature, Film (in Russian)
+ASTR 400 Radio Astronomy
+MECH 400 Design Project
+HSTR 310 Topics in American History
+EDCI 551 The Young Child in Today's Society
+GEOG 518 Advanced Spatial Analysis and Spatial Statistics
+MECH 460 Computer Aided Manufacturing
+EPHE 494 Directed Studies in Exercise Science, Physical and Health Education
+WS 206 Globalization and Resistance
+HLTH 251 Healthy Sexuality
+EDCI 499 Professional Development - Curriculum and Instruction
+ECON 246 Statistical Inference
+MECH 447 Energy Systems
+CENG 299 Introduction to Electrical and Computer Engineering Design
+POLI 490 Directed Reading
+GEOG 383 Physical and Cultural Geography of China
+MBA 571 International Financial Management
+EDCI 699 PhD Dissertation - Curriculum and Instruction
+HSTR 429 Seminar in Canadian Political History
+SPAN 511 Peninsular Literature from the 20<sup>th</sup> Century to the Present
+AE 307 Printmaking
+LAW 375 Law, Constitutionalism and Cultural Difference
+THEA 502 Seminar in History and Criticism of Comedy
+ED-D 508 Theories of Learning
+GRS 374 Pompeii and Herculaneum
+PHYS 424 Particle Physics
+POLI 610 Theories of Public Management
+ELEC 481 Analog VLSI Systems
+EDCI 355 Literature for Young Adults
+WRIT 306 Digital Publishing
+PHIL 303 Aristotle
+EDCI 431 Philosophical Foundations of Education
+AE 316 Art Criticism
+EDCI 580 Qualitative Research Methods
+FNGA 401 Managing Initiatives: Project Management and Organizational Effectiveness
+PAAS 308 Religion and Political Power
+ENGL 451 Contemporary Canadian Fiction
+PHSP 590 Directed Studies
+PHIL 208 Introduction to Arabic Philosophy
+PSYC 570 Psycholinguistics
+HA 411 Seminar in World Histories of Art
+ENGL 452 Modern Canadian Poetry
+GRS 323 Ancient Comedy and Satire
+MGB 537 Global Internship
+PAAS 410 Advanced Mandarin for Native Speakers of Chinese
+THEA 590 Directed Studies
+GEOG 332 Urban Development in the Global South
+BIOL 345 Animal Behaviour
+LAW 325 Access to Justice
+WS 480 Advanced Seminar in Women's Studies
+INGH 452 Traditional Healing in Indigenous Communities
+ART 242 Photography
+EOS 400 Advanced Field Geology
+POLI 202 An Introduction to Political Theory
+GRS 699 PhD Dissertation
+ART 360 Extended Media Practices
+PHIL 339 Theories of Justice
+ENGR 400 Sustainable Energy Systems Design Project
+BUS 670 Research Seminars
+CSC 475 Music Retrieval Techniques
+WS 211 Girlhoods in Film and Popular Culture
+ECON 548 Applied Econometric Modelling
+CYCB 222 Program Development for Infants and Toddlers
+ED-D 411 Teaching Students with Behavioural, Social and Emotional Difficulties
+GRS 501 Greek Literature
+GRS 622 Topical Field in Ancient History
+CYCB 123 The Caring and Learning Environment (ECCE)
+FA 365 Dance Workshop I
+HSTR 526 Topical Field in Ethnohistory
+EDCI 432 Historical Foundations of Education
+SOCI 271 Introduction to Statistical Analysis in Sociology
+CYC 467 Interdisciplinary Practice with Children, Youth and Families
+HSTR 496 Approaches to History
+LAW 301 The Administrative Law Process
+SOCW 545 Networks and Communities
+BIOL 307 Chordate Zoology
+ANTH 482 Seminar in Archaeology
+HINF 598 Research Project
+ANTH 484 Seminar in Biological Anthropology
+PAAS 399 Sociolinguistic Issues in Japanese
+HSTR 325 Environmental History of British Columbia
+COM 362 Business and Sustainability
+ADMN 578 European Union Urban Region Policies
+NURS 549 Health Services Research
+HA 352 The Genesis of Islamic Art and Architecture
+PAAS 455 Authors in Contemporary Chinese Literature in Translation
+PHSP 551 Social Values, Ideologies, and Policy Analysis
+MUS 534 Advanced Research Forum in Musicology
+PHYS 431 Continuum Mechanics
+POLI 233 Contemporary Political Problems
+ELEC 484 Audio Signal Processing
+EOS 420 Resource Geology
+ANTH 597 Thesis Proposal Development
+NURS 509 Evaluation of Health Care
+POLI 372 Latin American Politics
+ANTH 250 Biological Anthropology
+NURS 360 Professional Practice VI: Nursing Research
+MUS 337 Music in the Middle School Curriculum
+HINF 371 Clinical Methodologies
+CHEM 337 Bio-organic Chemistry
+MATH 436 Calculus on Manifolds
+GEOG 428 Advanced Topics in Geographic Information Sciences
+ER 411 Advanced Principles and Concepts of Ecological Restoration
+PHIL 530 Topics in Classical Logic
+EDCI 308 Studio Piano Class II
+BIOC 699 PhD Dissertation: Biochemistry
+EPHE 360 Exercise Prescription
+GRS 380 The Life and Times of Socrates
+SOCI 503 Classical Sociological Theory
+ECON 422 Issues in European Economic Integration
+ITAL 308 Travels to Bell'Italia (in English)
+LAW 347 Intellectual Property
+EDCI 335 Learning Design
+HLTH 402 Health and Community Supportive Technologies
+GRS 502 Greek History
+MBA 573 Managing People and Relationships in a Global Context
+HSTR 518 Topical Field in Political History
+NRSC 690 Directed Studies in Neuroscience
+BUS 601 Foundations of Research in International Management and Organization
+ANTH 366 Anthropology of Reproduction
+SOCI 326 Social Networks
+PAAS 397 Field School in Pacific and Asian Studies
+CYC 380 Practices for Young Children and Families: Historical and Contemporary Perspectives
+CYCB 221 Introduction to Programs For Adolescents (CYC)
+EPHE 143 Multidisciplinary Foundations of Physical Activity
+GRS 443 The Athenian Empire
+BIOL 366 Plant Physiology
+MBA 588 Study Abroad
+CYCB 251 Communication Skills for Professional Helpers
+IED 158 Indigenous Language Mentorship I
+DR 598 Master's Project
+HA 364 Documentary Film
+LING 398 Language, Gender and Sexuality
+SLST 590 Directed Studies in Slavic Studies I
+FRAN 380 French Morphology
+ED-D 522 Skills and Practice for Counselling
+CYC 549 Program Design and Development in Child and Youth Care
+WS 349 Topics in Film, Literature and Cultural Production
+SOCI 215 Class and Social Inequality
+HA 357 Arts of Mediterranean Islam, 13<sup>th</sup>- 20<sup>th</sup> Centuries
+ES 200 Introduction to Environmental Studies
+ELEC 574 Practice of Information Security and Privacy
+NURS 602 Epistemological Discourses in the Study of Nursing
+ELEC 490 Directed Studies
+LING 401 Salish
+BIOC 299 Biochemistry for Non-Majors
+THEA 365 Assisting the Costume Designer
+ITAL 505 Medieval Literature
+PAAS 304 Asian Aesthetics and Poetics
+THEA 323 Speech in the Theatre I
+MECH 420 Finite Element Applications
+PHIL 338 Meta-ethics
+ES 582 Seminar in Ecological Restoration
+FRAN 590 Directed Studies
+ENGL 353 Studies in Medieval English Literature
+SENG 399 Design Project I
+PAAS 220 Intermediate Indonesian-Malay I
+PSYC 602 Independent Research
+FRAN 444 18<sup>th</sup>-Century French Literature and Culture
+IGOV 382 Indigenous Resurgence
+ANTH 590 Directed Studies
+PAAS 202 Topics in Asian Cinema
+HSTR 385 Topics in Social and Cultural History
+POLI 381 Politics of Mass Media in Latin America
+ECON 547 Time-Series Econometrics
+CD 510 Leadership, Management and Governance within Organizations
+NURS 596 Nursing Scholarship: Integration &amp; Dissemination
+PAAS 305 Religions of East Asia
+ANTH 302 Globalization, Health, and the Environment
+ED-P 782 Nine-Week Practicum (Secondary Post-Degree)
+IB 418 International Work Study
+HUMA 100 An Introduction to Humanities
+SPAN 512 Spanish and Latin American Literature of the 19<sup>th</sup> Century
+GMST 382 Modern Crime Fiction
+EDCI 649 Doctoral Seminar in Language and Literacy
+INTD 599 Thesis
+HA 367 History in Cinema
+SOCW 356 Human Development and the Social Environment within a Global Context
+ANTH 510 Selected Topics in Social and Cultural Anthropology
+CSC 454 Fault Tolerant Computing
+ANTH 338 Anthropology of The Indigenous Peoples of British Columbia
+EPHE 693 Candidacy Exam - Kinesiology
+EOS 699 PhD Dissertation
+ASTR 661 Student Seminar (PhD)
+GEOG 388 Regional Studies
+LAW 399 Supervised Research and Writing
+SOCI 511 Research Design
+FRAN 402 An Advanced Language Course in Modern French Usage
+CYC 563 Specialized Practicum in Child and Youth Care
+EOS 490 Directed Studies in Earth and Ocean Sciences
+PSYC 512 Research Practicum
+IB 409 Selected Topics in International Business Management
+CENG 420 Artificial Intelligence
+EDCI 517 Reading Processes in the School Curriculum: Research and Processes
+LING 531 Researching Community-Based Initiatives in Language Revitalization
+MECH 444 Wind Power Systems
+GMST 481 The Age of Goethe
+ENGR 130 Introduction to Professional Practice
+LATI 309 Ovid
+NURS 598 Practice Project
+ECON 429 Population Economics
+POLI 351 Public Policy Analysis
+HA 324 Ancient and Medieval Jewish Art
+POLI 367 The Politics of Race in Canada
+LING 396 Sociolinguistic Issues in Japanese
+ED-D 425 Assistive Technology in the Inclusive Classroom
+MATH 151 Finite Mathematics
+ELEC 460 Control Theory and Systems II
+GRS 462 Archaeology of Athens
+SOCW 391 Indigenous Approaches to Healing and Helping
+ENGL 581 Studies in Commonwealth and Postcolonial Literatures: Special Topic
+CSC 524 Computational Complexity
+ELEC 462 Motor Drive Dynamics
+HSTR 379 Western Imperialism in the Middle East and North Africa
+PSYC 545 Neuropsychological Assessment
+SPAN 515 Colonial Latin American Literature
+ANTH 693 Doctoral Candidacy Examinations
+MECH 521 Computer-Aided Manufacture (CAM)
+EOS 480 Applied Geophysics
+HLTH 401 Health Policy and Health Governance
+MUS 111 Elementary Materials of Music
+CSC 545 Operations Research I
+SOCI 499 Honours Seminar and Thesis
+HA 565 Seminar in 20th-Century Native North American Arts
+CYCI 484 Historical and Contemporary Theoretical Perspectives in Early Childhood Care and Development
+WS 315 Gender and International Human Rights
+LAW 357 Sexual Orientation and the Law
+ED-P 251 Three-Week Practicum (Elementary Education)
+MECH 423 Engineering Ceramics
+LAW 590 Directed Studies in Law
+FNGA 304 Strategic Planning and Implementation
+ELEC 483 Digital Video Processing
+SLST 360 Major Figures of Russian Culture and History
+SOCW 491 Integration of Indigenous Approaches to Healing and Helping
+CYC 471 Addictive Behaviours in Children, Youth and Families
+PAAS 372 Southeast Asian Cinema
+EPHE 106 Track and Field
+MATH 467 Differential Geometry
+ECON 305 Money and Banking
+HINF 575 Human Factors in Healthcare
+ED-D 568 Inclusive Education in the 21st Century
+HSTR 510 Topical Field in Social History
+CSC 552 Advanced Switching Theory
+EDCI 409 Fostering and Assessing Mathematical Understanding
+HSTR 377 Topics in the History of the Modern Middle East
+GEOG 329 GIS Applications and Tools
+CYC 561 Special Topics in Child and Youth Care Theory
+EPHE 135 Martial Arts
+LING 580 Linguistics Seminar
+CYCB 250 Introduction to Planned Change
+THEA 367 Producing Non-Profit Professional Theatre in Canada
+CENG 461 Design and Analysis of Computer Networks
+LAW 376 International Environmental Law
+ES 382 Environmental Topics: Topics in Ecological Restoration
+LAW 501 Graduate Seminar in Law and Society
+EDCI 672 History and Philosophy of Math, Science, Educational Technology
+PHIL 362 Philosophy of Mind
+PAAS 170 Premodern Southeast Asian Cultures
+PAAS 432 Directed Readings in Japanese
+GEOG 346 Geographies of Environment and Health
+ART 340 Photography
+SPP 501 Organizational Context of Policy and Practice
+EDCI 339 Distributed and Open Learning
+ER 400 Seminar in Environmental Restoration
+FNGA 402 Intergovernmental Relations: Working with other Governments and Organizations
+GMST 550 20<sup>th</sup>-Century Cultural Studies I
+NURS 593 Thesis/Project Seminar
+SOCW 465 Interdisciplinary Practice with Children and Families
+GRS 499 Graduating Essay in Honours
+BIOC 102 Biochemistry and Human Health
+ANTH 348 Peopling of New Territories
+SPAN 249 Review of Grammar and Conversation
+GRS 605 Archaeological Methods &amp; Theory
+PSYC 390 Independent Study in Psychology
+ANTH 405 Economic Anthropology
+MATH 379 Nonlinear Dynamical Systems and Chaos
+PSYC 504 Individual Study
+ADMN 645 Organizational Change and Development
+ENGL 207 Introduction to Cultural Studies
+SENG 450 Network-centric Computing
+NURS 342 Health and Healing VI: Global Health Issues
+ENGL 101 Fundamentals of Academic Literacy
+IS 321 LE,NONET Community Internship
+MATH 693 Candidacy Examination
+LING 381 Physiology of Speech Production
+SLST 481 Existence and Anxiety in Dostoevsky
+HA 550 Seminar in Islamic Art and Civilization
+WRIT 203 Playwriting Workshop
+EOS 538 Aqueous Geochemistry and the Environment
+ECON 506 Monetary Theory and Policy
+LING 573 Second Language Acquisition Theory and Research
+ED-D 418 Introduction to Theories of Counselling
+HSTR 695 Dissertation Proposal
+PAAS 458 Themes in Classical Chinese Literature
+CHEM 489 Special Topics in Chemistry
+GEOG 490 Directed Studies in Geography
+THEA 409 Theories of Acting
+LAW 322 Family Law
+LATI 101 Introductory Latin I
+HINF 560 Health Care Quality Improvement
+SLST 363 Modern Ukraine
+ELEC 584 Dynamics and Control of Switched Mode Power Supplies
+EOS 316 Igneous and Metamorphic Geology
+HSTR 451 Seminar in Russian and Eastern European History
+ENGL 699 PhD Dissertation
+SOCW 527 Research Methods
+BCMB 580 Research Seminar
+THEA 354 Assisting the Lighting Designer
+ED-D 420 Learning Support: Context and Key Issues
+HSD 580 Special Topics in Human and Social Development
+HSTR 300 Exploring the Past
+ANTH 433 Coast Salish Culture and Contemporary Life
+IS 310 LE,NONET Preparation Seminar
+MECH 536 Microfluidics
+FRAN 360 French Field School Seminar
+LING 380 Acoustic Phonetics
+MUS 590 Directed Studies
+ES 580 Seminar in Political Ecology
+ENGR 297 Technology and Society
+ES 680 Seminar in Political Ecology
+MECH 555 Micro-ElectroMechanical Systems
+NURS 450 Nursing Leadership and Management
+NURS 483 Teaching and Learning in Nursing Practice
+POLI 690 Directed Readings
+MATH 367 Non-Euclidean Geometry
+GEOG 591 Advanced Topics in Geography
+GRS 335 Women in the Greek and Roman World
+CSC 460 Design and Analysis of Real-time Systems
+EOS 350 Understanding the Oceans
+WRIT 215 Journalism
+EPHE 764 Curriculum and Instruction in Secondary Physical Education
+STAT 355 Statistical Methods in Biology and Medicine
+ELEC 453 Antennas and Propagation
+BUS 650 Selected Topics in Research Methods and Analysis
+EDCI 522 Philosophy of Education Through Film and Other Media
+GRS 331 Greek History from the Bronze Age to Alexander
+ANTH 360 Zooarchaeology
+POLI 506 Qualitative Research Methods
+EDCI 311 Studio Guitar Class: I
+ELEC 633 Optimal Estimation
+EPHE 591 Selected Topics in Exercise Science, Physical and Health Education
+EOS 312 Introductory Chemical Oceanography
+MBA 512 Quality Management and Service Operations
+BIOL 458 Plant Biochemistry and Biochemical Ecology
+HSTR 326 Cultural Encounters on the Northwest Coast, 1880-1940
+GMST 101 Beginning German I
+PSYC 336 Adolescent Development
+ENGL 472 Gender Issues in Literature
+MECH 549 Fuel Cell Technology
+ECON 515 Labour Economics
+SPP 520 Advanced Methodology Seminar
+COM 470 Business Research
+EPHE 347 Sport in Society
+RS 309 Religion and Sexuality
+MBA 511 Services Marketing
+SPAN 499 Honours Graduating Essay
+PAAS 402 Asian Canadians and Their Homelands
+BUS 606 Seminar in Organizational Analysis
+COM 415 Business and the Internet
+DSST 443 Activism and Advocacy
+CIVE 452 Engineering for Earthquakes and Extreme Events
+ENGL 509 Digital Literary Studies: DHSI Proseminar
+ENGR 121 Design II
+CSC 305 Introduction to Computer Graphics
+LAW 309 The Law of Evidence
+AE 310 Introduction to Applied Design
+SPAN 460 Hispanic Poetry
+GEOG 228 Introduction to Remote Sensing
+ES 419 Green Legal Theory
+EDCI 748 Language and Literacy in the Elementary School (Primary or Intermediate Grade Emphasis)
+SPAN 185 Hispanic Culture Through Film (in English)
+LAW 355 Legal Skills
+SOCI 315 Class, Status and Power
+CYC 131 Child and Youth Care Practice in Indigenous Settings
+HDCC 200 Introduction to Human Dimensions of Climate Change
+BIOL 325 Tree Biology
+WRIT 100 Introduction to Writing
+ED-P 798 Final Practicum (Secondary)
+HA 230 Monuments of South and Southeast Asia
+BIOL 324 Biology of Land Plants
+EOS 240 Geochemistry
+ECON 481 Environmental Economics II
+CYC 541 Historical and Contemporary Theoretical Perspectives in Child and Youth Care
+THEA 390 Directed Studies in Theatre History
+FRAN 500 Introduction to Bibliography and Research Methods
+ECON 401 Advanced Topics in Macroeconomic Theory
+WRIT 412 Recurrent Themes in Film
+HINF 550 Health Information Systems Design
+ELEC 581 Power Electronics
+SOCI 520 Selected Topics in Contemporary Sociology
+ENGL 468 Seminar in Late 20<sup>th</sup>-Century Literary Theory
+PSYC 339 Adult Development and Aging
+ENGL 305 Visual Rhetoric for Professional Writers
+GMST 488 Performing German Drama
+NURS 500 Scholarly Writing for Advanced Practice Nursing
+ECON 531 Environmental Economics
+EDCI 571 Research in Curriculum and Instruction in the Secondary Grades
+ART 500 First Year Drawing
+HSTR 276 Modern Latin America
+FORB 570 Advanced Topics in Forest Biology
+THEA 465 Costume Design for Production
+CYC 461 Child Life Practice in Hospitals and Community Settings
+FRAN 504 Studies in Culture and Society
+ELEC 456 Mobile Communications
+EPHE 456 Occupational Ergonomics
+WRIT 309 Basic Forms and Techniques in Short Fiction
+ADMN 590 Directed Studies
+EPHE 599 Thesis - Exercise Science, Physical and Health Education
+FA 200 Special Topics in Fine Arts
+PSYC 530 The Social Self
+BIOC 404 Proteins
+PHYS 325 Optics
+POLI 211 European Integration and the European Union
+FA 350 Introduction to Architecture, Theory and Practice
+BCMB 537 Experimental Origins of Molecular Biology
+ED-D 518 Advanced Seminar in Theories of Counselling Psychology
+AE 320 Art and the Young Child
+MECH 695 Seminar
+ANTH 100 Introduction to Anthropology
+FRAN 446 The Enlightenment
+PHIL 203 Elementary Formal Logic
+MUS 431 Music Education Seminar II: Current Issues in Music Education
+CYC 554 Diversity in Practice
+ECON 365 Econometrics: Part I
+MECH 524 Planning and Control of Advanced Manufacturing Systems
+LING 495 Language Variation and Change
+LAW 353 Environmental Law Centre Clinic
+WS 338 Transnationalism, Migration and Gender
+ED-D 502 Seminar in Educational Evaluation
+CD 515 Critical Issues in Co-op Governance and Management
+HSTR 355 Epidemics and Public Health in Modern History
+ELEC 544 Analog VLSI and Neural Systems
+EDCI 515 e-Research: Harnessing and Understanding Technology in Research
+ED-D 619 Counselling Supervision: Theories and Practice
+THEA 411 Seminar in Theatre History IV
+SPAN 150 Famous and Infamous Hispanic and Italian Figures (in English)
+GRS 333 Alexander and the Hellenistic Age
+CHEM 423 Organometallic Chemistry
+ART 390 Directed Studies in Visual Arts
+MUS 188 Philomela Women's Choir
+PHIL 290 Introduction to Selected Topics
+EDCI 514 Educational Discourses
+PAAS 209 Introductory Special Topics in Pacific and Asian Studies
+CHEM 231 Introductory Organic Chemistry
+BCMB 541 An Introduction to Clinical Oncology for Cancer Researchers
+RS 450 Capstone Seminar
+ART 272 Video Art
+EDCI 340 Media Activism, Social Justice, and Educational Change
+MATH 208 Mathematics for Economics and Econometrics
+ADMN 607 Organizational Behaviour and Analysis
+FA 101 Creative Being
+ECON 595 Directed Studies in Economics
+PAAS 466 Redistribution, Reciprocity and Commodity Relations in Pacific Societies
+LING 204 Research Methods in Linguistics
+HA 345 People and Things in the Early Modern Domestic Interior
+IGOV 400 Indigenous Research Methods
+ANTH 409 Applied Ethnographic Film
+CSC 320 Foundations of Computer Science
+POLI 605 Problems of Political Analysis
+WS 314 Imagining India from Empire to Bollywood
+LING 200 Introduction to Phonetics and Phonology
+MEDS 410 Functional Human Neuroanatomy
+BME 350 Biomedical Engineering Design
+EOS 205 Mineralogy
+CHEM 452 Reaction Mechanisms and Dynamics
+PHIL 371 Logic
+PAAS 171 Modern Southeast Asian Cultures
+MEDI 452 Special Topics in Medieval Manuscript Studies
+SLST 452 Fantasy and Science Fiction in Russia
+EDCI 465 The Art of Mathematics
+ENTC 510 Entrepreneurship Searching and Screening
+HSTR 443 Atheism and Unbelief in Early Modern Europe
+COM 290 Introduction to Canadian Business
+MATH 585 Seminar
+SENG 411 Advanced Methods for Human Computer Interaction
+ECON 321 The Economic History of Canada
+PAAS 333 Advanced Comprehension and Conversation in Japanese
+FRAN 502 Studies in Applied Linguistics
+CHEM 232 Organic Chemistry with Biological Applications
+GEOG 301 Environmental Impact Assessment
+ELEC 399 Design Project I
+LING 159 Indigenous Language I
+ASTR 561 Student Seminar (MSc)
+ED-P 461 Nine-Week Elementary Practicum (Elementary or Middle Years Post Degree)
+SOCI 389 Death and Dying and the Body
+MATH 551 Differential and Integral Equations
+HSTR 323 Canadian-American Relations
+WRIT 312 Structure in Cinema and Television Drama
+MGB 583 Language, Communication and Global Business
+SOCW 598 Individual Graduating Research Project/Report
+CYC 330 Applied Practice in Indigenous Contexts
+PAAS 364 Indigenous Societies and Colonial Relations in Oceania
+EOS 422 Energy Resources
+ES 403 Field Course in Environmental Law and Sustainability
+EPHE 155 Introduction to Nutrition: Concepts and Controversies
+EDCI 336 Technology Innovation in Education
+HINF 501 Database Design
+WRIT 590 Directed Studies in Instructional Skills Preparation
+HA 552 Seminar in the Arts of Mughal India
+LING 504 Current Issues in Morphology
+IED 199 Special Studies in Indigenous Education
+MUS 336 Strings: Techniques and Mentoring
+MATH 435 Real Analysis II
+MGB 180 Language Skills I
+ELEC 586 Multiresolution Signal and Geometry Processing with Software Applications
+CYC 140 Written Communications in Child and Youth Care
+HA 492 Advanced Studies in History in Art
+IED 473 CENENITEL TW TOLNEW: Helping each other to learn
+EPHE 576 Teaching and Coaching Effectiveness in Physical Education and Sport
+CYCB 260 Special Topics in Child and Youth Care
+CSC 599 Master's Thesis
+WRIT 325 Writing for Theatrical Production Workshop
+LING 578 Sociocultural Theory and Second Language Learning
+HA 284 Indigenous Arts: Local Themes and Global Challenges
+GEOG 546 Advanced Topics in Human and Social Geography
+CSPT 501 Contemporary Cultural Social and Political Thought I
+NURS 494 Nursing Practice in Cancer Care
+ADMN 598 Master's Project
+CENG 356 Engineering System Software
+SOCW 492 Protecting Indigenous Children
+ME 319 Vocal Techniques
+SOCI 471 Multivariate Statistical Analysis
+GEOG 319 Remote Sensing of the Environment
+HA 580 Topics in Cultural Resource Management
+SOCW 522 Critical Indigenous Analysis of Social Work Theory
+SOCI 210 Foundations of Sociological Theory
+HA 563 Seminar in Political Art
+MATH 531 Functional Analysis
+PHIL 431 Advanced Biomedical Ethics
+IED 499 Professional Development - Indigenous Education
+PHIL 351 Epistemology
+MEDI 360 Selected Topics in Medieval Culture
+ECON 337 History of Economic Thought to 1870
+DR 509 Dispute Resolution System Design and Public Interest Disputes 
+BIOL 351 The Biology behind the News
+IGOV 575 Mentorship
+HSD 400 Policy in the Human Services
+EPHE 452 Teaching Strategies for Games in Physical Education
+SENG 424 Reliability Engineering
+ES 690 Directed Studies
+HSTR 372 The Atlantic Slave Trade
+GEOG 523 Qualitative Methods in Human Geography
+EDCI 462 Creative Thought and Expression Through Music
+GMST 365 Marx, Nietzsche, Freud
+EDCI 513 Community Art Education
+BIOL 516 Neuroethology
+MGB 510 The North American Business Context
+ECON 565 The Econometrics of Cross-Section Data
+ER 331 Urban Restoration and Sustainable Agricultural Systems
+ES 570 Field Study
+ENGL 693 Candidacy Examination
+EPHE 357 Introduction to Research
+MEDS 487 Special Topics in Medical Sciences
+FNGA 301 First Nations Governance: Historical and Contemporary Challenges
+PSYC 593 Family Interventions
+ADMN 544 Economic Evaluation Methods and Applications
+MGB 570 Global Leadership and Cultural Intelligence
+ENGL 598 Master's Essay
+ECON 482 Natural Resource Economics II
+ART 521 First Year Sculpture
+ECON 453 Economic Growth
+SOCW 551 Indigenous Communities: Practice and Policy
+CYCB 112 Practicum III: The Child in the Curriculum
+NURS 693 Candidacy Examination
+ECON 694 Scholarship Skills Seminar
+ART 570 Independent Study
+GREE 102 Introductory Ancient Greek II
+MUS 588 MMus Practicum
+PAAS 299 Experiential Learning
+STAT 557 Sampling Techniques
+MECH 220 Mechanics of Solids I
+SLST 303 Russian Popular Culture (in Russian)
+ENGL 135 Academic Reading and Writing
+ENGL 426 Studies in North American Literature
+IED 287 Special Topics in Indigenous Education
+EPHE 104 Special Activity
+HA 359 Islamic Arts from the Mongol Conquests to Modernity
+LAW 364 Law, Governance and Development
+SLST 350 Introduction to Russian Film
+IED 251 Indigenous Language Teaching and Learning Practicum
+LING 412 Advanced Phonological Analysis
+ECON 407 Market and Government in the History of Economic Thought
+COM 250 Fundamentals of Marketing
+CYC 462 Perspectives on Substance Use in Child and Youth Care Practice
+MRNE 400 Directed Studies
+FRAN 404 History of French
+GRS 505 Ancient Art and Archaeology
+CYC 564 Special Topics in Child and Youth Care Research
+PSYC 365 Fundamentals of Clinical Psychology
+SENG 330 Object-Oriented Software Development
+COM 430 Marketing Strategy
+CSC 361 Computer Communications and Networks
+MEST 310 The Portrayal of the Family in Mediterranean Culture (In English)
+PAAS 330 Professional Japanese
+FA 346 The Arts and Technology II
+MUS 180 Ensembles
+CHEM 462 Advanced Inorganic Chemistry Laboratory
+ENGL 438 Special Studies in Post-Colonial Literature and Theory
+POLI 339 The Empirical Analysis of Politics (Seminar Course)
+PHIL 331 Biomedical Ethics
+CSC 105 Computers and Information Processing
+PSYC 334 Organizational Psychology
+CH 589 Special Studies in Heritage Conservation
+SOCI 316 Social Movements
+ES 481 Advanced Environmental Topics in Ethnoecology
+PAAS 100 Introduction to Pacific and Asian Studies
+ENGL 203 Introduction to American Literature
+HSTR 346 France from the Renaissance to Louis XIV
+THEA 699 Dissertation
+IGOV 540 Indigenous Resurgence
+POLI 590 Directed Readings
+EPHE 201 Qualitative Analysis of Human Movement
+ENGL 462 Studies in Modern Critical Theory
+CHEM 599 MSc Thesis
+ART 106 Foundation Core Media Technologies and Arts
+EDCI 691 Special Problems - Curriculum and Instruction
+LAW 344 Insurance Law
+GS 500 Special Topics
+ENGL 418 Print Media Genres and Techniques for Professional Writers
+THEA 423 Speech in the Theatre III
+MECH 462 Small Business Organization
+THEA 317 Studies in 19th-Century Theatre
+THEA 503 Seminar in European Theatre History
+MICR 599 MSc Thesis: Microbiology
+WS 311 Sex Work, Trafficking and Human Rights
+HA 450 Seminar in Islamic Art and Civilization
+WRIT 353 Writing a Sense of Place
+GEOG 323 Cartography
+THEA 315 Studies in Medieval Theatre
+IED 358 Indigenous Language Mentorship III
+THEA 251 Introduction to Design I
+COM 495 Marketing Communications
+ED-D 424 Teaching Students with Developmental Disabilities
+FRAN 432 Common Grounds in European Medieval Literature (in English)
+LAW 100 The Constitutional Law Process
+ADMN 693 PhD Candidacy Examination
+EPHE 455 Nutrition for Exercise and Health
+ENGL 505 Studies in Literary Theory: Area Course
+EDCI 433 Anthropology and Education
+GMST 201 Intermediate German I
+LING 184 Indigenous Language Materials Development
+CSC 371 Data Management and Visualization
+EPHE 590 Special Problems - Exercise Science, Physical and Heath Education
+NRSC 500 Fundamentals of Neuroscience
+POLI 101 Canadian Politics
+CD 591 Selected Topics Course
+PSYC 585 Clinical Assessment: Psychosocial Functioning
+LING 374 Approaches and Methods in Language Teaching
+GRS 342 Roman Society
+DHUM 501 Introduction to Digital Humanities
+BIOL 346 Freshwater Ecosystems
+AE 309 Ceramics: Hand Building
+LAS 495 Directed Reading
+STAT 552 Applied Stochastic Models
+IED 359 Indigenous Language III
+CSC 529 Cryptography
+POLI 633 Themes in Contemporary Politics
+ELEC 517 Software Defined Radio
+SPP 522 Critically Engaging with Research
+ED-D 407 Evaluating and Reporting Student Progress
+PHSP 507 Practicum
+MATH 377 Mathematical Modelling
+HA 699 PhD Dissertation
+EDCI 545 The Reading Curriculum in the Secondary School: Theory and Practice
+LAW 358 Race, Ethnicity, Culture and the Law
+STAT 459 Survival Analysis
+ART 541 First Year Photography
+EOS 311 Biological Oceanography
+CYCB 230 The Ecology of Health, Safety and Nutrition for Children
+CH 562 Curatorial Planning and Practice
+ED-D 615 Individual Apprenticeship in University Teaching
+PAAS 318 Intermediate Modern Chinese II
+PAAS 456 Thematic Study of Contemporary Chinese Literature in Translation
+HA 545 Seminar in Early Modern Art, <i>c.</i> 1500-1750
+GEOG 304 Coastal Conservation
+HINF 553 e-Health Sustainability
+COM 440 Business and Government Relations
+MBA 540 Applied Data Analysis and Decision Analysis
+PHIL 308 The Empiricists
+THEA 326 Stage Movement II
+GS 501 Interdisciplinary Topics
+ES 427 Colonization, Nature, and the Making of British Columbia
+CYC 460 Special Topics in Child and Youth Care
+CYC 580 Child and Youth Care in the Context of International Development
+HSTR 528 Field School in Ethnohistory
+THEA 327 Introduction to Physical Theatre Creation
+IED 458 Indigenous Language Mentorship IV
+HSTR 301 The Historian's Craft
+ECON 403 Agricultural Economics and Policy
+GEOG 303 Conservation and Ecology of Whales
+PHIL 260 Introduction to Philosophy of Mind
+GREE 301 Greek Epic
+ELEC 310 Digital Signal Processing I
+ECON 520 Economic Development
+CYC 132 Indigenous Leadership in Child and Youth Care
+ENGL 453 Contempo<sup></sup>rary Canadian Poetry
+PHIL 490 Advanced Topics in Philosophy
+ENGL 466 Cultural Studies
+BIOL 527 Advanced Topics in Cell Biology
+GEOG 599 MA, MSc Thesis
+MATH 200 Calculus of Several Variables
+GEOG 322 Digital Remote Sensing
+CHEM 432 Advanced Organic Synthesis
+PHIL 433 Advanced Social and Political Philosophy
+HA 480 Seminar in Contemporary North American Indigenous Arts
+LAW 311 Regulation of Financial Institutions
+ART 271 Video Art
+MUS 499 Graduating Projects in Music History
+CYC 569 Human and Organizational Change
+MUS 388 Philomela Women's Choir
+MBA 561 Entrepreneurial Planning and Finance
+ER 250 Directed Experiential Learning in Ecological Restoration
+GMST 501 Introduction to Bibliography, Methods of Research, and Theory of Literary Criticisms
+FRAN 422 Contemporary Francophone African Novel
+PAAS 309 Human Rights and Cultural Expression in the Asia-Pacific Region
+SLST 599 Thesis
+MECH 523 Modeling and Design of Advanced Hybrid Electric Vehicles
+EPHE 570 Skill Acquisition in Physical Education and Sport
+POLI 507 Comparative Policy and Governance
+PSYC 375 Interpersonal Relations
+SCIE 290 Individual Study
+ART 352 Audain Studio Seminar
+CSC 226 Algorithms and Data Structures II
+PAAS 152 Essentials of Chinese Civilisation (in Chinese)
+AE 306 Painting
+SPAN 255 Communicating in Spanish
+ECON 452 Information and Incentives
+GMST 102 Beginning German II
+POLI 508 Comparative Politics
+GRS 315 Age of Augustus
+GMST 369 Special Topics in Scandinavian Literature and Film
+EDCI 437 Visual Literacy
+GEOG 357 Parks and Protected Areas
+PHIL 590 Directed Studies
+BIOL 436 Human Molecular Genetics
+ANTH 493 Directed Studies in Anthropology: Cultural Anthropology
+PAAS 181 Modern Japanese Culture
+PHIL 561 Topics in Philosophy of Language
+PHSP 540 Knowledge Development in Public Health Nursing
+PAAS 467 Seminar on Indonesia
+EOS 416 High Temperature Petrology
+EOS 491 Advanced Topics in Earth and Ocean Sciences
+LAW 367 Communications Law and Policy
+SOCI 387 Technology, Science and the Information Society
+ENGL 373 English Literature of the Restoration Period: 1660-1700
+MECH 543 Cryogenic Engineering
+CSC 390 CSC Exchange Term
+HA 241 The Image of the Artist
+SOCI 307 Regulation and Social Control
+ASTR 580 Directed Studies
+MECH 350 Engineering Design
+PHIL 261 Philosophy of Religion
+MECH 483 Mechanics and Energy Conversion for Living Cells
+ELEC 498 Honours Thesis
+CHEM 647 Materials Science
+PSYC 564 Advanced Analysis of Change and Variation in Lifespan Development
+HA 264 Art History and the Lens
+SOCW 404 Child Welfare Specialization: Child Protection Practicum
+HSTR 444 Early Modern French Cultural History
+ENGL 449 Special Studies in Contemporary Literature
+MUS 181 Chamber Music
+FRAN 523 Studies in Writing and Gender
+PSYC 533 General Linear Model - Multivariate
+CIVE 450 Green Building Design
+EPHE 125 Softball
+POLI 608 Comparative Politics
+PHYS 480 Advanced Special Topics in Physics
+CHEM 101 Fundamentals of Chemistry I
+HLTH 480 Special Topics in Health Studies
+PADR 503 Professional Integrity in the Public and Non-Profit Sectors
+CHEM 670 Property-Directed Synthesis Discussion
+ART 511 First Year Painting
+ECON 245 Descriptive Statistics and Probability
+HINF 335 Health Information Standards
+COM 405 Career Preparation Across Borders
+THEA 431 Directing III
+MATH 446 Advanced Partial Differential Equations
+LAW 366 Patent Law
+MUS 503 Introduction to Graduate Study and Music Bibliography
+LING 099 English as a Second Language
+PSYC 490 Advanced Independent Study in Psychology
+GEOG 537 Advanced Seminar in Physical Geography
+PHIL 460 Advanced Philosophy of Mind
+GEOG 422 Advanced Topics in Remote Sensing
+ELEC 512 Digital Communications
+HSTR 511 Topical Field in Military History
+ENGL 508 Digital Literary Studies: Special Topic
+SOCI 525 Gender, Power and Social Justice
+PAAS 180 Premodern Japanese Culture
+ART 495 Visual Structures in the Imaginative Realm II
+ANTH 342 Archaeology of Precolumbian America
+STAT 457 Time Series Analysis
+ENGL 310 Practical Criticism
+SLST 380 Love and Sex in Russian Literature, Culture and Film
+EPHE 699 PhD Dissertation - Kinesiology
+CYC 545 Quantitative Research Methods in Child and Youth Care
+NUNP 547 Integrated Primary Health Care and Advanced Practice Nursing: III (Theory) (Adult II)
+FORB 527 Advanced Plant Biochemistry and Biochemical Ecology
+ES 407 Mindfulness, Sustainability, and Social Change
+ANTH 520 Specialized Themes in Anthropology
+CYC 558 Graduate Writing Seminar
+MUS 437 Music in the Middle School Curriculum
+ELEC 434 Biophotonics
+GEOG 373 Applied Climatology
+ENGR 001 Work Term 1
+CIVE 310 Environmental Engineering
+GMST 401 Topics in Popular Culture (in German)
+SOCW 590 Directed Studies
+HSTR 370 Topics in World and Comparative History
+ENGL 531 Studies in the Literature of the 17<sup>th</sup> Century: Special Topic
+DHUM 150 Tools, Techniques, and Culture of the Digital Humanities
+BUS 687 Teacher Training
+PHIL 321 Philosophy of Medicine
+ADMN 530 Increasing Organizational Effectiveness: Working with Consultants
+SOCI 465 Environmental Sociology
+PAAS 590 Directed Studies
+EOS 580 Directed Studies
+GMST 461 Metropolis Berlin
+GMST 460 Multi-Cultural and Transnational Studies
+CSC 490 Directed Studies
+ENGL 365 17th-Century Poetry and Prose to 1660
+CSC 471 Fundamentals of Computer Rendering.
+CSPT 601 Contemporary Cultural Social and Political Thought II
+PHIL 551 Topics in Epistemology and Metaphysics
+CHEM 555 Statistical Thermodynamics
+ADMN 421 Financial Management
+MATH 535 Topics in Analysis
+STAT 559 Survival Analysis
+HSTR 466 Migration, Race &amp; Empire: Canada and the Transpacific
+MATH 201 Introduction to Differential Equations
+GMST 520 17<sup>th</sup>-Century Cultural Studies
+PAAS 599 MA Thesis
+MECH 390 Energy Conversion
+PHIL 462 Advanced Philosophy of Language
+HINF 699 Dissertation
+CSC 510 Advanced Human-Computer Interaction
+GMST 301 Advanced German I
+HSTR 115 The Second World War
+SPP 510 Policy Context of Practice
+PHIL 510 Topics in Cognitive Science
+EDCI 338 Social Media and Personalized Learning
+ECON 572 Advanced Topics in Environmental and Resource Economics
+CENG 453 Parallel and Cluster Computing
+ASTR 429 Observational Astronomy
+ENGL 340 Introduction to Old English
+CSC 100 Elementary Computing
+BUS 694 Thesis Proposal Defence
+ELEC 509 Seminar
+BIOL 329 Biology of the Vertebrates of British Columbia
+COM 100 Introduction to Business Decision Making
+PAAS 355 Modern Chinese Literature and Society 1900-1949 in English
+ADMN 420 The Public Policy Process
+ES 443 Climate Change and Biodiversity
+HINF 381 Epidemiology, Population Health and Public Health
+AE 308 Sculpture
+HSTR 120 History of Human Rights
+ME 350 Kod&aacute;ly - Pedagogy I
+EDCI 518 Research in Language and Literacy: Curriculum Development
+GEOG 406 Sustainable Cities
+CSC 526 Computational Geometry
+HSTR 470 Seminar in World and Comparative History
+EPHE 105 Swimming
+PAAS 457 Authors in Classical Chinese Literature
+ED-D 500 Learning Principles
+ES 670 Field Study
+PSYC 201 Research Methods in Psychology
+RS 308 Religion and Society in Canada
+EDCI 525 Planning for Effective Schools
+SLST 202 Intermediate Russian II
+LING 507 Semantics
+CSC 115 Fundamentals of Programming II
+CYCB 121 Foundations of Curriculum Planning (ECCE)
+EDCI 523 Diverse Voices and Visions in Education
+MBA 521 Leadership Strategies
+GRS 503 Latin Literature
+PHIL 511 Topics in the History of Philosophy
+CHEM 461 Advanced Analytical Chemistry Laboratory
+WS 205 Gender, Food and Culture
+EDCI 510 Research Issues and Studio Development in Art
+ENGL 393 Myth and Literature
+ITAL 507 Renaissance and Baroque Literature
+HA 328 Gothic Art and Architecture
+WRIT 335 Forms and Techniques in Short Creative Nonfiction
+SENG 371 Software Evolution
+BIOL 321 Survey of Invertebrates
+HSTR 512 Topical Field in Intellectual/Cultural History
+ENGL 561 Studies in 20th-Century British and Irish Literature: Special Topic
+ECON 416 Cost Benefit Analysis: Principles and Application
+BIOL 435 Molecular Evolution
+ANTH 410 Advanced Topics in Medical Anthropology
+PAAS 353 Survey of Classical Chinese Literature
+LAW 384 Field Course in Environmental Law and Sustainability
+ER 313 Biodiversity and Conservation Biology
+MEDS 490 Directed Studies in Medical Sciences
+NURS 351 Nursing Practice VI: Promoting Health of Communities and Society
+LAW 369 Feminist Legal Theories
+HSTR 500 Historiography
+CYCB 141 Child Development I
+MATH 348 Numerical Methods with Applications to Finance and Economics
+BUS 603 Seminar in Strategy and Organization I
+POLI 365 British Columbia Political Economy
+ED-D 403 Educating the Developing Learner
+LAW 313 Securities Regulation
+PHYS 323 Quantum Mechanics I
+ART 406 Studies in Drawing, Photo, Media and Interdisciplinary Practices II
+ELEC 585 Motor Drive Dynamics
+CENG 496 Selected Topics in Computer Engineering
+ELEC 412 Electronic Devices II
+EDCI 352 Multiliteracies Curriculum
+GRS 693 Candidacy Exam
+MUS 204 Group class in Composition I 
+SJS 100 Introduction to Theories of Social Justice
+CD 504 Practices and Perspectives on Forging Change
+RS 307 Religion &amp; The Environment
+MECH 538 Advanced Aircraft Design
+EOS 562 Mathematical Tools for Earth, Ocean and Atmospheric Sciences
+EDCI 533 Theory and Practice in Curriculum Design and Change
+ENGL 560 Studies in 20th-Century British and Irish Literature: Area Course
+HDCC 400 Seminar on Human Dimensions of Climate Change
+ANTH 352 Human Osteology
+EUS 390 Directed Studies in Europe
+PHYS 110 Introductory Physics I
+SPAN 469 Special Topics in Hispanic Literatures
+ADMN 507 Public Sector Leadership: Teams, Self and Organization
+WRIT 501 Special Topics in Advanced Studies in Writing
+ED-D 400 Learning Difficulties in the Elementary Classroom
+WRIT 405 Multi-Genre Workshop
+THEA 314 Studies in Theatre of the Ancient World
+WRIT 326 Digital Media for Storytellers
+ED-D 422 Management and Adaptation of the Classroom Environment
+COM 322 Leading People and Organizations II 
+POLI 347 Discourses of World Politics
+CSC 535 Compiler Construction
+FRAN 412 Contemporary French-Canadian Novel
+PSYC 551 Neuropsychopharmacology
+EPHE 563 Community Leisure Service Development
+PAAS 550 Research Methodologies
+ENGL 585 Studies in Canadian Literature: Area Course
+LING 359 Indigenous Language III
+PSYC 591 Special Topics in Clinical Psychology
+PHIL 453 Advanced Theory of Perception
+SPP 598 Extended Essay
+ES 503 MA/MSc Research Colloquium
+ASTR 507 Stellar Dynamics
+MUS 391 Cross-Cultural and Historical Topics in Music
+EPHE 244 Canadian Recreation Delivery Systems
+SOCI 585 Seminar on Aging
+ES 421 Ethnobotany: Plants and Human Cultures
+COM 425 Taxation for Managers
+MUS 332 Woodwinds
+ITAL 474 Italian Comic Theatre
+POLI 320 The Canadian Constitution
+WRIT 331 A Study of Narrative
+FRAN 280 Literary Texts I
+ECON 413 Economics of Firm Strategy
+ES 321 Ethnoecology
+SOCW 490 Directed Studies
+ED-D 618 Doctoral Seminars in Counselling Psychology
+EPHE 109 Recreational Dance
+EOS 110 Oceans and Atmosphere
+PHIL 307 Hellenistic Philosophy
+PSYC 460 Family Violence across the Lifespan
+CSC 360 Operating Systems
+BCMB 680 Advanced Research Seminar
+THEA 435 Applied Theatre II
+CH 582 Leadership in Cultural Heritage Management
+PHIL 534 Topics in Ethics
+CYCI 485 Child and Adolescent Development in Context
+ES 365 Climate and Society
+SENG 426 Software Quality Engineering
+BIOL 432 Molecular Endocrinology
+CENG 460 Communication Networks
+IED 572 SK&Aacute;Ls: Indigenous Epistemologies
+BIOL 336 Biology of Algae 
+POLI 345 Ethics in International Relations
+PHIL 375 Philosophy of Mathematics
+EDCI 552 Contemporary Trends in Early Childhood Education
+HSTR 477 Seminar in the History of the Modern Middle East
+ED-D 693 Doctoral Candidacy Exam in Educational Psychology
+CYC 205 Applying Change Theory in CYC Practice
+ECON 571 Advanced Topics in Labour Economics
+MUS 581 Chamber Music
+FRAN 452 French Romanticism
+PAAS 385 Love and Sex in Japanese Culture
+TS 200 Introduction to the Human Uses of Technology
+GEOG 453 Field Studies in Coastal and Marine Resources
+FRAN 325 Studies in the Cultures of the French-speaking World (in English)
+ANTH 343 Archaeological Field Techniques
+PSYC 604 Individual Study
+HSTR 523 Topical Field in History of Science/Technology
+ED-P 351 Six-Week Practicum (Elementary Education)
+SPAN 502 Core Reading List Course I
+CYC 265 Introduction to Group Work in Child and Youth Care Practice
+NURS 425 Qualitative and Quantitative Analysis
+PSYC 582 Psychopathology: Adulthood
+AE 402 Directed Studies in Specific Methodologies, Materials and Techniques in Art Education
+LAW 331 International Ocean Law
+MUS 240 Individual Tuition
+PAAS 332 Advanced Readings in Japanese II
+ART 493 Advanced Studio II
+HSTR 450 The Holocaust
+EOS 519 Selected Topics in Geophysics
+LAW 370 Law and Society in Southeast Asia
+BIOL 439 Molecular Epidemiology
+POLI 505 Problems of Political Analysis
+COM 204 Co-op Preparation
+SOCW 528 Research Seminar
+SENG 422 Software Architecture
+GEOG 474 Field Studies in Biogeography
+CYC 152 Introduction to Helping Skills in Child and Youth Care Practice
+EPHE 579 Current Issues in Coaching Studies
+FORB 571 Forest Biology Workshop
+CSC 598 Major Project
+HINF 516 Telemedicine in Action
+LING 575 Research Methods in Applied Linguistics
+HUMA 495 Advanced Topics in Humanities
+AGEI 473 Chronic Disease and Ageing
+SOCI 412 Sociological Explanations
+NURS 482 Pharmacological Knowledge for Nursing Practice
+GREE 303 Greek Historians
+PSYC 331 Social Psychology
+ENGL 146 The Literature of Our Era
+DR 507 International Human Rights and Dispute Resolution
+BIOL 550 Directed Studies
+LAW 314 Commercial and Consumer Law
+MUS 532 Comparative Topics in Musicology
+GEOG 391 Topics in Geography
+EDCI 532 Emerging Trends and Topics in Curriculum Studies
+EDCI 347 Children's and Young Adult Literature
+HLTH 360 Health Literacy and System Navigation
+EDCI 402 Reading: Instructional Principles and Strategies
+HSTR 513 Topical Field in Women's/Gender History
+MECH 445 Cryogenic Engineering
+BIOL 599 Thesis
+CSC 564 Concurrency
+COM 351 Marketing Principles and Management
+PHIL 356 Philosophy of Science
+ELEC 370 Electromechanical Energy Conversion
+PHIL 515 Topics in Contemporary European Philosophy
+PSYC 597 Clinical Psychology Colloquium
+HA 549 Seminar in Orientalism in Art and Architecture
+ANTH 304 Technology and Culture
+LING 510 Current Issues in Phonology
+AE 201 Image Development
+PSYC 562 Infancy and Childhood
+ANTH 551 Advanced Research Seminar in Ecology and Evolution
+MATH 549 Scientific Computing
+FRAN 514 Studies in Children's Literature
+CSC 562 Distributed Computing
+THEA 102 Theatre Appreciation: From Page to Stage
+LAW 379 Law and Religion
+EPHE 141 Human Anatomy
+ENGL 342 Early Middle English Literature
+ASTR 512 Astronomical Instrumentation
+MUS 488 Philomela Women's Choir
+POLI 463 U.S./Canadian Comparative Indigenous Law and Policy
+CHEM 453 Structure, Reactivity and Bonding
+ENTC 520 Entrepreneurship Planning and Financing
+POLI 458 Topics in Environmental Politics
+GMST 352 Recent Film
+SPAN 500 Introduction to Bibliography and Methods of Research
+EDCI 447 Principles of Teaching English to Second Language Learners
+MATH 498 Seminar and Independent Project
+LAW 106 The Legal Process
+THEA 305 Advanced Production and Management
+ELEC 499 Design Project II
+BIOL 521 Advanced Topics in Marine and/or Freshwater Algae
+ENGR 110 Design and Communication I
+SLST 201 Intermediate Russian I
+CYC 598 Applied Research Project
+GS 601 Jointly Supervised Individual PhD (Study At Partner Institution)
+HA 564 Seminar in Contemporary Art
+THEA 122 The Acting Experience
+SLST 361 Imperial Russia, 1689-1917
+THEA 322 Acting IV
+FRAN 470 Studies in Culture, Literature or Language of the French-Speaking World
+PHIL 403 Advanced Philosophical Logic
+LAW 320 Succession and Estate Planning
+MATH 588 Discrete Mathematics Seminar
+EDCI 442 Supporting Learners Experiencing Difficulties with Literacy II
+PHSP 506 Public Health Research and Evaluation
+POLI 382 Politics and Religion
+MATH 490 Directed Studies in Mathematics
+EDCI 548 Development and Implementation of the Curriculum
+MUS 140 Individual Tuition
+POLI 616 Canadian Politics
+AE 422 Advanced Digital Arts
+ED-D 540 Women, Learning and Leadership
+ENGL 338 Introduction to Old Icelandic
+COM 361 International Business
+MUS 365 History of the Guitar
+ELEC 404 Microwaves and Fiber Optics
+CYCB 110 Practicum I: Community Care Settings For Children and Youth
+FRAN 525 Studies in Literature and Translation
+GMST 590 Directed Studies I
+THEA 410 Seminar in Theatre History III
+WRIT 509 Instructional Skill Preparation
+PHYS 411 Time Series Analysis
+MEDI 451 Reading, Writing and the Book in the Medieval World
+PHSP 502 Life Course Determinants II: Epidemiology and Biostatistics
+ED-P 781 Six-Week Practicum (Secondary Post-Degree)
+TS 300 Networking, New Media and Social Practices
+FRAN 516 Studies in Qu&eacute;bec Literature
+BIOL 330 Study Design and Data Analysis
+MECH 564 Advanced Finite Elements
+MUS 362 Vocal Pedagogy
+MECH 601 Engineering Analysis
+LAW 693 PhD Candidacy Examinations
+ELEC 536 Computer Vision
+HA 461 Seminar in Modern Art II (1945-present)
+POLI 318 Government and Politics in East Asia
+ANTH 516 Seminar in Anthropological Research Methods
+PAAS 200 Introduction to Theories and Methods in Pacific and Asian Studies
+FA 366 Dance Workshop II
+SPAN 495 Directed Reading Course
+PAAS 405 Reproduction and Sexuality in the Asia-Pacific
+CENG 399 Design Project I
+BIOL 513 Topics in Developmental Biology
+BCMB 589 Special Topics in Biochemistry or Microbiology
+POLI 346 Canadian Foreign Policy
+ART 351 Special Studies
+GEOG 103 Introduction to Physical Geography
+EPHE 133 Strength Training
+MUS 319 Music and Culture of Cuba
+HINF 230 Organizational Behaviour and Change Management
+ANTH 452 Advanced Topics in Human Osteology
+EOS 313 Geological Oceanography
+HSTR 130 History of Science
+WRIT 204 Creative Nonfiction Workshop
+IED 373 EL TELNIWT and Indigenous Education
+ER 325 Ecosystems of British Columbia, Canada and the World
+PADR 589 Co-op Seminar: Introduction to Professional Practice
+EPHE 451 Leadership Issues in Fitness, Health and Wellness
+ART 334 Multi-Media Printmaking
+HSD 390 Directed Studies
+GMST 453 After-Images of the Holocaust in Text and Film
+EDCI 650 Doctoral Seminar in Early Childhood Education
+EDCI 574 Environmental Education Perspectives
+FRAN 417 Comparative Studies in Contemporary French and English Canadian Literature
+PHIL 424 Advanced Studies in Ancient Philosophy
+PSYC 335 Infant and Child Development
+ENGL 499 Graduating Essay in Honours
+ADMN 479 European Border Region Policies
+EPHE 578 Biomechanics
+HSTR 312 Tudor-Stuart England
+ES 693 PhD Candidacy Examination
+CS 200 Topics in Canadian Studies
+EOS 335 Isotopes in Natural Sciences
+CSC 299 Undergraduate Directed Project
+MBA 598 Research Report
+GMST 302 Advanced German II
+MUS 306 Sound Recording Techniques
+POLI 263 The Politics of Indigenous Peoples
+HSTR 131 History of Technology
+GRS 101 Greek Culture
+PHIL 592 Professional Development Practicum
+POLI 344 International Political Economy
+EOS 523 Seismology
+ELEC 609 Seminar
+MECH 559 Theoretical Kinematics
+WRIT 390 Directed Studies in Writing
+PSYC 385 Motivation, Emotion and Well-Being
+MEDI 350 Medieval Latin
+ECON 313 Intermediate Microeconomics II
+ER 334 Soil Conservation and Restoration
+CD 509 Developing Capacities to Lead and Manage in the Non-Profit Sector
+ITAL 204 Experiential Learning
+ENGR 003 Work Term 3
+LATI 102 Introductory Latin II
+SOCI 376 Quantitative Research Methods
+BIOL 470 Advanced Topics in Biology
+MBA 502 Professional Development
+EPHE 356 Principles of Facility Administration
+IS 320 LE,NONET Research Apprenticeship
+CHEM 523 Organometallic Chemistry
+EDCI 569 The Distributed, Blended and Open Classroom
+PAAS 331 Advanced Readings in Japanese I
+EDCI 549 Gender and Pedagogy
+ED-D 620 Educational Psychology: Doctoral Apprenticeship in Research
+ANTH 406 Political Anthropology
+CSC 426 Computational Geometry
+CSC 421 Introduction to Artificial Intelligence
+SDH 693 Comprehensive Exam
+PHIL 316 History of Analytic Philosophy
+HINF 130 Introduction to Health Information Technology
+EDCI 616 Advanced Reading Processes: Methods and Materials
+CSC 563 Data Compression
+WS 319 Topics in Economies, States and Global Issues
+PHIL 427 Advanced Studies in Early Modern Philosophy
+ECON 516 Cost-Benefit Analysis
+HSTR 447 Seminar in the History of Disease and Public Health
+SJS 200 Introduction to the Practice of Social Justice
+MATH 462 Topics in Number Theory
+MICR 699 PhD Dissertation: Microbiology
+HSTR 112 World History, 1900 - present
+ED-D 542 A Comprehensive Investigation of Servant Leadership
+PHIL 358 Theory of Perception
+IGOV 520 Indigenous Governance
+SDH 699 Dissertation
+EOS 410 Global Tectonics
+ANTH 337 Anthropology of Eurasia
+ELEC 564 Neural Networks and Their Implementation
+GMST 262 Fin-de-Si&egrave;cle Vienna (1890-1914)
+THEA 112 Introduction to the History and Language of the Theatre II
+ER 336 Communication and Dispute Resolution in Restoration of Natural Systems
+PAAS 301 Social Theory and Analysis in Pacific and Asian Area Studies
+STAT 450 Mathematical Statistics II
+TS 400 Technologies of the Future
+IGOV 590 Directed Readings
+ELEC 699 PhD Dissertation
+FRAN 390 Critical Methods
+MBA 525 Investments
+PHYS 428 Introductory Solid State Physics
+ED-D 570 Instruction and Technologies to Promote Self-Regulated Learning and Strategy Use
+ELEC 546 Mapping DSP Algorithms onto Processor Arrays
+AE 322 Digital Arts
+FRAN 290 Literary Texts II
+LATI 308 Cicero
+CSC 355 Digital Logic and Computer Organization
+BIOL 438 Nutrient Cycling and Prokaryotes
+SPAN 385 The Rise of Modern Latin American Literature, 1900-present
+CHEM 434 Structure-Property Relationships in Organic Chemistry
+PHIL 532 Topics in Inductive Logic
+PSYC 569 Special Topics in Lifespan Development
+GRS 603 Reading in Classical Archaeology
+POLI 606 Qualitative Research Methods
+ANTH 350 Primate Behavioural Ecology
+IB 218 International Field Study
+ED-D 597 Comprehensive Examination - Educational Psychology and Leadership Studies
+PADR 505 Policy-making and Policy Communities 
+MECH 575 Engineering Ceramics
+MBA 531 Taxation for Managers
+ED-D 614 University Teaching
+WRIT 491 Directed Studies in Writing
+WS 207 Indigenous Women in Canada
+HINF 310 Electronic Records and Decision Support Systems
+THEA 433 Directing for Production
+ASTR 500 Physics of Stars
+NURS 590 Directed Studies
+IET 420 Topics in Intercultural Education
+PHIL 521 Topics in Philosophy of Science
+ANTH 598 Comprehensive Examinations
+CSC 699 PhD Dissertation
+MUS 561 Seminar in Composition
+SOCW 548 Community Research Methods
+THEA 235 Introduction to Applied Theatre
+MECH 558 Fundamentals of Hybrid Vehicles
+MEDI 303 The Medieval World
+CENG 498 Honours Thesis
+MECH 510 Living Cells and their Molecules: Mechanics &amp; Thermodynamics
+AE 315 Curriculum Planning in Art Education
+NURS 503 Qualitative Approaches to Research in Nursing
+EPHE 580 Physiological Issues in Physical Activity and Health
+PAAS 369 Development and the State in Southeast Asia
+EDCI 693 Candidacy Examination - Curriculum and Instruction
+SPAN 275 Introductory Written Spanish
+LATI 481 Seminar in Latin literature
+ED-P 451 Eight-Week Practicum (Elementary Education)
+ELEC 410 Power Electronics
+ENGL 147 Great Moments in English Literature
+MATH 465 Topics in Topology
+PSYC 561 History and Theories in Lifespan Psychology
+PAAS 388 Modern Japanese Literature in Translation
+CHEM 458 Statistical Thermodynamics
+PSYC 588 Child and Adolescent Therapy
+ELEC 522 Antennas and Propagation
+CD 505 Community-Based Research: Foundations
+MATH 413 Applied Algebra
+FNGA 302 Communications in First Nations Governments
+ECON 406 Monetary Economics
+MECH 497 Green Vehicle Technology Project
+LING 601 Current Directions in Syntactic Theory
+PAAS 494 Special Topics in Translating Asian Languages
+MECH 411 Planning and Control of Production Systems
+EPHE 690 Directed Studies
+ANTH 335 Ethnicity in Global Perspective
+BIOL 549 Individual Study
+DHUM 504 Creation, Communication and Dissemination 
+EOS 425 Aqueous Chemistry in the Earth and Ocean
+ED-D 524 Facilitation of Counselling Practicum
+ECON 570 Advanced Topics in Industrial Organization
+THEA 349 Lighting for the Theatre II
+EPHE 156 The Science of Batman
+CHEM 464 Advanced Physical Chemistry Laboratory
+LING 110 Language and Thought
+WRIT 302 Special Study in Craft
+ART 241 Photography
+BME 335 Biosensors and Instrumentation
+SENG 299 Software Architecture and Design
+MATH 423 Graph Theory
+SOCW 525 Seminar in Child Welfare Policy and Practice in Indigenous Communities
+EDCI 531 Critical Discourses in Curriculum Studies
+THEA 325 Stage Movement I
+ES 500 Perspectives on Environmental Theories, Methods and Skills I
+COM 295 Canadian Business Studies
+LING 185 Indigenous Language Revitalization Practicum
+PAAS 393 Humanism in Japanese Cinema to the 1960s
+ADMN 509 Microeconomics for Policy Analysis
+CD 507 Development Finance
+EDCI 573 Mathematics Education for Exceptional Students
+ART 512 Second Year Painting
+PHYS 120 Physics I
+CHEM 476 Introductory Polymer Chemistry
+CSC 225 Algorithms and Data Structures I
+ENGL 476 Indigenous and Diasporic Literatures in Canada
+PHYS 535 Radiotherapy Physics II
+HSTR 308 The United States and Vietnam
+FRAN 431 Medieval Literature
+CHEM 222 Introduction to Inorganic Chemistry
+CENG 412 Human Factors in Engineering
+HSTR 306 Sex and Power in American History
+CHEM 560 Research Tools and Special Topics
+EOS 408 Marine Geology
+EOS 534 Ocean Mixing Processes
+PAAS 303 Fieldwork Methods for the Study of Asia-Pacific Communities
+PHYS 599 MSc Thesis
+GREE 304 Plato
+COM 410 Leadership Strategies
+EOS 120 The Dynamic Earth
+PSYC 361 Field Placement in Psychology
+HA 363 The Cinema and Modern Art Movements
+ADMN 621 Policy and Program Evaluation and Performance
+EOS 504 Selected Topics in Geochemistry
+GRS 506 Ancient Philosophy
+EPHE 574 Administration of Physical Education, Recreation and Sport
+IED 520 Program Design and Curriculum Development in Indigenous Language Revitalization
+EDCI 578 Science, Technology, Society and the Environment: Implications for Teaching
+ELEC 454 Engineering Components for Wireless Systems
+PHYS 539 Radiation Dosimetry
+ENGR 002 Work Term 2
+MATH 477 Stochastic Financial Modelling
+NRSC 587 Advanced Topics in Neuroscience
+ENGL 260 The Bible as Literature
+ED-D 405 Advanced Educational Exceptionality
+LING 505 Introduction to Phonology
+CSC 595 Research Skills
+SOCI 535 Political Sociology
+PAAS 499 Honours Thesis
+COM 402 Legal Issues in Management
+SENG 499 Design Project II
+PAAS 311 Effective Communication in Chinese
+ART 201 Drawing
+ED-P 490 Transformative Inquiry
+NURA 519 Nursing Leadership II
+EPHE 107 Gymnastics I
+CHEM 577 Computational Chemistry
+LING 182 Language Learning, Language Revitalization and Social Action
+WS 326 Gender, Nation and War
+CYC 350 Applying Law in Child Protection and Child and Youth Care Practice
+CSC 511 Information Visualization
+MUS 323 Forms and Genres in Music
+ADMN 411 Public Sector Project Management
+MUS 693 PhD Candidacy Examinations
+CSC 598 Master's Project
+FRAN 405 Varieties of French
+PORT 300 Reading Portuguese
+ANTH 408 Anthropology and Photography
+HSTR 330 Topics in Canadian History
+LING 482 Computational Linguistics: An Introduction
+PHIL 352 Metaphysics
+HA 693 Candidacy Exam
+GEOG 340 Geographies of the North American City
+IED 258 Indigenous Language Mentorship II
+IS 400 Special Topics Seminar in Indigenous Studies
+IGOV 570 Indigenous Women and Resistance
+ART 202 Drawing
+CSC 230 Introduction to Computer Architecture
+EDCI 356 Expanding Notions of Text
+MBA 590 Directed Study
+LAW 390 Major Paper Requirement
+LING 330 Linguistic Typology
+ECON 370 Labour Economics
+POLI 357 Canadian Environmental Politics
+CYCB 231 Administration of Child Care Facilities
+EDCI 617 Advanced Reading Processes: Research and Process
+BIOL 560 Annual Biology Graduate Symposium
+PAAS 403 Capitalist Economy and the Asia-Pacific
+PHIL 699 PhD Dissertation
+GEOG 211 Political and Economic Geography
+LAW 330 International Law
+EDCI 565 Research and Practice of Learning Design
+ANTH 611 Advanced Research Seminar in Inequality, Culture and Health
+SCIE 190 Individual Study
+ELEC 693 PhD Candidacy Examination
+SLST 100 Introduction to Russian Society and Culture
+MECH 481 Biomaterials and Tissue Engineering
+SOCW 512 Knowledge and Inquiry: Re-Theorizing Social Work
+ELEC 350 Communications Theory and Systems I
+ED-D 408 Promoting Prosocial Behaviour: Strategies and Management
+EPHE 312 Overview of Elementary or Middle School Physical Education
+ELEC 513 Data and Computer Communications
+SOCI 202 Social Problems, Regulation and Control
+PSYC 191 Psychology in Contemporary Society
+MECH 598 MEng Project Report
+ADMN 490 Directed Studies
+EDCI 575 Global Education
+EPHE 598 Project - Exercise Science, Physical and Health Education
+LING 699 PhD Dissertation
+ENGL 406 Special Studies in Professional Writing
+EOS 531 Physical Oceanography
+NURS 400 Academic Writing for Nurses
+PAAS 302 Literary and Cultural Theory in Pacific and Asian Languages and Literatures Studies
+HSTR 465 Seminar in East Asian History
+ECON 573 Economic Growth
+NRSC 699 PhD Dissertation
+FRAN 436 Renaissance Prose
+ECON 486 Topics in Econometrics
+MUS 209 Topics in Applied Music I
+HSTR 519 Topical Field in Special Topics
+CYC 240 Ethical Decision-Making in Child and Youth Care Practice
+HSTR 489 Seminar in Public History
+EPHE 583 Issues in Health Promotion and Wellness
+ELEC 420 Nanotechnology
+EDCI 410 Literacy in the Digital Age
+ENGL 410 Backgrounds to English Literary Traditions
+ENGL 599 MA Traditional or Alternative Thesis
+PHIL 239 Philosophy and Feminism
+WS 322 Gender, Law and Resistance in Historical Perspective
+WS 316 Gender and International Development
+EDCI 544 Advanced Course in Remedial Reading
+ED-D 525 Indigenous Healing and Spirituality
+NURS 621 Doctoral Seminar
+MATH 362 Elementary Number Theory
+MUS 490 Special Studies
+ES 270 Introductory Field Study
+ENGL 341 Old English Literature
+ITAL 485 Topics in Italian Film
+SOCW 546 Collaborative Conversations
+HLTH 300 Determinants of Health and Population Health Promotion
+GEOG 370 Hydrology
+SENG 462 Distributed Systems and the Internet
+SOCI 507 Statistical Analysis
+HA 358 Art of the Sultans and Emperors of India
+EPHE 577 Research Methods and Techniques in Coaching Studies
+ELEC 592 Career Development
+PSYC 567 Dysfunctional Development in Adulthood and Aging
+EDCI 614 Discourses in Educational Studies
+ER 326 Traditional Systems of Land and Resource Management
+MGB 536 International Research and Consulting Project
+MATH 523 Graph Theory
+MATH 560 Mathematical Models
+MRNE 437 Marine Population Ecology and Dynamics
+ED-D 617 Internship in Counselling Psychology
+GMST 480 Major Writers
+WRIT 406 Writing for Children and Young Adults
+ENGL 380 Victorian Fiction: Dickens to Eliot
+LAW 332 International Trade Law
+FNGA 303 Lands, Resources, and Economic Development
+SPAN 305 Advanced Topics in Hispanic Culture (in English)
+BCMB 298 Research Experience
+INTS 460 Foundations in International and Global Health and Human Development
+ED-P 497 Professional Seminar or Practicum
+EDCI 469 Teaching Oral French
+HSTR 352 The Soviet Union and its Successor States, 1917-2000
+DHUM 250 Digital Representation and Creation in a Humanities Context
+NURS 370 Consolidated Practice Experience III
+THEA 515 Seminar in Directing
+GMST 540 19<sup>th</sup>-Century Cultural Studies
+MUS 596 Lecture-Recital
+WRIT 330 Media and Culture
+STAT 599 Master's Thesis
+ART 395 Visual Structures in the Imaginative Realm I
+MUS 281 Chamber Music
+ECON 345 Applied Econometrics
+THEA 424 Speech in the Theatre IV
+CSC 110 Fundamentals of Programming I
+STAT 357 Statistical Methods in Quality Assurance
+CYC 251 An Introduction to Child and Youth Care for Human Services Diploma Students - Bridging Course One
+ED-P 250 Elementary Field Experience Seminar I
+THEA 252 Introduction to Design II
+EOS 427 Geophysics
+ECON 468 Financial Econometrics
+IA 400 Fine Arts in Education
+ED-D 501 Theory of Measurement
+LING 590 Directed Studies
+MGB 519 International Logistics and Supply Chain Management
+WRIT 304 Fiction Workshop
+STAT 454 Topics in Applied Statistics
+ELEC 514 Design and Analysis of Computer Communication Networks
+ES 480 Advanced Environmental Topics in Political Ecology
+LATI 306 Horace
+ES 370 Intermediate Field Study
+HA 582 Seminar in Indigenous Arts
+LAS 499 Honours Graduating Essay
+MRNE 480 Seminars and Papers in Marine Science
+CYC 582 Children's Survival, Health, and Development in Ecocultural Context
+CHEM 324 Transition Metal Chemistry
+EDCI 567 Interactive and Multimedia Learning Theories
+MUS 308 Popular Music and Society II
+SOCW 599 Thesis
+GRS 381 Greek and Roman Religion
+PSYC 568 Adolescence
+MEDS 325 Geriatric Pharmacology
+ANTH 349 Paleolithic Art
+STAT 260 Introduction to Probability and Statistics I
+HA 354 Medieval Islamic Art and Architecture
+SLST 462 Fairy Tale World
+STAT 256 Statistics for Life Sciences II
+FRAN 511 Studies in 18th-Century Literature
+ES 490 Directed Studies
+IED 599 Thesis
+INGH 455 Community Development and Capacity Building in First Nation Communities
+LING 458 Indigenous Language Mentorship IV
+THEA 490 Graduating Project
+CSC 525 Computational Biology Algorithms
+BUS 689 International Fellowship Incoming
+IED 372 Indigenous Epistemologies
+FA 360 Theoretical and Critical Issues in the Arts
+NURS 431 Nursing Practice VII: Engaging in Leadership
+WS 490 Directed Studies
+THEA 222 Acting II
+ECON 100 The Canadian Economy - Problems and Policies
+COM 490 Directed Studies in Management
+HA 571 Seminar in the Arts of China
+ELEC 621 Numerical Techniques in Electromagnetics
+ECON 458 Competition Economics II
+ED-D 487 Special Topics in Education - Educational Psychology and Leadership Studies
+PAAS 150 Premodern Chinese Culture
+HSTR 499 Honours Thesis
+ED-D 571 Advanced Assistive Technology in the Inclusive Classroom
+STAT 353 Applied Regression Analysis
+PHIL 428 Advanced Studies in Rationalism and the Enlightenment
+MBA 522 Business and the Internet
+SLST 362 The Soviet Union and Its Successor States, 1917-2000
+ITAL 378 From Mussolini to Berlusconi and Beyond
+SPAN 475 Landscapes of Desire: Visions of Self and Country
+SLST 450 Cold War on Film
+EPHE 120 Basketball
+THEA 324 Speech in the Theatre II
+POLI 514 Politics of the European Union
+ES 590 Directed Studies
+LING 576 Form-Focused Instruction and Second Language Development
+LING 574 Seminar in Applied Linguistics
+PSYC 581 Psychopathology: Childhood and Adolescence
+ED-D 503 Program Development and Evaluation
+DR 508 Dispute Resolution and Indigenous Peoples
+GEOG 420 Field Studies in Coastal Geomatics
+MECH 504 Mechanical Vibration
+EPHE 500 Research Seminar
+SPP 599 Thesis
+HINF 562 Procurement in Health Informatics
+ED-P 498 Seminar and Two-Week Practicum for BEd (Secondary Curriculum)
+SPP 550 Advanced Thesis Seminar
+WS 450 Practising Feminism in the Field
+MRNE 445 Biology of Marine Mammals
+NUED 574 Nurse Educator Practice II
+HA 349 Islam and the West: Artistic Contacts, 1500-1900
+CHEM 633 Topics in Advanced Organic Chemistry
+CENG 355 Microprocessor-Based Systems
+STAT 699 Dissertation
+NURS 475 Consolidated Practice Experience V
+ECON 437 Philosophical Problems in Contemporary Economics
+FNGA 308 Financial Management in First Nations Governments
+MGB 525 Developing Business in International Entrepreneurial Environments
+WRIT 336 Forms and Techniques in Long Creative Nonfiction
+MUS 480 Ensembles
+HLTH 351 Practice of Evaluation Research
+ENGR 141 Engineering Mechanics
+ES 381 Environmental Topics: Topics in Ethnoecology
+ENGL 459 Early Canadian Literature
+MICR 402 Virology
+CSC 560 Design and Analysis of Real-Time Systems
+BIOL 465 The Molecular Basis of Cancer
+BIOL 459 Human Microbial Diseases
+SLST 364 Eastern Europe Through Western Eyes
+HA 222 The Classical Tradition in Western Art
+GEOG 448 Urban Social Geographies
+BIOL 514 Advanced Zooplankton Ecology
+MECH 395 Heat Transfer
+MECH 565 Nonlinear Finite Elements
+SPP 531 Critical Approaches to Policy Analysis
+PHYS 425 Topics in Electronics Instrumentation
+POLI 410 Advanced Topics U.S. Politics
+ENGR 120 Design and Communication II
+ECON 456 Experimental Economics
+FORB 528 Advanced Plant Stress Physiology
+THEA 338 The Broadway Producer
+HSTR 338 European Culture in Crisis, 1580 - 1696
+MATH 415 History of Mathematics
+PHYS 699 PhD Dissertation
+EOS 431 Physical Oceanography
+GMST 450 Major Filmmakers
+PHSP 541 Social Justice and Public Health Nursing
+GEOG 306 Geography of Canada
+ECON 496 Directed Experiential Learning in Economics
+ANTH 309 Anthropology and Film and Video
+LAW 360 Legal Ethics and Professionalism
+BUS 690 Directed Studies for Business PhD Program
+CSC 429 Cryptography
+CYC 390 Directed Studies in Child and Youth Care
+SOCW 390 Directed Studies
+NURS 690 Directed Studies
+SOCI 391 Environmental Sociology Field School 
+WS 313 Gender, Globalization and the Love Industry
+CD 518 Citizen Participation and Democratic Governance
+HINF 450 Health Information System Design
+ART 104 Foundation Sculpture and Material Methods
+EPHE 443 Organization and Administration of Physical Education
+THEA 412 Modern Japanese Theatre
+SOCI 205 Sociological Perspectives on Family Relationships
+GS 504 International Visiting Research Internship
+ECON 693 PhD Candidacy Examinations
+MECH 512 Introductory Haptics
+ENTC 530 Entrepreneurship Set-up and Launch
+NURS 495 Nursing Practice Synthesis
+CH 572 Heritage Conservation Planning
+ANTH 511 Advanced Research Seminar in Inequality, Culture and Health
+HINF 280 Biomedical Fundamentals
+CENG 490 Directed Studies
+BIOL 453 Plant Stress Responses
+MBME 598 Major Project
+LING 372 Indigenous Languages of British Columbia
+CSC 565 Massive Data Sets, Scalability and Concurrency
+LAW 362 Colonial Legal History: Law, State, Society and Culture in Canada and Australia
+PHYS 432 Medical Physics
+LAW 377 International Arbitration
+ANTH 651 Advanced Research Seminar in Ecology and Evolution
+INTD 693 PhD Candidacy Examination
+EOS 435 Waves in the Ocean
+NUNP 545 Integrated Primary Health Care and Advanced Practice Nursing: II (Theory) (Childbearing/rearing Families and Children)
+ASTR 503 The Interstellar Medium
+CHEM 459 Materials Science
+GRS 314 Age of Nero
+ENGL 302 Writing for Government and the Public Sector
+ECON 510 Industrial Organization and Public Policy
+WRIT 598 Major Writing Portfolio
+ENGL 395 Special Topics in Cultural Studies
+PSYC 543 Behavioural Neuroanatomy
+EDCI 476 Organization and Instruction in French Immersion
+LAW 318 Remedies
+ENGL 464 The Bible and Literature in English
+ART 117 An Introduction to Observational Drawing
+PHIL 209 Philosophy and First Nations Thought
+ITAL 265 Introductory Written Italian
+AE 321 Art in the Intermediate Grades
+ANTH 355 AIDS in the World
+GMST 405 Reading German
+SOCI 693 PhD Candidacy Examinations
+ENGL 570 Studies in American Literature Pre-1914: Area Course
+ENGL 362 Special Studies in Renaissance Literature
+CSC 540 Numerical Analysis I
+FRAN 406 Translation Studies
+EPHE 245 Motor Learning
+SDH 690 Directed Studies
+MATH 492 Topics in Applied Mathematics
+INGH 521 Indigenous Public Health and Social Policy
+CSC 106 The Practice of Computer Science
+NRSC 600 Fundamentals of Neuroscience
+EPHE 561 Current Issues in Leisure Services
+ANTH 571 Advanced Research Seminar in Visual Anthropology and Materiality
+LING 358 Indigenous Language Mentorship III
+PSYC 521 Human Motivation
+MEST 300 Unity and Diversity in the Mediterranean (in English)
+CH 570 Heritage Conservation In Context
+ELEC 534 Applications of Digital Signal Processing Techniques
+CSC 422 Graph Algorithms
+ED-P 499 Professional Development Professional Studies
+PHSP 550 Critical Perspectives in Social Policy and Public Health
+PSYC 605 Practicum in the Teaching of Psychology
+POLI 434 The Politics of Class
+LING 186 Language in Indigenous Culture
+NURS 601 Philosophy in Nursing
+GRS 200 Greek and Roman Mythology
+PSYC 571 Developmental Psycholinguistics
+HINF 580 Health Informatics Graduate Seminar
+PSYC 505 Clinical Intervention Practicum
+GMST 381 The Roaring 20s
+NURS 345 Family Nursing
+THEA 335 Applied Theatre I
+ENGL 467 Seminar in Early 20<sup>th</sup>-Century Literary Theory
+MBA 524 Corporate Finance
+PHYS 130 Physics II
+GRS 379 Early Greek Thought
+IED 159 Indigenous Language I
+WS 203 Popular Culture
+GRS 461 Greece and the Near East
+NUNP 593 Evaluation Synthesis
+SOCI 545 Sociology of Health
+ITAL 305 A Taste of Italian Food as Culture (in English)
+EPHE 673 Doctoral Seminar
+CSC 445 Operations Research: Linear Programming
+SPP 516 Research Methodologies
+IED 531 Researching Community-Based Initiatives in Language Revitalization
+EPHE 454 Marketing for Health and Social Change
+PAAS 121 Introduction to Indonesian-Malay II
+MATH 342 Intermediate Ordinary Differential Equations
+ED-D 427 Collaboration and Consultation in Special Education
+THEA 361 Costume Design II
+PHYS 460 Colloquium
+PHYS 513 Topics in Theoretical Physics
+GREE 481 Seminar in Greek Literature
+FORB 560 Forest Biology Seminar
+HA 321 Late Antique and Early Christian History in Art
+MRNE 425 Ecological Adaptations of Seaweeds
+PHIL 535 Topics in Social and Political Philosophy
+HSTR 483 The City in History
+HSTR 517 Topical Field in Cultural History and Theory
+ECON 318 Health Economics
+ENGL 502 Teaching Literature and Composition
+PSYC 513 Quantitative Analysis
+RS 490 Directed Reading
+ELEC 562 Introduction to Parallel Computer Systems
+BIOL 541 The Molecular Basis of Mutation
+BIOC 409 Proteomics
+BME 481 Biomaterials and Tissue Engineering
+NURS 491 Nursing Practice VIII: Transitions
+MUS 207 Music, Science and Computers
+WS 219 Topics in Women&#146;s Studies
+PHIL 354 Philosophy of Language
+PHIL 420 Advanced Topics in Philosophy of Science
+RS 303 Religious Traditions I
+SOCI 103 Canadian Society
+PAAS 313 Intermediate Mandarin for Speakers of Other Chinese Languages
+THEA 150 Public Speaking
+PSYC 541 Research Design and Methods in Neuropsychology
+POLI 379 Topics in Contemporary European Politics
+ELEC 597 MEng (Mechatronics and Embedded Systems Option) Project
+ANTH 671 Advanced Research Seminar in Visual Anthropology and Materiality
+SENG 490 Directed Studies
+WRIT 318 Screenwriting Workshop
+MECH 699 PhD Dissertation
+CHEM 490 Directed Studies in Chemistry
+HSTR 328 Indigenous-Settler Relations in Canada
+HA 553 Seminar in the Arts of Safavi Iran
+CHEM 537 Biological and Medicinal Chemistry
+FA 315 Introduction to Canadian Cultural Policy
+HA 251 Introduction to the Arts of Islam
+THEA 523 Advanced Problems in Directing
+CSC 499 Honours Seminar and Project
+MECH 590 Directed Studies
+HLTH 425 Quantitative and Qualitative Methods
+COM 499 International Management and Environment
+ANTH 600 Professional Development in Anthropology
+SPP 519 Theory for Policy and Practice
+ENGL 471 Women and Literature
+ECON 501 Macroeconomic Analysis
+ELEC 426 Robotics
+PSYC 583 Professional and Ethical Issues in Clinical Psychology
+PHIL 204 Non-Western Philosophy
+ELEC 591 Professional Practice
+ASTR 250 Introduction to Astrophysics
+ENGL 303 Copy Editing
+WRIT 329 International Film Writing
+SOCI 281 Sociology of Gender
+NURS 514 Nursing Ethics for Leadership and Practice
+ELEC 583 Digital Video Processing
+LING 378 Contrastive Linguistics
+MBA 515 Applied Managerial Economics
+GRS 377 Ships and Seamanship in the Ancient World
+ANTH 318 Introduction to Ethnographic Methods
+ED-D 536 Philosophy of Leadership
+NURS 456 Nursing within Communities and Health Systems
+ELEC 220 Electrical Properties of Materials
+HSTR 132 Disease, Medicine and Society, 1500-present
+MEDI 200 Myths and Legends of the Middle Ages
+CIVE 400 Cross-disciplinary Capstone Design Project
+HA 499 Honours Seminar
+ART 320 Sculpture
+WRIT 401 Advanced Poetry Workshop
+PAAS 365 Society and Politics in Small Pacific States
+CYC 290 Directed Studies in Child and Youth Care
+ENGL 369 Milton: Major Poetry and Selected Prose
+MECH 544 Renewable Energy
+HSD 590 Directed Studies
+POLI 343 International Organization
+ECON 575 Advanced Topics in Econometrics
+ASTR 255 Introduction to Planetary Science
+STAT 261 Introduction to Probability and Statistics II
+THEA 421 Acting V
+ELEC 485 Data Analysis and Pattern Recognition
+ELEC 573 Engineering Design by Optimization II
+MEDS 301 Introduction to Pharmacology
+ADMN 580 Qualitative Evaluation Methods and Applications
+MEDI 499 Honours Graduating Essay
+CSC 497 Interdisciplinary Project
+ED-D 699 PhD Dissertation
+LING 595 Studies in Language and Gender
+PSYC 323 Advanced Biopsychology
+SOCI 306 Crime and Deviance
+SPAN 380 The Invention of Spanish America, 1492 to 1900
+WS 325 Women in Contemporary India
+ASTR 506 Stellar Populations
+COM 460 Managing in Diverse Environments
+GEOG 500 Geographical Research Approaches and Design
+SLST 203 Pronunciation and Colloquial Russian
+IED 487 Special Topics in Indigenous Education
+SPAN 204 Experiential Learning
+PSYC 320 Evolutionary Psychology
+MUS 352 Introduction to Film Scoring and Sound Design
+MUS 320 Topics in World Music
+CHEM 680 Reactivity, Dynamics and Spectroscopy Discussion
+HA 430 Seminar in the Arts of South and/or Southeast Asia
+EOS 340 Atmospheric Sciences
+BUS 695 Special Topics in Business Administration
+DHUM 505 Analysis, Teaching, and Administration 
+GREE 302 Greek Tragedy
+GEOG 457 Marine Protected Areas
+PSYC 342 Theories and Methods in Lifespan Developmental Psychology
+MBA 510 Marketing Management
+BIOL 530 Principles of Taxonomy
+EPHE 243 Foundations of Recreation and Leisure
+CYCB 150 Interpersonal Communications
+POLI 366 Canadian Political Economy
+FRAN 265 French Connections
+PSYC 579 Special Topics in Psychology
+MECH 240 Thermodynamics
+SPAN 590 Directed Studies
+ES 417 Women and Environments
+PHYS 313 Atomic and Molecular Physics
+THEA 392 Directed Studies in Theories of Acting
+ANTH 351 Human Origins
+EDCI 511 Research in Drawing and Studio Development
+MRNE 430 Marine Ecology
+LAW 321 Competition Law
+FRAN 120 Intensive French II
+CS 102 Introduction to Canadian Contemporary Issues
+IED 157 Learning to Learn: Supporting Indigenous Language Learning
+MECH 458 Mechatronics
+HINF 350 Human Aspects of Healthcare Information Systems
+PAAS 398 Asia-Pacific Experience Research Project
+ANTH 305 Anthropology of the Arts
+MECH 501 Introduction to Continuum Mechanics
+MUS 381 Chamber Music
+CS 101 Introduction to Canadian Culture
+FA 300 Interdisciplinary Studies
+IED 399 Special Studies in Indigenous Education
+PAAS 218 Intermediate Modern Chinese I
+MEDI 402 Cross-Cultural Encounters and Exchanges
+MECH 473 Ferrous and Non-Ferrous Metals
+MUS 109 Great Film Music
+CSC 575 Music Retrieval Techniques
+PHSP 501 Life Course Determinants I: Epidemiology and Biostatistics
+MUS 208 Popular Music and Society I
+ED-D 523 Internship in Counselling
+ED-D 598 Project - Educational Psychology and Leadership Studies
+LAW 352 Exchange Law Term
+FNGA 300 Skills Workshop 1: Program Orientation
+ENGL 582 Core Seminar in Literatures of the West Coast
+SLST 102 Beginning Russian II
+ECON 203 Intermediate Microeconomics I
+SOCI 343 Population Dynamics
+PAAS 501 Cultural, Linguistic and Literary Theories in Asia-Pacific Studies
+ED-D 499 Professional Development
+FNGA 307 Increasing Effectiveness and Managing Change in Social and Community Development
+ELEC 632 Adaptive Filters
+ELEC 407 Digital Signal Processing II
+EDCI 310 Learning to Listen to Music
+SOCW 451 Indigenous Policy Analysis in Social Work
+CHEM 467 Special Topics in Experimental Chemistry
+PHIL 252 Introduction to Metaphysics
+GMST 100 Introduction to Germanic Studies
+NURS 486 Mental Health Challenges in Later Life
+ENGL 425 Special Studies in the Literature of the United States
+CSC 522 Graph Algorithms
+PSYC 563 Adult Development and Aging
+BIOL 512 Advanced Benthos Ecology
+LAW 342 Immigration and Citizenship Law
+DR 511 Conflict Specialists as Leaders
+EDCI 602 Doctoral Seminar in Arts Education
+POLI 360 Canadian Federalism and Public Policy
+PSYC 550 Physiological Psychology: Introduction
+ELEC 568 System-on-Chip Engineering for Signal Processing
+BIOL 536 Human Molecular Genetics
+EDCI 461 Language for Higher Thought
+BIOL 437 DNA Repair, Mutation and Human Health
+ES 603 PhD Research Colloquium
+ASTR 502 Binary and Variable Stars
+MECH 599 MASc Thesis
+MECH 540 Transport Phenomena
+GREE 202 Introduction to Greek Literature
+IGOV 599 Thesis
+PSYC 333 Consumer Psychology
+HSTR 272 History of Africa
+EDCI 494 Directed Studies
+ELEC 572 Security, Privacy, and Data Analytics
+BIOL 526 Topics in Biological Ultrastructure
+IED 598 Major Project
+BIOL 461 Fisheries Ecology and Management
+HINF 535 Health Information Standards
+BIOL 555 Advanced Evolutionary Biology
+GMST 482 Romanticism
+CSC 520 Analysis of Algorithms
+WRIT 311 Structure in Stage Drama
+EDCI 448 Organization and Procedures for Instruction of English to Second Language Learners
+SLST 460 History and Memory in Eastern European Cultures
+ADMN 407 Managing Service Delivery
+NURA 518 APL Praxis II
+SOCI 382 Sociology of Sexuality
+SPAN 149 Beginners' Spanish
+ELEC 524 Theory and Design of Waveguide Components
+NUED 570 Engaging with Pedagogy: Teaching and Learning in Nursing Education
+PHIL 333 Philosophy and the Environment
+PHIL 211 Introduction to Existentialism
+ELEC 365 Applied Electronics and Electrical Machines
+HINF 551 Electronic Health Record
+GEOG 339 Disaster Management and Community Resilience
+SOCI 402 Current Issues in Social Theory
+PSYC 501 Practicum in Applied Psychology
+CSC 523 Randomized Algorithms
+HSTR 485 Seminar in Social and Cultural History
+ITAL 478 Topics in Modern Italian Literature
