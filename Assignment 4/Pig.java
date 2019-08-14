@@ -70,7 +70,7 @@ public class Pig{
 			if(diceNumber == 1){
 				computerScore = 0;
 				System.out.println("The computer rolled a 1,"
-						+ "ending its turn with a core of 0 this round.");
+						+ "ending its turn with a score of 0 this round.");
 				break;
 			}
 			else{
@@ -98,7 +98,7 @@ public class Pig{
 				computerScore+=computerTurn(rand);
 			}
 
-			System.out.println("The scores at the end of current round are: \nPlayer: " + playerScore + "\tComputer: " + compScore + "\n\n");
+			System.out.println("The scores at the end of current round are: \nPlayer: " + playerScore + "\tComputer: " + computerScore + "\n\n");
 			
 			if(playerScore >= 100) {
 				System.out.println("Congratulations, you win!!");
