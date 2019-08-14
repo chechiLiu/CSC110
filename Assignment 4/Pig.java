@@ -49,8 +49,9 @@ public class Pig{
 					System.out.println("Ending your turn with a score of " + playerScore);
 					break;
 				}
-				else
+				else }
 					System.out.println("Please enter yes or no.");
+				}
 			}	
 		}
 		else if(diceNumber == 1){
