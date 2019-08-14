@@ -70,7 +70,7 @@ public class Pig{
 			if(diceNumber == 1){
 				computerScore = 0;
 				System.out.println("The computer rolled a 1,"
-						+ "ending its turn with a score of 0 this round.");
+						+ " ending its turn with a score of 0 this round.");
 				break;
 			}
 			else{
