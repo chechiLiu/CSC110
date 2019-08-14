@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Pig{
 
 	public static void main(String[] args){
-		System.out.println("Welcome to the game of Pig. Begining the game...\n");
+		System.out.println("Welcome to the game of Pig. Beginning the game...\n");
 		gameLoop();
 	}
 	
