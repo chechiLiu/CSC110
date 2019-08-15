@@ -29,12 +29,9 @@ public class UvicOrganizer {
 				String x = console.next();
 				listCoursesInDept(x, courseList); //testlistCoursesInDept
 				
-				
-				System.out.print("\nWhat department are you interested in? ");
-				String dept = console.next();
 				System.out.print("\nWhat year courses are you interested in? ");
 				int year = console.nextInt();
-				listCoursesByDeptAndYear(dept, year, courseList); //testlistCoursesByDeptAndYear
+				listCoursesByDeptAndYear(x, year, courseList); //testlistCoursesByDeptAndYear
 				
 				
 				break;
