@@ -33,6 +33,8 @@ public class UvicOrganizer {
 				int year = console.nextInt();
 				listCoursesByDeptAndYear(x, year, courseList); //testlistCoursesByDeptAndYear
 				
+				System.out.print("\nPrinting the courses, sorted by their course number");
+				sortByNumber(courseList);
 				
 				break;
 			}catch(FileNotFoundException e){
@@ -105,6 +107,7 @@ public class UvicOrganizer {
 				}
 			}
 		}
+		printArray(arr);
 	}
 	
 }
