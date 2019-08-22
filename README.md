@@ -1,2 +1,2 @@
 # CSC110
-CSC 110: 201509 Fundamentals of Programming I
+CSC 110: Fundamentals of Programming I
