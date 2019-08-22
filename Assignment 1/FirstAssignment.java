@@ -1,4 +1,4 @@
-//Che-Chi Jack Liu
+//Che-Chi (Jack) Liu
 //V00850558
 
 public class FirstAssignment {
