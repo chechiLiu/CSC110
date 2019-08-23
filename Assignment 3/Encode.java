@@ -1,16 +1,24 @@
-//Che-Chi Jack Liu
+//Che-Chi (Jack) Liu
 //V00850558
 
 /*
-Read input from user using scanner 
-Change String to Assic number, vice versa
-Output the result by add key (number) to it.
+Reads a String and an Int from user using Scanner.
+Add the Int to each character’s ASCII value in the String.
+Output the result String.
+
+Ex) String: HELLO key: 2
+H + 2 = J
+E + 2 = G
+L + 2 = N
+L + 2 = N
+O + 2 = Q
+
+Output String: JGNNQ
 */
 
 import java.util.Scanner;
 
 public class Encode {
-
 	/**
 	 * Main method - this does not need to be changed at all.
 	 */
@@ -43,14 +51,16 @@ public class Encode {
 	 * @return			a new encoded String
 	 */
 	public static String encrypt(String message, int key) {
-		System.out.println("encoding: "+message+", with key: "+key);
+		System.out.println("Encoding: "+message+", with key: "+key);
 		String encodedMessage = "";
 		message = message.toUpperCase();
 		
-		for (int i = 0; i<message.length(); i++) {
+		for(int i = 0; i < message.length(); i++) {
 			char character = message.charAt(i);
-			int characterValue = (int) character;
+			int characterValue = character;
+			
 			characterValue = characterValue + key ;
+			
 			if (characterValue < 65) {
 				int lowerBound = 65 - characterValue;
 				characterValue = 91 - lowerBound;
@@ -58,12 +68,11 @@ public class Encode {
 			if (characterValue > 90) {
 				int upperBound = characterValue - 90;
 				characterValue = 64 + upperBound;
-			} 
+			}
 			
-		    char characterT = (char) characterValue;
-		    encodedMessage = encodedMessage+ characterT;
-		   
-		}	
+		    	char characterT = (char)characterValue;
+		    	encodedMessage = encodedMessage + characterT;
+		}
 		
 		return encodedMessage;
 	}
@@ -81,7 +90,5 @@ public class Encode {
 		
 		String result = encrypt(inputString, inputKey);
 		System.out.println("Encrypted result: "+result);
-
 	}
-	
 }
