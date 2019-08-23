@@ -1,3 +1,5 @@
+//Provided
+
 public class UvicCourse {
 	
 	//INSTANCE VARIABLES
