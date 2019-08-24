@@ -95,9 +95,10 @@ public class UvicOrganizer {
 	//Sorts an array of UvicCourse objects by their instance variable num.
 	public static void sortByNumber(UvicCourse[] arr) {
 		UvicCourse[] tempArr = arr;
+		
+		//Bubble Sort
 		boolean sorted = false;
     		UvicCourse temp;
-		
     		while(!sorted) {
        			sorted = true;
         		for(int i = 0; i < arr.length-1; i++) {
