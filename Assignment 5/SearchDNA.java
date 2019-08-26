@@ -43,12 +43,15 @@ public class SearchDNA {
 		System.out.println("Times "+seq+" was found including mutations: "+numTimes);
 	}
 	
+	//Prints out the contents of an array, with each element in the array on a new line.
 	public static void printArray(String[] arr) {
 		for(String s: arr) {
 			System.out.println(s);
 		}
 	}
 	
+	//Searches through an array of Strings to find the longest String, and returns it. 
+	//If two Strings have the same length, this method should return the String that was visited first when traversing through the array beginning at index 0.
 	public static String findLongest(String[] arr) {
 		int maxLength = 0;
 		String longestString = null;
@@ -63,6 +66,7 @@ public class SearchDNA {
 		return longestString;
 	}
 	
+	//Searches through an array of Strings and counts how many times a specific String is found in the array.
 	public static int findFrequency(String target, String[] arr) {
 		int freq = 0;
 		for(String s: arr) {
@@ -74,6 +78,7 @@ public class SearchDNA {
 		return freq;
 	}
 	
+	//Searches through an array of Strings and counts how many times a specific String is found in the array, ignoring mutations.
 	public static int findFreqWithMutations(String target, String[] arr) {
 		int freq = 0;
 		for(String s: arr) {
@@ -108,6 +113,7 @@ public class SearchDNA {
 		return freq;
    	}
 	
+	//Searches through an array of Strings and counts how many of the Strings in the array contain a mutation.
 	public static int countTotalMutations(String[] arr) {
         	int mutationCount = 0;
         	for(int i = 0; i < arr.length; i++) {
