@@ -17,7 +17,7 @@ Class 6: Parameters & Return values
 
 Class 7: Return values & if/else & Logical operators & Fencepost loops
 
-Class 8: for, while, and do/while loop
+Class 8: For, while, and do/while loop
 
 Class 9: The Random class & Arrays
 
