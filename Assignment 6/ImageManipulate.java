@@ -73,7 +73,7 @@ public class ImageManipulate {
         	}
 	}
 	
-	//Provided
+	//Method provided
 	//Reads an image file and returns a 2D array of integers.
 	public static int[][] readGrayscaleImage(String filename) {
         	int[][] result = null;
@@ -100,7 +100,7 @@ public class ImageManipulate {
         	return result;
     	}
 	
-	//Provided
+	//Method provided
 	//Reads a 2D array of integers and creates a grayscale image.
 	public static void writeGrayscaleImage(String filename, int[][] array) {
         	int width = array[0].length;
