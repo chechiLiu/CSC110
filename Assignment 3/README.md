@@ -5,9 +5,13 @@ Output the result String.
 Ex) String: HELLO key: 2
 
 H + 2 = J
+
 E + 2 = G
+
 L + 2 = N
+
 L + 2 = N
+
 O + 2 = Q
 
 Output String: JGNNQ
